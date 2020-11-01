@@ -30,7 +30,7 @@
 .mobile-nav-toggle {
   position: fixed;
   right: 15px;
-  top: 4.25vh;
+  top: 4.05vh;
   z-index: 9998;
   border: 0;
   background: none;
