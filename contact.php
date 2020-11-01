@@ -26,7 +26,22 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
   <link href="assets/css/team.css" rel="stylesheet">
-
+  <style type="text/css">
+.mobile-nav-toggle {
+  position: fixed;
+  right: 15px;
+  top: 5.75vh;
+  z-index: 9998;
+  border: 0;
+  background: none;
+  font-size: 26px;
+  transition: all 0.4s;
+  outline: none !important;
+  line-height: 1;
+  cursor: pointer;
+  text-align: right;
+}
+  </style>
 </head>
 
 <body>
