@@ -713,7 +713,7 @@ Tennis is an upcoming sport at our campus, with active development of courts und
               </div>
           </div>
       </div>
-      <div class="col-sm-6 col-sm-pull-6 g-promo-section__img-right--md g-promo-section__img-left--md g-bg-position--center g-height-400--xs g-height-100-percent--md js__fullwidth-img" style="background-image: url('./assets/img/sports/squash.jpg');">
+      <div class="col-sm-6 col-sm-pull-6 g-promo-section__img-right--md g-promo-section__img-left--md g-bg-position--center g-height-400--xs g-height-100-percent--md js__fullwidth-img" style="background-image: url('./assets/img/sports/boardgames.jpg');">
       </div>
   </div>
 
