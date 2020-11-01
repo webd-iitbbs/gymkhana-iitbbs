@@ -79,7 +79,7 @@
   <div class="team-main">
     <div class="container">
       <div class="row" >
-        <div class="col-md-3 offset-md-1" style="margin-left: 12.33vw;">
+        <div class=" col-12 col-md-3 offset-md-1" style="@media(min-width: 500px){ margin-left: 12.33vw;}">
           <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
             <div class="flip-team">
               <div class="front-A h-100">
@@ -211,7 +211,7 @@
   <div class="team-main">
     <div class="container">
       <div class="row">
-        <div class="col-md-3 offset-md-1" style="margin-left: 12.33vw;">
+        <div class="col-md-3 offset-md-1" style="@media(min-width: 500px){ margin-left: 12.33vw;}">
           <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
             <div class="flip-team">
               <div class="front-A h-100">
@@ -342,7 +342,7 @@
   <div class="team-main">
     <div class="container">
       <div class="row">
-        <div class="col-md-3 offset-md-1" style="margin-left: 12.33vw;">
+        <div class="col-md-3 offset-md-1" style="@media(min-width: 500px){ margin-left: 12.33vw;}">
           <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
             <div class="flip-team">
               <div class="front-A h-100">
@@ -469,7 +469,7 @@
   <div class="team-main">
     <div class="container">
       <div class="row">
-        <div class="col-md-3 offset-md-1" style="margin-left: 12.33vw;">
+        <div class="col-md-3 offset-md-1" style="@media(min-width: 500px){ margin-left: 12.33vw;}">
           <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
             <div class="flip-team">
               <div class="front-A h-100">

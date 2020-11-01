@@ -73,7 +73,7 @@
 
 
   <!-- Google Map for the campus -->
-<section id="map" style="margin-top: 15vh; width: 100%;">
+<section id="map" style="margin-top: 13vh; width: 100%;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3745.7637975034427!2d85.67401461474763!3d20.143899486484305!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a19ac2e52a057f5%3A0x564b6e83a7504a16!2sIIT%20BHUBANESWAR!5e0!3m2!1sen!2sin!4v1603576659450!5m2!1sen!2sin" width="1500" height="450" frameborder="0" style="border:0; width: 100%;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 </section>
 
