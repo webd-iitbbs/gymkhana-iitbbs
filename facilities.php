@@ -146,7 +146,7 @@
           </p>
         </div>
         <div class="col-md-5">
-          <img class="img-fluid d-block" src="assets/img/green.jpg" alt="about image" style="height:325px; margin: auto; margin-top: 10vh;">
+          <img class="img-fluid d-block" src="assets/img/facilities/green.jpg" alt="about image" style="height:325px; margin: auto; margin-top: 10vh;">
         </div>
       </div>
     </div>
@@ -164,7 +164,7 @@
             </p>
         </div>
         <div class="col-md-5 order-md-first">
-          <img class="img-fluid d-block" src="assets/img/sac.jpg" alt="about image" style="height:325px; margin: auto;">
+          <img class="img-fluid d-block" src="assets/img/facilities/sac.jpg" alt="about image" style="height:325px; margin: auto;">
         </div>
       </div>
     </div>
