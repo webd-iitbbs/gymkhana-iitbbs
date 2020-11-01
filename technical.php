@@ -287,10 +287,10 @@
           <div class="row">
               <div class="col-sm-5">
                   <div class="g-margin-b-30--xs">
-                      <h3 class="g-font-size-32--xs g-font-size-36--sm">Website and Design Society</h3>
+                      <h3 class="g-font-size-32--xs g-font-size-36--sm">Web and Design Society</h3>
                       <p>
 
-        The Website and Design Society of IIT Bhubaneswar has the credit of managing and designing all the websites of the institute and the fests. Though it majorly acts away from the limelight, it transforms its members into creative professionals by equipping them with the skill and art of creating websites and club designs. Members of the society actively conduct competitions for beginners and advanced web designers.
+        The Web and Design Society of IIT Bhubaneswar has the credit of managing and designing all the websites of the institute and the fests. Though it majorly acts away from the limelight, it transforms its members into creative professionals by equipping them with the skill and art of creating websites and club designs. Members of the society actively conduct competitions for beginners and advanced web designers.
 
         </p>
                   </div>
