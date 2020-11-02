@@ -88,7 +88,7 @@ try {
 
         <div class="carousel-inner" role="listbox">
 
-          <div class="carousel-item active" style="background-image: url(./assets/img/1.jpg)">
+          <div class="carousel-item active" style="background-image: url(./assets/img/2.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <h3> STUDENTS' GYMKHANA </h3>
@@ -97,7 +97,7 @@ try {
             </div>
           </div>
 
-          <div class="carousel-item" style="background-image: url(assets/img/2.jpg)">
+          <div class="carousel-item" style="background-image: url(assets/img/1.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <h3> STUDENTS' GYMKHANA </h3>
@@ -230,10 +230,10 @@ try {
 
         <div class="row">
 
-          <div class="col-12 col-md-4">
-            <img src="assets/img/president.jpg" style="display:block; margin:auto; max-width:100%; height:auto;">
-            <div class="g-bg-color--white g-box-shadow__dark-lightest-v2 g-text-center--xs g-padding-x-10--xs g-padding-y-10--xs">
-              <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2">
+          <div class="col-12 col-md-3">
+            <img src="assets/img/president.jpg" style="display:block; margin:auto; height:40vh;">
+            <div class="g-bg-color--white g-text-center--xs g-padding-x-10--xs g-padding-y-10--xs">
+              <p class="text-uppercase g-font-size-14--xs g-font-weight--500 g-color--primary g-letter-spacing--1">
               </p>
               <h3 class="g-font-size-22--xs g-letter-spacing--1"><a href="http://www.iitbbs.ac.in/profile.php/sankarsan/">Dr. Sankarsan Mohapatro</a></h3>
               <p>-President<br>
@@ -242,7 +242,7 @@ try {
           </div>  
 
 
-          <div class="col-12 col-md-8">
+          <div class="col-12 col-md-9">
 
             <p class="p" align="justify">Indian Institute of Technology, Bhubaneswar, from its humble start in 2008 has come down a long way in its strife to become one of the leading institutes of the country. Achieving this success in this short a journey would have been impossible without the contribution of the students and extensive support of the Students' Gymkhana, the students' representative body. Established in 2009, the Gymkhana has been efficiently working as an independent, self-governing and democratic organization that has bridged the gap between the students and the administration. From managing various societies catering to different interests and talents of the students, organizing various intra-college co-curricular, technical and sports events and competitions, holding informative workshops, celebrating the festivals at hostels with great fervor and organizing the institute's very own socio-cultural and technical fests, Alma Fiesta and Wissenaire respectively, the Students' Gymkhana has played a commendable role in nurturing the extra-curricular talents of the students, enhancing their personality and cultivating leadership qualities in them to equip them for a successful independent corporate and social life. It gives me immense pride and pleasure to be heading this organization, I congratulate all its members for their achievements so far and extend my support and good wishes to continue these appreciable efforts.</p>
 

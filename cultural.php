@@ -217,9 +217,9 @@
 
     <div class="g-bg-color--sky-light">
         <div class="g-promo-section">
-            <div class="container g-padding-y-80--xs g-padding-y-125--sm">
+            <div class="container-sp g-padding-y-80--xs g-padding-y-125--sm">
                 <div class="row">
-                    <div class="col-sm-5">
+                    <div class="col-sm-6" style="padding-right:  30px;">
                         <div class="g-margin-b-30--xs">
                             <h3 class="g-font-size-32--xs g-font-size-36--sm">Kalakriti, The Fine Arts Society</h3>
                             <p>
@@ -240,9 +240,9 @@
     </div>
     
     <div class="g-promo-section">
-      <div class="container g-padding-y-80--xs g-padding-y-125--sm">
+      <div class="container-sp g-padding-y-80--xs g-padding-y-125--sm">
           <div class="row">
-              <div class="col-sm-5 offset-sm-7">
+              <div class="col-sm-6 offset-sm-6"  style="padding-left:  30px;">
                   <div class="g-margin-b-30--xs">
                       <h3 class="g-font-size-32--xs g-font-size-36--sm">DGang, The Dance Society</h3>
                       <p>
@@ -261,9 +261,9 @@
 
     <div class="g-bg-color--sky-light">
         <div class="g-promo-section">
-            <div class="container g-padding-y-80--xs g-padding-y-125--sm">
+            <div class="container-sp g-padding-y-80--xs g-padding-y-125--sm">
                 <div class="row">
-                    <div class="col-sm-5">
+                    <div class="col-sm-6"  style="padding-right:  30px;">
                         <div class="g-margin-b-30--xs">
                             <h3 class="g-font-size-32--xs g-font-size-36--sm">The Fourth Wall, The Dramatics Society </h3>
                             <p>
@@ -284,7 +284,7 @@
     <div class="g-promo-section">
         <div class="container g-padding-y-80--xs g-padding-y-125--sm">
             <div class="row">
-                <div class="col-sm-5 offset-sm-7">
+                <div class="col-sm-5 offset-sm-7"  style="padding-left:  30px;">
                     <div class="g-margin-b-30--xs">
                         <h3 class="g-font-size-32--xs g-font-size-36--sm">Aaroh, The Music Society</h3>
                         <p>
@@ -303,9 +303,9 @@
 
     <div class="g-bg-color--sky-light">
         <div class="g-promo-section">
-            <div class="container g-padding-y-80--xs g-padding-y-125--sm">
+            <div class="container-sp g-padding-y-80--xs g-padding-y-125--sm">
                 <div class="row">
-                    <div class="col-sm-5">
+                    <div class="col-sm-6" style="padding-right:  30px;">
                         <div class="g-margin-b-30--xs">
                             <h3 class="g-font-size-32--xs g-font-size-36--sm">The Literary Society (Panacea, Abhivyakti and Quiz Club) </h3>
                             <p>
@@ -323,9 +323,9 @@ The ability to express your thoughts and ideas effectively is of paramount impor
     </div>
 
     <div class="g-promo-section">
-        <div class="container g-padding-y-80--xs g-padding-y-125--sm">
+        <div class="container-sp g-padding-y-80--xs g-padding-y-125--sm">
             <div class="row">
-                <div class="col-sm-5 offset-sm-7">
+                <div class="col-sm-6 offset-sm-6" style="padding-left:  30px;">
                     <div class="g-margin-b-30--xs">
                         <h3 class="g-font-size-32--xs g-font-size-36--sm">Cinewave, The Cinematics Society </h3>
                         <p>
@@ -344,9 +344,9 @@ The ability to express your thoughts and ideas effectively is of paramount impor
 
     <div class="g-bg-color--sky-light">
         <div class="g-promo-section">
-            <div class="container g-padding-y-80--xs g-padding-y-125--sm">
+            <div class="container-sp g-padding-y-80--xs g-padding-y-125--sm">
                 <div class="row">
-                    <div class="col-sm-5">
+                    <div class="col-sm-6" style="padding-right:  30px;">
                         <div class="g-margin-b-30--xs">
                             <h3 class="g-font-size-32--xs g-font-size-36--sm">Souls for Solace, The Social Welfare Society </h3>
                             <p>
@@ -365,9 +365,9 @@ The ability to express your thoughts and ideas effectively is of paramount impor
 
 
     <div class="g-promo-section">
-        <div class="container g-padding-y-80--xs g-padding-y-125--sm">
+        <div class="container-sp g-padding-y-80--xs g-padding-y-125--sm">
             <div class="row">
-                <div class="col-sm-5 offset-sm-7">
+                <div class="col-sm-6 offset-sm-6" style="padding-left:  30px;">
                     <div class="g-margin-b-30--xs">
                         <h3 class="g-font-size-32--xs g-font-size-36--sm">CLIX, The Photography Society</h3>
                         <p>

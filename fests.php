@@ -85,7 +85,7 @@
             </div>
           </div>
 
-          <div class="carousel-item" style="background-image: url(./assets/img/fests/w.jpg)">
+          <div class="carousel-item" style="background-image: url(./assets/img/fests/w_.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <h3> WISSENAIRE </h3>
@@ -98,6 +98,15 @@
             <div class="carousel-container">
               <div class="container">
                 <h3> ASHVAMEDHA </h3>
+                <h3> IIT BHUBANESWAR</h3>
+              </div>
+            </div>
+          </div>
+
+          <div class="carousel-item" style="background-image: url(./assets/img/fests/w.jpg)">
+            <div class="carousel-container">
+              <div class="container">
+                <h3> WISSENAIRE </h3>
                 <h3> IIT BHUBANESWAR</h3>
               </div>
             </div>
@@ -139,7 +148,7 @@
             </div>
           </div>
 
-          <div class="carousel-item" style="background-image: url(./assets/img/fests/w2.jpg)">
+          <div class="carousel-item" style="background-image: url(./assets/img/fests/w3.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <h3> WISSENAIRE </h3>
@@ -166,7 +175,7 @@
             </div>
           </div>
 
-          <div class="carousel-item" style="background-image: url(./assets/img/fests/w3.jpg)">
+          <div class="carousel-item" style="background-image: url(./assets/img/fests/w2.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <h3> WISSENAIRE </h3>

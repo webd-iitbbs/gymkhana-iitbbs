@@ -218,9 +218,9 @@
 
 <!-- Little Details -->
   <div class="g-promo-section">
-      <div class="container g-padding-y-80--xs g-padding-y-125--sm">
+      <div class="container-sp g-padding-y-80--xs g-padding-y-125--sm">
           <div class="row">
-              <div class="col-sm-5 offset-sm-7">
+              <div class="col-sm-6 offset-sm-6" style="padding-left:  30px;">
                   <div class="g-margin-b-30--xs">
                       <h3 class="g-font-size-32--xs g-font-size-36--sm">Robotics and Intelligent Systems Club (RISC)</h3>
                       <p>
@@ -240,9 +240,9 @@
   </div>
 
   <div class="g-promo-section">
-      <div class="container g-padding-y-80--xs g-padding-y-125--sm">
+      <div class="container-sp g-padding-y-80--xs g-padding-y-125--sm">
           <div class="row">
-              <div class="col-sm-5">
+              <div class="col-sm-6" style="padding-right:  30px;">
                   <div class="g-margin-b-30--xs">
                       <h3 class="g-font-size-32--xs g-font-size-36--sm">Nakshatra, The Astronomy Club</h3>
                       <p>
@@ -261,9 +261,9 @@
 
 
   <div class="g-promo-section">
-      <div class="container g-padding-y-80--xs g-padding-y-125--sm">
+      <div class="container-sp g-padding-y-80--xs g-padding-y-125--sm">
           <div class="row">
-              <div class="col-sm-5 offset-sm-7">
+              <div class="col-sm-6 offset-sm-6" style="padding-left:  30px;">
                   <div class="g-margin-b-30--xs">
                       <h3 class="g-font-size-32--xs g-font-size-36--sm">Neuromancers, The Programming Society</h3>
                       <p>
@@ -283,9 +283,9 @@
 
 
   <div class="g-promo-section">
-      <div class="container g-padding-y-80--xs g-padding-y-125--sm">
+      <div class="container-sp g-padding-y-80--xs g-padding-y-125--sm">
           <div class="row">
-              <div class="col-sm-5">
+              <div class="col-sm-6" style="padding-right: 30px;">
                   <div class="g-margin-b-30--xs">
                       <h3 class="g-font-size-32--xs g-font-size-36--sm">Web and Design Society</h3>
                       <p>
