@@ -291,18 +291,7 @@
       <div class="page-title text-center">
         <h1>Gallery</h1>
       </div>
-      <div class="row">
-        <div class="col-lg-12">
-          <ul id="portfolio-flters">
-            <li data-filter=".filter-cricket, .filter-football, .filter-badminton, .filter-volley, .filter-others" class="filter-active">All</li>
-            <li data-filter=".filter-cricket">Cricket</li>
-            <li data-filter=".filter-football">Football</li>
-            <li data-filter=".filter-badminton">Badminton</li>
-            <li data-filter=".filter-volley">Volleyball</li>
-            <li data-filter=".filter-others">Others</li>  
-          </ul>
-        </div>
-      </div>
+      
 
     <div class="row slider" id="portfolio-wrapper">
         <div class="col-lg-3 col-md-6 portfolio-item filter-cricket">
