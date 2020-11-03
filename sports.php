@@ -22,6 +22,8 @@
   <link href="assets/vendor/venobox/venobox.css" rel="stylesheet">
   <link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
   <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="assets/slick/slick.css"/>
+  <link rel="stylesheet" type="text/css" href="assets/slick/slick-theme.css"/>
 
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
@@ -302,7 +304,7 @@
         </div>
       </div>
 
-    <div class="row" id="portfolio-wrapper">
+    <div class="row slider" id="portfolio-wrapper">
         <div class="col-lg-3 col-md-6 portfolio-item filter-cricket">
           <a href="">
             <img src="assets/img/sports/cricket.jpg" alt="">
@@ -800,7 +802,19 @@ Our campus is coming up with a beautiful olympic size swimming pool. A swimming 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
   <script src="assets/js/custom.js"></script>
-
+  <script type="text/javascript" src="assets/slick/slick.min.js"></script>
+  <script type="text/javascript">
+  $(document).ready(function(){
+      $('.slider').slick({
+          dots:true,
+          arrows:true,
+      slidesToShow: 3,
+      slidesToScroll: 1,
+      autoplay: true,
+      autoplaySpeed: 2000,
+    });
+    });
+  </script>
 </body>
 
 </html>
