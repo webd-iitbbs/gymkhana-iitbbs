@@ -162,7 +162,7 @@
 
         <div class="carousel-inner" role="listbox">
 
-          <div class="carousel-item active" style="background-image: url(./assets/img/Soc-images/aaroh.jpg)">
+          <div class="carousel-item active" style="background-image: url(./assets/img/Soc-Images/aaroh.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <h3> SOCIO-CULTURAL COUNCIL </h3>
@@ -171,7 +171,7 @@
             </div>
           </div>
 
-          <div class="carousel-item" style="background-image: url(./assets/img/Soc-images/cinewave.jpg)">
+          <div class="carousel-item" style="background-image: url(./assets/img/Soc-Images/cinewave.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <h3> SOCIO-CULTURAL COUNCIL </h3>
@@ -180,7 +180,7 @@
             </div>
           </div>
 
-          <div class="carousel-item" style="background-image: url(./assets/img/Soc-images/dgang.jpg)">
+          <div class="carousel-item" style="background-image: url(./assets/img/Soc-Images/dgang.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <h3> SOCIO-CULTURAL COUNCIL </h3>
@@ -189,7 +189,7 @@
             </div>
           </div>
 
-          <div class="carousel-item" style="background-image: url(./assets/img/Soc-images/dramatics.jpg)">
+          <div class="carousel-item" style="background-image: url(./assets/img/Soc-Images/dramatics.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <h3> SOCIO-CULTURAL COUNCIL </h3>
@@ -241,7 +241,7 @@
 
 
 
-            <div class="col-sm-6 g-promo-section__img-right--md g-bg-position--center g-height-400--xs g-height-100-percent--md js__fullwidth-img" style="background-image: url(./assets/img/Soc-images/cult1.jpg);">
+            <div class="col-sm-6 g-promo-section__img-right--md g-bg-position--center g-height-400--xs g-height-100-percent--md js__fullwidth-img" style="background-image: url(./assets/img/Soc-Images/cult1.jpg);">
             </div>
         </div>
     </div>
@@ -268,7 +268,7 @@
               </div>
           </div>
       </div>
-      <div class="col-sm-6 col-sm-pull-6 g-promo-section__img-right--md g-promo-section__img-left--md g-bg-position--center g-height-400--xs g-height-100-percent--md js__fullwidth-img" style="background-image: url(./assets/img/Soc-images/cult2.jpg);">
+      <div class="col-sm-6 col-sm-pull-6 g-promo-section__img-right--md g-promo-section__img-left--md g-bg-position--center g-height-400--xs g-height-100-percent--md js__fullwidth-img" style="background-image: url(./assets/img/Soc-Images/cult2.jpg);">
       </div>
     </div>
 
@@ -295,7 +295,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-6 g-promo-section__img-right--md g-bg-position--center g-height-400--xs g-height-100-percent--md js__fullwidth-img" style="background-image: url(./assets/img/Soc-images/cult3.jpg);">
+            <div class="col-sm-6 g-promo-section__img-right--md g-bg-position--center g-height-400--xs g-height-100-percent--md js__fullwidth-img" style="background-image: url(./assets/img/Soc-Images/cult3.jpg);">
             </div>
         </div>
     </div>
@@ -321,7 +321,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-sm-6 col-sm-pull-6 g-promo-section__img-right--md g-promo-section__img-left--md g-bg-position--center g-height-400--xs g-height-100-percent--md js__fullwidth-img" style="background-image: url(./assets/img/Soc-images/cult4.jpg);">
+        <div class="col-sm-6 col-sm-pull-6 g-promo-section__img-right--md g-promo-section__img-left--md g-bg-position--center g-height-400--xs g-height-100-percent--md js__fullwidth-img" style="background-image: url(./assets/img/Soc-Images/cult4.jpg);">
         </div>
     </div>
 
@@ -356,7 +356,7 @@ The ability to express your thoughts and ideas effectively is of paramount impor
                     </div>
                 </div>
             </div>
-            <div class="col-sm-6 g-promo-section__img-right--md g-bg-position--center g-height-400--xs g-height-100-percent--md js__fullwidth-img" style="background-image: url(./assets/img/Soc-images/cult5.jpg);">
+            <div class="col-sm-6 g-promo-section__img-right--md g-bg-position--center g-height-400--xs g-height-100-percent--md js__fullwidth-img" style="background-image: url(./assets/img/Soc-Images/cult5.jpg);">
             </div>
         </div>
     </div>
@@ -383,7 +383,7 @@ The ability to express your thoughts and ideas effectively is of paramount impor
                 </div>
             </div>
         </div>
-        <div class="col-sm-6 col-sm-pull-6 g-promo-section__img-right--md g-promo-section__img-left--md g-bg-position--center g-height-400--xs g-height-100-percent--md js__fullwidth-img" style="background-image: url(./assets/img/Soc-images/cult6.jpg);">
+        <div class="col-sm-6 col-sm-pull-6 g-promo-section__img-right--md g-promo-section__img-left--md g-bg-position--center g-height-400--xs g-height-100-percent--md js__fullwidth-img" style="background-image: url(./assets/img/Soc-Images/cult6.jpg);">
         </div>
     </div>
 
@@ -409,7 +409,7 @@ The ability to express your thoughts and ideas effectively is of paramount impor
                     </div>
                 </div>
             </div>
-            <div class="col-sm-6 g-promo-section__img-right--md g-bg-position--center g-height-400--xs g-height-100-percent--md js__fullwidth-img" style="background-image: url(./assets/img/Soc-images/cult7.jpg);">
+            <div class="col-sm-6 g-promo-section__img-right--md g-bg-position--center g-height-400--xs g-height-100-percent--md js__fullwidth-img" style="background-image: url(./assets/img/Soc-Images/cult7.jpg);">
             </div>
         </div>
     </div>
@@ -436,7 +436,7 @@ The ability to express your thoughts and ideas effectively is of paramount impor
                 </div>
             </div>
         </div>
-        <div class="col-sm-6 col-sm-pull-6 g-promo-section__img-right--md g-promo-section__img-left--md g-bg-position--center g-height-400--xs g-height-100-percent--md js__fullwidth-img" style="background-image: url(./assets/img/Soc-images/cult8.jpg);">
+        <div class="col-sm-6 col-sm-pull-6 g-promo-section__img-right--md g-promo-section__img-left--md g-bg-position--center g-height-400--xs g-height-100-percent--md js__fullwidth-img" style="background-image: url(./assets/img/Soc-Images/cult8.jpg);">
         </div>
     </div>
 

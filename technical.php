@@ -163,7 +163,7 @@
 
         <div class="carousel-inner" role="listbox">
 
-          <div class="carousel-item active" style="background-image: url(./assets/img/Soc-images/technical.jpg)">
+          <div class="carousel-item active" style="background-image: url(./assets/img/Soc-Images/technical.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <h3> TECHNICAL COUNCIL </h3>
@@ -172,7 +172,7 @@
             </div>
           </div>
 
-          <div class="carousel-item" style="background-image: url(./assets/img/Soc-images/risc.jpg)">
+          <div class="carousel-item" style="background-image: url(./assets/img/Soc-Images/risc.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <h3> TECHNICAL COUNCIL </h3>
@@ -181,7 +181,7 @@
             </div>
           </div>
 
-          <div class="carousel-item" style="background-image: url(./assets/img/Soc-images/neuromancers.jpeg)">
+          <div class="carousel-item" style="background-image: url(./assets/img/Soc-Images/neuromancers.jpeg)">
             <div class="carousel-container">
               <div class="container">
                 <h3> TECHNICAL COUNCIL </h3>
@@ -190,7 +190,7 @@
             </div>
           </div>
 
-          <div class="carousel-item" style="background-image: url(./assets/img/Soc-images/nakshatra.jpg)">
+          <div class="carousel-item" style="background-image: url(./assets/img/Soc-Images/nakshatra.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <h3> TECHNICAL COUNCIL </h3>
@@ -241,7 +241,7 @@
               </div>
           </div>
       </div>
-      <div class="col-sm-6 col-sm-pull-6 g-promo-section__img-right--md g-promo-section__img-left--md g-bg-position--center g-height-400--xs g-height-100-percent--md js__fullwidth-img" style="background-image: url(./assets/img/Soc-images/technical1.jpg);">
+      <div class="col-sm-6 col-sm-pull-6 g-promo-section__img-right--md g-promo-section__img-left--md g-bg-position--center g-height-400--xs g-height-100-percent--md js__fullwidth-img" style="background-image: url(./assets/img/Soc-Images/technical1.jpg);">
       </div>
   </div>
 
@@ -267,7 +267,7 @@
               </div>
           </div>
       </div>
-      <div class="col-sm-6 g-promo-section__img-right--md g-bg-position--center g-height-400--xs g-height-100-percent--md js__fullwidth-img" style="background-image: url(./assets/img/Soc-images/technical2.jpg);">
+      <div class="col-sm-6 g-promo-section__img-right--md g-bg-position--center g-height-400--xs g-height-100-percent--md js__fullwidth-img" style="background-image: url(./assets/img/Soc-Images/technical2.jpg);">
       </div>
   </div>
 
@@ -295,7 +295,7 @@
               </div>
           </div>
       </div>
-      <div class="col-sm-6 col-sm-pull-6 g-promo-section__img-right--md g-promo-section__img-left--md g-bg-position--center g-height-400--xs g-height-100-percent--md js__fullwidth-img" style="background-image: url(./assets/img/Soc-images/technical3.jpeg);">
+      <div class="col-sm-6 col-sm-pull-6 g-promo-section__img-right--md g-promo-section__img-left--md g-bg-position--center g-height-400--xs g-height-100-percent--md js__fullwidth-img" style="background-image: url(./assets/img/Soc-Images/technical3.jpeg);">
       </div>
   </div>
 
@@ -322,7 +322,7 @@
               </div>
           </div>
       </div>
-      <div class="col-sm-6 g-promo-section__img-right--md g-bg-position--center g-height-400--xs g-height-100-percent--md js__fullwidth-img" style="background-image: url(./assets/img/Soc-images/technical4.jpg);">
+      <div class="col-sm-6 g-promo-section__img-right--md g-bg-position--center g-height-400--xs g-height-100-percent--md js__fullwidth-img" style="background-image: url(./assets/img/Soc-Images/technical4.jpg);">
       </div>
   </div>
 
