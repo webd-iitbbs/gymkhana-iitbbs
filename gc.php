@@ -91,7 +91,7 @@
             </div>
           </div>
 
-          <div class="carousel-item" style="background-image: url(assets/img/meets/IMG_7575.jpg)">
+          <div class="carousel-item" style="background-image: url(assets/img/meets/IMG_7575.JPG)">
             <div class="carousel-container">
               <div class="container">
                 <h3> General Championship </h3>
@@ -99,7 +99,7 @@
             </div>
           </div>
 
-          <div class="carousel-item" style="background-image: url(assets/img/meets/IMG_7634.jpg)">
+          <div class="carousel-item" style="background-image: url(assets/img/meets/IMG_7634.JPG)">
             <div class="carousel-container">
               <div class="container">
                 <h3> General Championship </h3>

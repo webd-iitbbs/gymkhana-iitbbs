@@ -295,7 +295,7 @@
 
     <div class="row slider" id="portfolio-wrapper">
         <div class="col-lg-3 col-md-6 portfolio-item filter-cricket">
-          <a href="">
+          <a href="assets/img/sports/cricket">
             <img src="assets/img/sports/cricket.jpg" alt="">
             <div class="details">
               <h4>Cricket</h4>
@@ -307,7 +307,7 @@
        
     
       <div class="col-lg-3 col-md-6 portfolio-item filter-football">
-        <a href="images/trips/6.jpg">
+        <a href="assets/img/sports/football (1).jpg">
           <img src="assets/img/sports/football (1).jpg" alt="">
           <div class="details">
             <h4>Football</h4>
@@ -317,7 +317,7 @@
       </div>
 
       <div class="col-lg-3 col-md-6 portfolio-item filter-badminton">
-          <a href="images/trips/6.jpg">
+          <a href="assets/img/sports/badminton(1).jpg">
             <img src="assets/img/sports/badminton(1).jpg" alt="">
             <div class="details">
               <h4>Badminton</h4>
@@ -328,7 +328,7 @@
 
 
       <div class="col-lg-3 col-md-6 portfolio-item filter-others">
-        <a href="images/trips/6.jpg">
+        <a href="assets/img/sports/basky.jpg">
           <img src="assets/img/sports/basky.jpg" alt="">
           <div class="details">
             <h4>Basketball</h4>
@@ -338,7 +338,7 @@
       </div>
 
       <div class="col-lg-3 col-md-6 portfolio-item filter-others">
-        <a href="images/trips/6.jpg">
+        <a href="assets/img/sports/tennis.jpg">
           <img src="assets/img/sports/tennis.jpg" alt="">
           <div class="details">
             <h4>Tennis</h4>
@@ -348,7 +348,7 @@
       </div>
 
       <div class="col-lg-3 col-md-6 portfolio-item filter-volley">
-        <a href="images/trips/6.jpg">
+        <a href="assets/img/sports/volleyball (1).jpg">
           <img src="assets/img/sports/volleyball (1).jpg" alt="">
           <div class="details">
             <h4>Volleyball</h4>
@@ -358,7 +358,7 @@
       </div>
     
       <div class="col-lg-3 col-md-6 portfolio-item filter-others">
-        <a href="images/trips/6.jpg">
+        <a href="assets/img/sports/basky1.jpg">
           <img src="assets/img/sports/basky1.jpg" alt="">
           <div class="details">
             <h4>Basketball</h4>
@@ -368,7 +368,7 @@
       </div>
 
       <div class="col-lg-3 col-md-6 portfolio-item filter-others">
-        <a href="images/trips/6.jpg">
+        <a href="assets/img/sports/tt.jpg">
           <img src="assets/img/sports/tt.jpg" alt="">
           <div class="details">
             <h4>Table Tennis</h4>
@@ -378,7 +378,7 @@
       </div>
 
       <div class="col-lg-3 col-md-6 portfolio-item filter-volley">
-        <a href="images/trips/6.jpg">
+        <a href="assets/img/sports/volleyball (2).jpg">
           <img src="assets/img/sports/volleyball (2).jpg" alt="">
           <div class="details">
             <h4>Volleyball</h4>
@@ -388,7 +388,7 @@
       </div>
 
       <div class="col-lg-3 col-md-6 portfolio-item filter-cricket">
-        <a href="images/trips/6.jpg">
+        <a href="assets/img/sports/cricket (2).jpg">
           <img src="assets/img/sports/cricket (2).jpg" alt="">
           <div class="details">
             <h4>Cricket</h4>
@@ -398,7 +398,7 @@
       </div>
 
       <div class="col-lg-3 col-md-6 portfolio-item filter-football">
-        <a href="images/trips/6.jpg">
+        <a href="assets/img/sports/football (2).jpg">
           <img src="assets/img/sports/football (2).jpg" alt="">
           <div class="details">
             <h4>Football</h4>
@@ -408,7 +408,7 @@
       </div>
 
       <div class="col-lg-3 col-md-6 portfolio-item filter-others">
-        <a href="images/trips/6.jpg">
+        <a href="assets/img/sports/tt3.jpg">
           <img src="assets/img/sports/tt3.jpg" alt="">
           <div class="details">
             <h4>Table Tennis</h4>
@@ -418,7 +418,7 @@
       </div>
 
       <div class="col-lg-3 col-md-6 portfolio-item filter-cricket">
-        <a href="images/trips/6.jpg">
+        <a href="assets/img/sports/cricket (5).jpg">
           <img src="assets/img/sports/cricket (5).jpg" alt="">
           <div class="details">
             <h4>Cricket</h4>
@@ -428,7 +428,7 @@
       </div>
 
       <div class="col-lg-3 col-md-6 portfolio-item filter-football">
-        <a href="images/trips/6.jpg">
+        <a href="assets/img/sports/football (5).jpg">
           <img src="assets/img/sports/football (5).jpg" alt="">
           <div class="details">
             <h4>Football</h4>
@@ -438,7 +438,7 @@
       </div>
 
       <div class="col-lg-3 col-md-6 portfolio-item filter-others">
-        <a href="images/trips/6.jpg">
+        <a href="assets/img/sports/squash.jpg">
           <img src="assets/img/sports/squash.jpg" alt="">
           <div class="details">
             <h4>Squash</h4>
@@ -448,7 +448,7 @@
       </div>
 
       <div class="col-lg-3 col-md-6 portfolio-item filter-badminton">
-        <a href="images/trips/6.jpg">
+        <a href="assets/img/sports/badminton(3).jpg">
           <img src="assets/img/sports/badminton(3).jpg" alt="">
           <div class="details">
             <h4>Badminton</h4>
@@ -458,7 +458,7 @@
       </div>
 
       <div class="col-lg-3 col-md-6 portfolio-item filter-volley">
-        <a href="images/trips/6.jpg">
+        <a href="assets/img/sports/volleyball (5).jpg">
           <img src="assets/img/sports/volleyball (5).jpg" alt="">
           <div class="details">
             <h4>Volleyball</h4>
@@ -468,7 +468,7 @@
       </div>
 
       <div class="col-lg-3 col-md-6 portfolio-item filter-football">
-        <a href="images/trips/6.jpg">
+        <a href="assets/img/sports/football (7).jpg">
           <img src="assets/img/sports/football (7).jpg" alt="">
           <div class="details">
             <h4>Football</h4>
@@ -478,7 +478,7 @@
       </div>
 
       <div class="col-lg-3 col-md-6 portfolio-item filter-badminton">
-        <a href="images/trips/6.jpg">
+        <a href="assets/img/sports/badminton(2).jpg">
           <img src="assets/img/sports/badminton(2).jpg" alt="">
           <div class="details">
             <h4>Badminton</h4>

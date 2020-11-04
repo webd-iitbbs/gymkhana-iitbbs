@@ -76,7 +76,7 @@
 
         <div class="carousel-inner" role="listbox">
 
-          <div class="carousel-item active" style="background-image: url('./assets/img/meets/sports (1).jpg')">
+          <div class="carousel-item active" style="background-image: url('./assets/img/meets/sports (1).JPG')">
             <div class="carousel-container">
               <div class="container">
                 <h3> Inter IIT Sports Meet </h3>
@@ -84,7 +84,7 @@
             </div>
           </div>
 
-          <div class="carousel-item " style="background-image: url('./assets/img/meets/sports (2).jpg')">
+          <div class="carousel-item " style="background-image: url('./assets/img/meets/sports (2).JPG')">
             <div class="carousel-container">
               <div class="container">
                 <h3> Inter IIT Sports Meet </h3>
@@ -92,7 +92,7 @@
             </div>
           </div>
 
-          <div class="carousel-item " style="background-image: url('./assets/img/meets/sports (3).jpg')">
+          <div class="carousel-item " style="background-image: url('./assets/img/meets/sports (3).JPG')">
             <div class="carousel-container">
               <div class="container">
                 <h3> Inter IIT Sports Meet </h3>
@@ -100,7 +100,7 @@
             </div>
           </div>
 
-          <div class="carousel-item " style="background-image: url('./assets/img/meets/sports (4).jpg')">
+          <div class="carousel-item " style="background-image: url('./assets/img/meets/sports (4).JPG')">
             <div class="carousel-container">
               <div class="container">
                 <h3> Inter IIT Sports Meet </h3>

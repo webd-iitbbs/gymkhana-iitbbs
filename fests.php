@@ -85,7 +85,7 @@
             </div>
           </div>
 
-          <div class="carousel-item" style="background-image: url(./assets/img/fests/w_.jpg)">
+          <div class="carousel-item" style="background-image: url(./assets/img/fests/w_.JPG)">
             <div class="carousel-container">
               <div class="container">
                 <h3> WISSENAIRE </h3>
@@ -94,7 +94,7 @@
             </div>
           </div>
 
-          <div class="carousel-item" style="background-image: url(./assets/img/fests/as1.jpg)">
+          <div class="carousel-item" style="background-image: url(./assets/img/fests/as1.JPG)">
             <div class="carousel-container">
               <div class="container">
                 <h3> ASHVAMEDHA </h3>
@@ -148,7 +148,7 @@
             </div>
           </div>
 
-          <div class="carousel-item" style="background-image: url(./assets/img/fests/w3.jpg)">
+          <div class="carousel-item" style="background-image: url(./assets/img/fests/w3.JPG)">
             <div class="carousel-container">
               <div class="container">
                 <h3> WISSENAIRE </h3>
@@ -238,7 +238,7 @@
             </div>
           </div>
 
-          <div class="carousel-item" style="background-image: url(./assets/img/fests/as6.jpg)">
+          <div class="carousel-item" style="background-image: url(./assets/img/fests/as6.JPG)">
             <div class="carousel-container">
               <div class="container">
                 <h3> ASHVAMEDHA </h3>

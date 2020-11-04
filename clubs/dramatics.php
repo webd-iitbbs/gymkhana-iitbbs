@@ -106,7 +106,7 @@ try {
                <br>
                <br>
                 
-                <img src="../assets/img/Soc-Images/dramatics(1).jpg" class="img-fluid"  width="500px" height="auto" alt="">
+                <img src="../assets/img/Soc-Images/dramatics(1).JPG" class="img-fluid"  width="500px" height="auto" alt="">
              
                 <br>
     
