@@ -106,8 +106,8 @@ try {
             <div class="col-lg-6 text-center cen ">
                 <br>
                 <br>
-                <img src="../assets/img/Soc-Images/aaroh(1).jpg" width="500px" height="auto" alt="">
-                
+                <img src="../assets/img/Soc-Images/aaroh(1).jpg" width="500px" height="auto" class="img-fluid" alt="">
+                <br>
                 
     
             </div>

@@ -495,7 +495,7 @@
   <div class="g-promo-section">
       <div class="container-sp g-padding-y-80--xs g-padding-y-125--sm">
           <div class="row">
-              <div class="col-sm-6 offset-sm-6"  style="padding-left:  30px;">
+              <div class="col-sm-6 offset-sm-6"  style="padding:  30px;">
                   <div class="g-margin-b-30--xs">
                       <h3 class="g-font-size-32--xs g-font-size-36--sm">FOOTBALL</h3>
                       <p>
@@ -514,7 +514,7 @@ Our campus has a well equipped football ground. Also, this year there will be ad
   <div class="g-promo-section">
       <div class="container-sp g-padding-y-80--xs g-padding-y-125--sm">
           <div class="row">
-              <div class="col-sm-6" style="padding-right:  30px;">
+              <div class="col-sm-6" style="padding:  30px;">
                   <div class="g-margin-b-30--xs">
                       <h3 class="g-font-size-32--xs g-font-size-36--sm">CRICKET</h3>
                       <p>
@@ -532,7 +532,7 @@ In India cricket is a religion which unites the whole nation. And here at IIT Bh
   <div class="g-promo-section">
       <div class="container-sp g-padding-y-80--xs g-padding-y-125--sm">
           <div class="row">
-              <div class="col-sm-6 offset-sm-6" style="padding-left:  30px;">
+              <div class="col-sm-6 offset-sm-6" style="padding:  30px;">
                   <div class="g-margin-b-30--xs">
                       <h3 class="g-font-size-32--xs g-font-size-36--sm">BADMINTON</h3>
                       <p>
@@ -552,7 +552,7 @@ In India cricket is a religion which unites the whole nation. And here at IIT Bh
   <div class="g-promo-section">
       <div class="container-sp g-padding-y-80--xs g-padding-y-125--sm">
           <div class="row">
-              <div class="col-sm-6" style="padding-right:  30px;">
+              <div class="col-sm-6" style="padding:  30px;">
                   <div class="g-margin-b-30--xs">
                       <h3 class="g-font-size-32--xs g-font-size-36--sm">ATHLETICS</h3>
                       <p>
@@ -570,7 +570,7 @@ A good athlete is a one with best physique so it gives you motivation to be a pa
   <div class="g-promo-section">
       <div class="container-sp g-padding-y-80--xs g-padding-y-125--sm">
           <div class="row">
-              <div class="col-sm-6 offset-sm-6" style="padding-left:  30px;">
+              <div class="col-sm-6 offset-sm-6" style="padding:  30px;">
                   <div class="g-margin-b-30--xs">
                       <h3 class="g-font-size-32--xs g-font-size-36--sm">VOLLEYBALL</h3>
                       <p>
@@ -599,7 +599,7 @@ club players during their time at the campus and beyond.
   <div class="g-promo-section">
       <div class="container-sp g-padding-y-80--xs g-padding-y-125--sm">
           <div class="row">
-              <div class="col-sm-6" style="padding-right:  30px;">
+              <div class="col-sm-6" style="padding:  30px;">
                   <div class="g-margin-b-30--xs">
                       <h3 class="g-font-size-32--xs g-font-size-36--sm">BASKETBALL</h3>
                       <p>
@@ -617,7 +617,7 @@ As we all know that we have    well equipped basketball courts and five more new
     <div class="g-promo-section">
       <div class="container-sp g-padding-y-80--xs g-padding-y-125--sm">
           <div class="row">
-              <div class="col-sm-6 offset-sm-6" style="padding-left:  30px;">
+              <div class="col-sm-6 offset-sm-6" style="padding:  30px;">
                   <div class="g-margin-b-30--xs">
                       <h3 class="g-font-size-32--xs g-font-size-36--sm">HOCKEY</h3>
                       <p>
@@ -637,7 +637,7 @@ As we all know that we have    well equipped basketball courts and five more new
   <div class="g-promo-section">
       <div class="container-sp g-padding-y-80--xs g-padding-y-125--sm">
           <div class="row">
-              <div class="col-sm-6" style="padding-right:  30px;">
+              <div class="col-sm-6" style="padding:  30px;">
                   <div class="g-margin-b-30--xs">
                       <h3 class="g-font-size-32--xs g-font-size-36--sm">TABLE TENNIS</h3>
                       <p>
@@ -655,7 +655,7 @@ Have you ever imagined playing a sport with extraordinary equipment? Here our ca
   <div class="g-promo-section">
       <div class="container-sp g-padding-y-80--xs g-padding-y-125--sm">
           <div class="row">
-              <div class="col-sm-6 offset-sm-6" style="padding-left:  30px;">
+              <div class="col-sm-6 offset-sm-6" style="padding:  30px;">
                   <div class="g-margin-b-30--xs">
                       <h3 class="g-font-size-32--xs g-font-size-36--sm">SQUASH</h3>
                       <p>
@@ -675,7 +675,7 @@ Have you ever imagined playing a sport with extraordinary equipment? Here our ca
   <div class="g-promo-section">
       <div class="container-sp g-padding-y-80--xs g-padding-y-125--sm">
           <div class="row">
-              <div class="col-sm-6" style="padding-right:  30px;">
+              <div class="col-sm-6" style="padding:  30px;">
                   <div class="g-margin-b-30--xs">
                       <h3 class="g-font-size-32--xs g-font-size-36--sm">TENNIS</h3>
                       <p>
@@ -693,7 +693,7 @@ Tennis is an upcoming sport at our campus, with active development of courts und
   <div class="g-promo-section">
       <div class="container-sp g-padding-y-80--xs g-padding-y-125--sm">
           <div class="row">
-              <div class="col-sm-6 offset-sm-6" style="padding-left:  30px;">
+              <div class="col-sm-6 offset-sm-6" style="padding:  30px;">
                   <div class="g-margin-b-30--xs">
                       <h3 class="g-font-size-32--xs g-font-size-36--sm">BOARD GAMES</h3>
                       <p>
@@ -711,7 +711,7 @@ Tennis is an upcoming sport at our campus, with active development of courts und
   <div class="g-promo-section">
       <div class="container-sp g-padding-y-80--xs g-padding-y-125--sm">
           <div class="row">
-              <div class="col-sm-6" style="padding-right:  30px;">
+              <div class="col-sm-6" style="padding:  30px;">
                   <div class="g-margin-b-30--xs">
                       <h3 class="g-font-size-32--xs g-font-size-36--sm">AQUATICS</h3>
                       <p>

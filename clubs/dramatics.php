@@ -106,9 +106,9 @@ try {
                <br>
                <br>
                 
-                <img src="../assets/img/Soc-Images/dramatics(1).jpg" width="500px" height="auto" alt="">
+                <img src="../assets/img/Soc-Images/dramatics(1).jpg" class="img-fluid"  width="500px" height="auto" alt="">
              
-                
+                <br>
     
             </div>
             <div class="col-lg-6 ">

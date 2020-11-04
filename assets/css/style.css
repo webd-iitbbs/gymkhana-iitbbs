@@ -23,7 +23,6 @@ a:hover, a:active, a:focus {
 
 p {
   padding: 0;
-  margin: 0 0 30px 0;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -544,6 +543,57 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
+.cta {
+  position: relative;
+  margin: auto;
+  padding: 16px 22px;
+  transition: all 0.2s ease;
+}
+.cta:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: block;
+  border-radius: 28px;
+  background: #000;
+  width: 56px;
+  height: 56px;
+  transition: all 0.3s ease;
+}
+.cta span {
+  position: relative;
+  font-size: 16px;
+  line-height: 18px;
+  font-weight: 900;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  vertical-align: middle;
+  color: #fff;
+}
+.cta svg {
+  position: relative;
+  top: 0;
+  margin-left: 10px;
+  fill: none;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke: #fff;
+  stroke-width: 2;
+  transform: translateX(-5px);
+  transition: all 0.3s ease;
+}
+.cta:hover:before {
+  width: 100%;
+  background: #000;
+  color: #fff;
+}
+.cta:hover svg {
+  transform: translateX(0);
+}
+.cta:active {
+  transform: scale(0.96);
+}
 
 
 #intro .carousel, #intro .carousel-inner, #intro .carousel-item, #intro .carousel-item::before {
@@ -620,7 +670,6 @@ h1, h2, h3, h4, h5, h6 {
     padding-left: 0px !important;
     width: 60vw;
   }
-
 }
 #intro h2 {
   color: #fff;
@@ -805,7 +854,6 @@ section {
 #services .p{
   font-family: "Montserrat", sans-serif;
   font-size: 0.9rem;
-  margin-left: 3vw;
   line-height: 1.6;
 }
 

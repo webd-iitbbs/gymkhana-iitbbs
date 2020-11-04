@@ -107,8 +107,8 @@ try {
           <br>
           <br>
 
-          <img src="../assets/img/Soc-Images/neuromancers(1).jpg" width="500px" height="500px" alt="">
-
+          <img src="../assets/img/Soc-Images/neuromancers(1).jpg" class="img-fluid"  width="500px" height="500px" alt="">
+          <br>
         </div>
         <div class="col-lg-6 ">
           <div class="text-center">

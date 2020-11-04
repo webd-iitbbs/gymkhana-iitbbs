@@ -178,7 +178,7 @@ try {
         </div>
 
         <div class="col-12 col-md-4">
-          <aside class="single_sidebar_widget popular_post_widget ml-4">
+          <aside class="single_sidebar_widget popular_post_widget ">
             <h3 class="widget_title" style="color: #2d2d2d;">Happenings</h3>
 
            

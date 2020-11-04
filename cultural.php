@@ -219,7 +219,7 @@
         <div class="g-promo-section">
             <div class="container-sp g-padding-y-80--xs g-padding-y-125--sm">
                 <div class="row">
-                    <div class="col-sm-6" style="padding-right:  30px;">
+                    <div class="col-sm-6" style="padding:  30px;">
                         <div class="g-margin-b-30--xs">
                             <h3 class="g-font-size-32--xs g-font-size-36--sm">Kalakriti, The Fine Arts Society</h3>
                             <p>
@@ -227,7 +227,14 @@
               The world we live in is a colourful and majestic place, rich in culture and tradition, waiting for mankind to uncover its full beauty. The Fine Arts Society intends to inculcate a sense of appreciation for this beauty in the minds of the students. Members of the society organize workshops to nurture the artist in the students all through the year and also take up the major responsibility of decorating the campus during all special occasions including Diwali.
               </p>
                         </div>
-                        <a href="clubs/kalakriti.php" class="text-uppercase s-btn s-btn--sm s-btn--primary-brd g-radius--50 g-padding-x-40--xs">EXPLORE</a>
+                        
+                        <a href="clubs/kalakriti.php" class=" cta ">
+                          <span>EXPLORE</span>
+                          <svg width="13px" height="10px" viewBox="0 0 13 10">
+                            <path d="M1,5 L11,5"></path>
+                            <polyline points="8 1 12 5 8 9"></polyline>
+                          </svg>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -242,7 +249,7 @@
     <div class="g-promo-section">
       <div class="container-sp g-padding-y-80--xs g-padding-y-125--sm">
           <div class="row">
-              <div class="col-sm-6 offset-sm-6"  style="padding-left:  30px;">
+              <div class="col-sm-6 offset-sm-6"  style="padding:  30px;">
                   <div class="g-margin-b-30--xs">
                       <h3 class="g-font-size-32--xs g-font-size-36--sm">DGang, The Dance Society</h3>
                       <p>
@@ -251,7 +258,13 @@
 
         </p>
                   </div>
-                  <a href="clubs/dgang.php" class="text-uppercase s-btn s-btn--sm s-btn--primary-brd g-radius--50 g-padding-x-40--xs">EXPLORE</a>
+                  <a href="clubs/dgang.php" class=" cta ">
+                          <span>EXPLORE</span>
+                          <svg width="13px" height="10px" viewBox="0 0 13 10">
+                            <path d="M1,5 L11,5"></path>
+                            <polyline points="8 1 12 5 8 9"></polyline>
+                          </svg>
+                        </a>
               </div>
           </div>
       </div>
@@ -263,7 +276,7 @@
         <div class="g-promo-section">
             <div class="container-sp g-padding-y-80--xs g-padding-y-125--sm">
                 <div class="row">
-                    <div class="col-sm-6"  style="padding-right:  30px;">
+                    <div class="col-sm-6"  style="padding:  30px;">
                         <div class="g-margin-b-30--xs">
                             <h3 class="g-font-size-32--xs g-font-size-36--sm">The Fourth Wall, The Dramatics Society </h3>
                             <p>
@@ -272,7 +285,13 @@
 
                             </p>
                         </div>
-                        <a href="clubs/dramatics.php" class="text-uppercase s-btn s-btn--sm s-btn--primary-brd g-radius--50 g-padding-x-40--xs">EXPLORE</a>
+                        <a href="clubs/dramatics.php" class=" cta ">
+                          <span>EXPLORE</span>
+                          <svg width="13px" height="10px" viewBox="0 0 13 10">
+                            <path d="M1,5 L11,5"></path>
+                            <polyline points="8 1 12 5 8 9"></polyline>
+                          </svg>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -284,7 +303,7 @@
     <div class="g-promo-section">
         <div class="container g-padding-y-80--xs g-padding-y-125--sm">
             <div class="row">
-                <div class="col-sm-5 offset-sm-7"  style="padding-left:  30px;">
+                <div class="col-sm-5 offset-sm-7"  style="padding:  30px;">
                     <div class="g-margin-b-30--xs">
                         <h3 class="g-font-size-32--xs g-font-size-36--sm">Aaroh, The Music Society</h3>
                         <p>
@@ -292,7 +311,13 @@
                         Aaroh, the Music Society of IIT Bhubaneswar aims to bring out the musical talent among the students. What sets us IITians apart from the rest is our all round development, and Aaroh contributes to this by shaping students into talented performers with their own unique identities. Not only does the society conduct various events and workshops on musical instruments for amateurs, it also takes on the responsibility of organizing a production each semester to entertain and enthral the students.
                         </p>
                     </div>
-                    <a href="clubs/aaroh.php" class="text-uppercase s-btn s-btn--sm s-btn--primary-brd g-radius--50 g-padding-x-40--xs">EXPLORE</a>
+                    <a href="clubs/aaroh.php" class=" cta ">
+                          <span>EXPLORE</span>
+                          <svg width="13px" height="10px" viewBox="0 0 13 10">
+                            <path d="M1,5 L11,5"></path>
+                            <polyline points="8 1 12 5 8 9"></polyline>
+                          </svg>
+                        </a>
                 </div>
             </div>
         </div>
@@ -313,7 +338,21 @@
 The ability to express your thoughts and ideas effectively is of paramount importance to succeed in your career as well as life in general. Panacea and Abhivyakti work for the development of the communication and language skills of the students (in English and Hindi, respectively), while the Quiz Club is an open society aimed at encouraging students to expand their knowledge beyond  the conventional and establishing a relationship between theory and application of the learnt concepts in a fun manner.
                             </p>
                         </div>
-                        <a href="clubs/literary.php" class="text-uppercase s-btn s-btn--sm s-btn--primary-brd g-radius--50 g-padding-x-40--xs">EXPLORE</a>
+                        <a href="clubs/panacea.php" class=" cta text-uppercase s-btn s-btn--sm s-btn--primary-brd g-radius--50 g-padding-x-40--xs">
+                          <span>EXPLORE PANACEA</span>
+                          <svg width="13px" height="10px" viewBox="0 0 13 10">
+                            <path d="M1,5 L11,5"></path>
+                            <polyline points="8 1 12 5 8 9"></polyline>
+                          </svg>
+                        </a>
+                        <a href="clubs/quizclub.php" class=" cta ">
+                          <span>EXPLORE QUIZ CLUB</span>
+                          <svg width="13px" height="10px" viewBox="0 0 13 10">
+                            <path d="M1,5 L11,5"></path>
+                            <polyline points="8 1 12 5 8 9"></polyline>
+                          </svg>
+                        </a>
+                        
                     </div>
                 </div>
             </div>
@@ -325,7 +364,7 @@ The ability to express your thoughts and ideas effectively is of paramount impor
     <div class="g-promo-section">
         <div class="container-sp g-padding-y-80--xs g-padding-y-125--sm">
             <div class="row">
-                <div class="col-sm-6 offset-sm-6" style="padding-left:  30px;">
+                <div class="col-sm-6 offset-sm-6" style="padding:  30px;">
                     <div class="g-margin-b-30--xs">
                         <h3 class="g-font-size-32--xs g-font-size-36--sm">Cinewave, The Cinematics Society </h3>
                         <p>
@@ -334,7 +373,13 @@ The ability to express your thoughts and ideas effectively is of paramount impor
 
                         </p>
                     </div>
-                    <a href="clubs/cinewave.php" class="text-uppercase s-btn s-btn--sm s-btn--primary-brd g-radius--50 g-padding-x-40--xs">EXPLORE</a>
+                    <a href="clubs/cinewave.php" class=" cta ">
+                          <span>EXPLORE</span>
+                          <svg width="13px" height="10px" viewBox="0 0 13 10">
+                            <path d="M1,5 L11,5"></path>
+                            <polyline points="8 1 12 5 8 9"></polyline>
+                          </svg>
+                        </a>
                 </div>
             </div>
         </div>
@@ -346,7 +391,7 @@ The ability to express your thoughts and ideas effectively is of paramount impor
         <div class="g-promo-section">
             <div class="container-sp g-padding-y-80--xs g-padding-y-125--sm">
                 <div class="row">
-                    <div class="col-sm-6" style="padding-right:  30px;">
+                    <div class="col-sm-6" style="padding:  30px;">
                         <div class="g-margin-b-30--xs">
                             <h3 class="g-font-size-32--xs g-font-size-36--sm">Souls for Solace, The Social Welfare Society </h3>
                             <p>
@@ -354,7 +399,13 @@ The ability to express your thoughts and ideas effectively is of paramount impor
 ‘Souls for Solace’ is a platform for those who are not satisfied with merely making a living and want to contribute towards creating a better society to live in. In collaboration with various NGOs, the society believes strongly in the principles of sharing what we have with the less fortunate and has undertaken initiatives like blood donation camps, educating the poor, books and clothes donation drives, and much more. It also provides the platform to discuss and implement innovative ideas that could help create a better future.
                             </p>
                         </div>
-                        <a href="clubs/sfs.php" class="text-uppercase s-btn s-btn--sm s-btn--primary-brd g-radius--50 g-padding-x-40--xs">EXPLORE</a>
+                        <a href="clubs/sfs.php" class=" cta text-uppercase s-btn s-btn--sm s-btn--primary-brd g-radius--50 g-padding-x-40--xs">
+                          <span>EXPLORE</span>
+                          <svg width="13px" height="10px" viewBox="0 0 13 10">
+                            <path d="M1,5 L11,5"></path>
+                            <polyline points="8 1 12 5 8 9"></polyline>
+                          </svg>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -367,7 +418,7 @@ The ability to express your thoughts and ideas effectively is of paramount impor
     <div class="g-promo-section">
         <div class="container-sp g-padding-y-80--xs g-padding-y-125--sm">
             <div class="row">
-                <div class="col-sm-6 offset-sm-6" style="padding-left:  30px;">
+                <div class="col-sm-6 offset-sm-6" style="padding:  30px;">
                     <div class="g-margin-b-30--xs">
                         <h3 class="g-font-size-32--xs g-font-size-36--sm">CLIX, The Photography Society</h3>
                         <p>
@@ -375,7 +426,13 @@ The ability to express your thoughts and ideas effectively is of paramount impor
                         The Photography Society is the most elite society of IIT Bhubaneswar that takes beginners and amateur photographers under its wings and teaches them different techniques of photography by organizing workshops and competitions on photography and post-processing. CLIX captures major happenings of the institute and provides the outside world glimpses of its work through its Facebook page.
                         </p>
                     </div>
-                    <a href="clubs/clix.php" class="text-uppercase s-btn s-btn--sm s-btn--primary-brd g-radius--50 g-padding-x-40--xs">EXPLORE</a>
+                    <a href="clubs/clix.php" class=" cta ">
+                          <span>EXPLORE</span>
+                          <svg width="13px" height="10px" viewBox="0 0 13 10">
+                            <path d="M1,5 L11,5"></path>
+                            <polyline points="8 1 12 5 8 9"></polyline>
+                          </svg>
+                        </a>
                 </div>
             </div>
         </div>

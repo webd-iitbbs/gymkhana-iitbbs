@@ -220,7 +220,7 @@
   <div class="g-promo-section">
       <div class="container-sp g-padding-y-80--xs g-padding-y-125--sm">
           <div class="row">
-              <div class="col-sm-6 offset-sm-6" style="padding-left:  30px;">
+              <div class="col-sm-6 offset-sm-6" style="padding:  30px;">
                   <div class="g-margin-b-30--xs">
                       <h3 class="g-font-size-32--xs g-font-size-36--sm">Robotics and Intelligent Systems Club (RISC)</h3>
                       <p>
@@ -231,7 +231,13 @@
 
         </p>
                   </div>
-                  <a href="clubs/risc.php" class="text-uppercase s-btn s-btn--sm s-btn--primary-brd g-radius--50 g-padding-x-40--xs">EXPLORE</a>
+                  <a href="clubs/risc.php" class="cta">
+                          <span>EXPLORE</span>
+                          <svg width="13px" height="10px" viewBox="0 0 13 10">
+                            <path d="M1,5 L11,5"></path>
+                            <polyline points="8 1 12 5 8 9"></polyline>
+                          </svg>
+                        </a>
               </div>
           </div>
       </div>
@@ -242,7 +248,7 @@
   <div class="g-promo-section">
       <div class="container-sp g-padding-y-80--xs g-padding-y-125--sm">
           <div class="row">
-              <div class="col-sm-6" style="padding-right:  30px;">
+              <div class="col-sm-6" style="padding:  30px;">
                   <div class="g-margin-b-30--xs">
                       <h3 class="g-font-size-32--xs g-font-size-36--sm">Nakshatra, The Astronomy Club</h3>
                       <p>
@@ -251,7 +257,13 @@
 
         </p>
                   </div>
-                  <a href="clubs/nakshatra.php" class="text-uppercase s-btn s-btn--sm s-btn--primary-brd g-radius--50 g-padding-x-40--xs">EXPLORE</a>
+                  <a href="clubs/nakshatra.php" class=" cta ">
+                          <span>EXPLORE</span>
+                          <svg width="13px" height="10px" viewBox="0 0 13 10">
+                            <path d="M1,5 L11,5"></path>
+                            <polyline points="8 1 12 5 8 9"></polyline>
+                          </svg>
+                        </a>
               </div>
           </div>
       </div>
@@ -263,7 +275,7 @@
   <div class="g-promo-section">
       <div class="container-sp g-padding-y-80--xs g-padding-y-125--sm">
           <div class="row">
-              <div class="col-sm-6 offset-sm-6" style="padding-left:  30px;">
+              <div class="col-sm-6 offset-sm-6" style="padding:  30px;">
                   <div class="g-margin-b-30--xs">
                       <h3 class="g-font-size-32--xs g-font-size-36--sm">Neuromancers, The Programming Society</h3>
                       <p>
@@ -273,7 +285,13 @@
 
         </p>
                   </div>
-                  <a href="clubs/neuromancers.php" class="text-uppercase s-btn s-btn--sm s-btn--primary-brd g-radius--50 g-padding-x-40--xs">EXPLORE</a>
+                  <a href="clubs/neuromancers.php" class=" cta ">
+                          <span>EXPLORE</span>
+                          <svg width="13px" height="10px" viewBox="0 0 13 10">
+                            <path d="M1,5 L11,5"></path>
+                            <polyline points="8 1 12 5 8 9"></polyline>
+                          </svg>
+                        </a>
               </div>
           </div>
       </div>
@@ -285,7 +303,7 @@
   <div class="g-promo-section">
       <div class="container-sp g-padding-y-80--xs g-padding-y-125--sm">
           <div class="row">
-              <div class="col-sm-6" style="padding-right: 30px;">
+              <div class="col-sm-6" style="padding: 30px;">
                   <div class="g-margin-b-30--xs">
                       <h3 class="g-font-size-32--xs g-font-size-36--sm">Web and Design Society</h3>
                       <p>
@@ -294,7 +312,13 @@
 
         </p>
                   </div>
-                  <a href="clubs/webd.php" class="text-uppercase s-btn s-btn--sm s-btn--primary-brd g-radius--50 g-padding-x-40--xs">EXPLORE</a>
+                  <a href="clubs/webd.php" class=" cta ">
+                          <span>EXPLORE</span>
+                          <svg width="13px" height="10px" viewBox="0 0 13 10">
+                            <path d="M1,5 L11,5"></path>
+                            <polyline points="8 1 12 5 8 9"></polyline>
+                          </svg>
+                        </a>
               </div>
           </div>
       </div>

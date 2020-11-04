@@ -108,8 +108,8 @@ try {
                     <br>
                     <br>
 
-                    <img src="../assets/img/Soc-Images/risc(1).jpg" width="500px" height="auto" alt="">
-
+                    <img src="../assets/img/Soc-Images/risc(1).jpg" class="img-fluid" width="500px" height="auto" alt="">
+                    <br>
 
 
                 </div>

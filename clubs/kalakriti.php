@@ -105,9 +105,9 @@ try {
             <div class="row ">
                 <div class="col-lg-6 text-center center my-auto">
                     <br><br>
-                    <img src="../assets/img/Soc-Images/kalakriti(1).jpg" width="500px" height="auto" alt="">
+                    <img src="../assets/img/Soc-Images/kalakriti(1).jpg" class="img-fluid"  width="500px" height="auto" alt="">
 
-
+                    <br>
 
                 </div>
                 <div class="col-lg-6 my-auto">

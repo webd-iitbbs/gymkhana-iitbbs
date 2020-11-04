@@ -109,8 +109,8 @@ try {
                <br>
                <br>
                
-                <img src="../assets/img/Soc-Images/cinewave(1).png" width="550px" height="350px" alt="">
-           
+                <img src="../assets/img/Soc-Images/cinewave(1).png" width="550px" height="350px" alt=""  class="img-fluid" >
+                <br>
                 
     
             </div>
