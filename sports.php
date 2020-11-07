@@ -226,7 +226,7 @@
       <div class="row justify-content-center">
         <div class="col-xl-11 d-flex align-items-center">
           <a href="https://iitbbs.ac.in/" style="border-left:0px; padding-right:14px;" class="logo"><img src="assets/img/logo.png" class="img-fluid"></a>
-          <a href="index.html" class="logo mr-auto"><img src="assets/img/SGLogo2.png" alt="" class="img-fluid"></a>
+          <a href="index.php" class="logo mr-auto"><img src="assets/img/SGLogo2.png" alt="" class="img-fluid"></a>
           
 
           <nav class="nav-menu d-none d-lg-block">
