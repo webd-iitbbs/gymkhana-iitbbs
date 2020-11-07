@@ -301,9 +301,9 @@ try {
           <div class="col-lg-4 col-md-6 footer-links">
             <h4>Useful Links</h4>
             <ul>
-              <li><i class="ion-ios-arrow-right"></i> <a href="#">IIT Bhubaneswar</a></li>
-              <li><i class="ion-ios-arrow-right"></i> <a href="#">Gymkhana Constitution</a></li>
-              <li><i class="ion-ios-arrow-right"></i> <a href="#">Career Development Cell</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="https://www.iitbbs.ac.in">IIT Bhubaneswar</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="../assets/Constitution.pdf">Gymkhana Constitution</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="https://www.iitbbs.ac.in/cdc/">Career Development Cell</a></li>
             </ul>
           </div>
 

@@ -307,7 +307,7 @@
           <div>
 
             <p class="p" align="justify">Alma Fiesta is the annual Socio-Cultural fest of IIT Bhubaneswar, heralded as the 'Biggest Debutant Fest of India' by The Telegraph in its maiden year 2010. 
-            Alma Fiesta has grown to become a beacon of culture and social change. With 150+ colleges, 20,000+ footfall, shimmering stars of 'NALAYAK','DJ MADDIX DJ ADRIMA DJ ZYPHYRTONE,'ARON CHUPA', 'INDIAN OCEAN', 'AGNEE', 'GAJENDRA VERMA', 'NIKHIL D'SOUZA' and 'THE LOCAL TRAIN'. Alma Fiesta has made a mark unprecedented and unachievable by its contemporaries. An epitome of celebration, Alma Fiesta organises events of dance, music, dramatics and fine arts, workshops like Salsa, Android App development, Self-defence, Paper quilling, Clay modelling and Cyber Crusades and many more.</p>
+            Alma Fiesta has grown to become a beacon of culture and social change. With 150+ colleges, 20,000+ footfall, shimmering stars of 'NALAYAK','DJ MADDIX DJ ADRIMA DJ ZYPHYRTONE,'ARON CHUPA', 'INDIAN OCEAN', 'AGNEE', 'GAJENDRA VERMA', 'NIKHIL D'SOUZA' and 'THE LOCAL TRAIN'. Alma Fiesta has made a mark unprecedented and unachievable by its contemporaries. An epitome of celebration, Alma Fiesta organises events of dance, music, dramatics and fine arts, workshops like Salsa, Android App development, Self-defence, Paper quilling, Clay modelling and Cyber Crusades and many more.Alma Fiesta, the annual socio-cultural fest of IIT Bhubaneshwar, lives up to its mantra of "Redefining Festivity." This three-day-long celebration of the country's rich cultural diversity is organized every year in the second week of January. A completely student-powered fest, when the first edition commenced in 2010, it was declared the biggest debutant fest in India, 2010. Grown over the years, the fest has witnessed the presence of many eminent personalities from fields of music, dance, fine arts, who have further added to the glamour of it all. The three Star Nites- Leela, Headbang, and Lamhe lay platform for the best of bands and performers along with an eternal festive experience. Throughout the three days, many competitions including MUNs, quizzes, debates, fine arts, dance-drama competitions, are held among various others. Besides the signature cultural experience, Alma has also been working to promote social harmony and awareness, to serve a bigger dimension in years to come!</p>
 
 
           </div>
@@ -357,10 +357,7 @@
 
           <div>
 
-            <p class="p" align="justify" >Wissenaire, the annual techno-management fest of IIT Bhubaneswar is one of the biggest of its kind in East India. Encompassing various sectors of technology, science and management this three-day extravaganza is maneuvers it's participants through the world of futuristic technologies. Every year Wissenaire comes up with a theme and in 2019 Wissenaire has got some unique ideas in store for you with the theme Cosmic Expeditions: Astounding Odysseys Ensuring Humanity's Existence.
-
-
-And here we are in the 21st century!Today, humanity has the potential to seek answers to the most fundamental questions posed about the existence of life beyond Earth. Telescopes have found planets around other stars. Robotic probes have identifiedpotential resources on the Moon, and evidence of water -- a key ingredient for life -- has been found on Marsand the moons of Jupiter. Going to the past, July 20th, 2019 was the 50th anniversary of Apollo 11’s historic flight to the moon, where astronauts Neil Armstrong and Buzz Aldrin became the first human beings to walk on the moon. 50 years ago, space flight inspired such awe that astronauts were hailed as heroes and celebrities by men, women, and children alike. 50 years later, the exploration still going on strong and with a full swing, there's no looking back. Because in the end, "Somewhere, something incredible is waiting to be known."</p>
+            <p class="p" align="justify" >Technology is best when it brings people together. Bringing people who are passionate about technology and business is exactly what Wissenaire - The Annual Techno-Management Fest of IIT Bhubaneswar strives to do. We at Wissenaire believe that "Knowledge Runs Free", and that it always finds those who search for it; and are hence motivated to add to the vast repository of knowledge in the business and technical realms and make it accessible to everyone alike. We conduct competitions on Programming, Robotics, Business Plan Development, Circuitry, Paper Presentations and Quizzes. We also conduct specific events and puzzles for School Children, in addition to Tech Exhibits from organizations like ISRO and DRDO. Attracting participation from many parts of India, Wissenaire has been graced by personalities like Dr. K Radhakrishnan (Former Chairman of ISRO), Dr. Kiran Bedi (Former IPS Officer), Anand Sen (VP, Tata Steel); with celebrities like Shilpa Rao, Kennu Sebastian, Biswa Kalyan Rath and Jubin Nautiyal making their presence in our Star-nites. We at Wissenaire recognize the social commitment that we owe to the country and are proactive philanthropically, having conducted Blood Donation Drives, Plantation and Sapling Distribution Drives and Social Fundraisers in the past.</p>
 
 
           </div>
@@ -459,9 +456,9 @@ And here we are in the 21st century!Today, humanity has the potential to seek an
           <div class="col-lg-4 col-md-6 footer-links">
             <h4>Useful Links</h4>
             <ul>
-              <li><i class="ion-ios-arrow-right"></i> <a href="#">IIT Bhubaneswar</a></li>
-              <li><i class="ion-ios-arrow-right"></i> <a href="#">Gymkhana Constitution</a></li>
-              <li><i class="ion-ios-arrow-right"></i> <a href="#">Career Development Cell</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="https://www.iitbbs.ac.in">IIT Bhubaneswar</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="assets/Constitution.pdf">Gymkhana Constitution</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="https://www.iitbbs.ac.in/cdc/">Career Development Cell</a></li>
             </ul>
           </div>
 

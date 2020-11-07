@@ -141,7 +141,7 @@
             <h3>Student Activity Center</h3>
           </header>
             <p class="p" align="justify">
-              The most ambitious undertaking of the institute in the past year, however, has been its decision to jointly host the Inter IIT Sports Meet, with IIT Kharagpur. This decision has led to a boom in the amount of sports facilities that have been available to the students. A large number of basketball and volleyball courts have come up, much to the elation of the sports enthusiasts. The Students Activity Centre, or the SAC, has also been constructed, complete with indoor badminton and squash courts. The institute has also taken huge strides towards completing the other sports facilities, such as the hockey field, the athletics track, the football field and cricket ground. These amenities, while still under construction, are expected to be ready by the end of the next academic year.
+              The most ambitious undertaking of the institute in the past year was its decision to co-host the Inter IIT Sports Meet, with IIT Kharagpur. This decision led to a boom in the sports facilities that have been available to the students. The Students Activity Centre, or the SAC, has also been constructed, complete with indoor badminton and squash courts and 6 basketball and volleyball courts. The institute has also taken huge strides towards completing the other sports fields, such as the hockey field, the athletics track, the football field and the cricket ground. These amenities are still under construction and are expected to be completely ready by the end of the next academic year. These facilities will provide increasing opportunity to all the students and will further develop the institutes sports standards.
             </p>
         </div>
         <div class="col-md-5 order-md-first">
@@ -158,7 +158,10 @@
           <header class="section-header wow fadeInUp">
             <h3>Green Field Campus</h3>
           </header>
-            <p class="p" align="justify">The horticulture activity was started in 2015 to create the IIT Bhubaneswar campus with full of greenery and more vibrant, including exotic and indigenous deciduous and coniferous trees and plants (long-life tall trees, flower and medicinal trees, fruit trees, palm and pine trees). The members of board of governors inaugurated the first phase of plantation project at our new campus by planting the first saplings (mahogany and gulmohar plants) around sports ground area on 10 July 2015. For the next-five plan, the main focus of the centre for horticulture is to create native landscaping in newly constructed areas and near buildings with lush green gardens adorned with ornamental and medicinal plants that maintain the clean and healthy environment for the students and residents of the campus. IIT Bhubaneswar believes that nurturing nature is the best way to promote creativity and increasing the amount of landscaping and greenery in the campus can provide positive effect on mental and physical health. The plants and trees will be chosen such that to create the healthy echo-system for attracting the exotic and migratory birds. In order to achieve sustainability, the centre primarily focus on the building up rooftop rainwater harvesting and surface rainwater harvesting infrastructure and setting up a waste management system and wastewater recycling plant, in the five year plan 2015-2020. Autonomous water irrigation system will be set up in the campus to saving both water and expenditures.
+            <p class="p" align="justify">The horticulture activity started in the year 2015 as a first step towards ensuring a more vibrant and spirited environment filled with frondescence. The flora includes a variety of exotic and indigenous species (both deciduous and coniferous) like palm, pine, long-life tall trees and some medicinal plants.
+The board members inaugurated the first phase of the Plantation Project by planting the saplings of Gulmohar and Mahogany around the Sports Ground on 10th July 2015. The main focus of the Horticulture Department, at least for the next five years lies in creating a natural landscape in newly constructed areas. Lush green gardens adorned with ornamental and medicinal plants help maintain a clean and healthy environment for the students and residents of the campus. 
+Nurturing nature is not just a duty but it's a responsibility and IIT Bhubaneswar believes that this is the best way to promote creativity amongst students and the verdure also creates a positive effect on mental and physical well-being. The plants and tress shall be chosen in such a way that it creates a habitat for local birds, bees and butterflies. 
+To achieve sustainability, the horticulture center focuses on building rooftop rainwater harvesting, surface rainwater harvesting infrastructure and setting up a waste management system and wastewater recycling plant. Also part of the 2015-2020 plan, an autonomous water irrigation system shall be set up to save expenditure.
 
 
           </p>
@@ -181,9 +184,9 @@
           <div class="col-lg-4 col-md-6 footer-links">
             <h4>Useful Links</h4>
             <ul>
-              <li><i class="ion-ios-arrow-right"></i> <a href="#">IIT Bhubaneswar</a></li>
-              <li><i class="ion-ios-arrow-right"></i> <a href="#">Gymkhana Constitution</a></li>
-              <li><i class="ion-ios-arrow-right"></i> <a href="#">Career Development Cell</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="https://www.iitbbs.ac.in">IIT Bhubaneswar</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="assets/Constitution.pdf">Gymkhana Constitution</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="https://www.iitbbs.ac.in/cdc/">Career Development Cell</a></li>
             </ul>
           </div>
 
