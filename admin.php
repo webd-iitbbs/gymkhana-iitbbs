@@ -21,7 +21,7 @@ if(isset($_POST['insert'])){
   $conn = new PDO("mysql:host=$servername;dbname=$database", $username, $password);
   // set the PDO error mode to exception
   $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-  $sql = "INSERT INTO happenings ('name', 'society', 'date', 'month')
+  $sql = "INSERT INTO happenings (name, society, date, month)
   VALUES ('".$_POST['name']."', '".$_POST['society']."', '".$_POST['date']."', '".$_POST['month']."')";
   // use exec() because no results are returned
   $conn->exec($sql);
@@ -160,6 +160,64 @@ if(isset($_POST['insert'])){
         </form>
       </div>
     </section>
+
+    <section class="team">
+	    <div class="container" id="title">
+	      <p class="h3">CONTACT FORM</p>
+	    </div>
+
+	    <div class="container align-self-center">
+	      <table class="table">
+			  <thead>
+			    <tr>
+			      <th scope="col">#</th>
+			      <th scope="col">Name</th>
+			      <th scope="col">Contact</th>
+			      <th scope="col">Email</th>
+			      <th scope="col">Feedback</th>
+			      <th scope="col">TimeStamp</th>
+			    </tr>
+			  </thead>
+			  <tbody>
+
+			  	<?php
+            
+            try {
+              $conn = new PDO("mysql:host=$servername;dbname=$database", $username, $password);
+              $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+              $stmt = $conn->prepare("SELECT * FROM contact");
+              $stmt->execute();
+              $i = 1;
+              while ($row = $stmt->fetch()) {
+                echo " <tr>
+					      <th scope='row'>".$i."</th>
+					      <td>".$row['name']."</td>
+					      <td>".$row['contact']."</td>
+					      <td>@".$row['email']."</td>
+					      <td>@".$row['feedback']."</td>
+					      <td>@".$row['created_at']."</td>
+					    </tr>
+                        ";
+              }
+
+            }
+              
+            catch(PDOException $e) {
+              echo "Error: " . $e->getMessage();
+            }
+            $conn = null;
+
+
+            ?>
+			    
+			    
+			  </tbody>
+			</table>
+	    </div>
+	</section>
+
+
+
 
   <!-- ======= Footer ======= -->
   <footer id="footer">

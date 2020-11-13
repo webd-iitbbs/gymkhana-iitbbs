@@ -127,7 +127,7 @@ try {
 
 
                 <div class="row">
-                  <div class="col-md-8">
+                  <div class="col-md-10">
                     <div class="text-center">
                       <div class="card" id="happenings">
                         <div class="card-body">

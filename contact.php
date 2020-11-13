@@ -1,3 +1,21 @@
+<?php 
+include 'config.php';   
+if(isset($_POST['submit'])){
+  try {
+  $conn = new PDO("mysql:host=$servername;dbname=$database", $username, $password);
+  // set the PDO error mode to exception
+  $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+  $sql = "INSERT INTO contact (name, contact, email, feedback)
+  VALUES ('".$_POST['name']."', '".$_POST['contact']."', '".$_POST['email']."', '".$_POST['feedback']."')";
+  // use exec() because no results are returned
+  $conn->exec($sql);
+  echo "New record created successfully";
+  } catch(PDOException $e) {
+    echo $sql . "<br>" . $e->getMessage();
+  }
+}
+
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -131,7 +149,7 @@
         </header>
         <br>
         <div class="">
-          <form data-toggle="validator" role="form" action="action.php" method="post">
+          <form data-toggle="validator" role="form" action="" method="post">
             <div class="form-group">
               <label for="inputName" class="control-label">Name</label>
               <input type="text" name="name" class="form-control" id="inputName" placeholder="Enter your name" required maxlength="150">
@@ -139,7 +157,7 @@
             <br>
             <div class="form-group">
               <label for="inputName" class="control-label">Contact Number</label>
-              <input type="text" name="contact_number" class="form-control" id="inputContact" placeholder="Enter your  Contact Number" required maxlength="11">
+              <input type="text" name="contact" class="form-control" id="inputContact" placeholder="Enter your  Contact Number" required maxlength="11">
             </div>
             <br>
             <div class="form-group">
@@ -156,7 +174,7 @@
             
             <br>
             <div class="form-group">
-              <button type="submit" class="btn btn-primary">Submit</button>
+              <button type="submit" name="submit" class="btn btn-primary">Submit</button>
             </div>
             <br>
           </form>
