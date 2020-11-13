@@ -9,7 +9,7 @@ if(isset($_POST['submit'])){
   VALUES ('".$_POST['name']."', '".$_POST['contact']."', '".$_POST['email']."', '".$_POST['feedback']."')";
   // use exec() because no results are returned
   $conn->exec($sql);
-  echo "New record created successfully";
+  echo "<script>alert('Feedback submitted successfully');</script>";
   } catch(PDOException $e) {
     echo $sql . "<br>" . $e->getMessage();
   }

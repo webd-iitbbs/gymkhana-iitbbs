@@ -25,7 +25,7 @@ if(isset($_POST['insert'])){
   VALUES ('".$_POST['name']."', '".$_POST['society']."', '".$_POST['date']."', '".$_POST['month']."')";
   // use exec() because no results are returned
   $conn->exec($sql);
-  echo "New record created successfully";
+  echo "<script>alert('New record created successfully');</script>";
   } catch(PDOException $e) {
     echo $sql . "<br>" . $e->getMessage();
   }
