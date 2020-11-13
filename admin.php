@@ -193,9 +193,9 @@ if(isset($_POST['insert'])){
 					      <th scope='row'>".$i."</th>
 					      <td>".$row['name']."</td>
 					      <td>".$row['contact']."</td>
-					      <td>@".$row['email']."</td>
-					      <td>@".$row['feedback']."</td>
-					      <td>@".$row['created_at']."</td>
+					      <td>".$row['email']."</td>
+					      <td>".$row['feedback']."</td>
+					      <td>".$row['created_at']."</td>
 					    </tr>
                         ";
               }
