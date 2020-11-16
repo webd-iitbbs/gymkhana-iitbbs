@@ -142,7 +142,7 @@ try {
 
 
         <div class="row">
-          <div class="col-md-10">
+          <div class="col-md-6">
             <div class="text-center">
               <div class="card" id="happenings">
                 <div class="card-body">
@@ -163,7 +163,7 @@ try {
                         <p>".$row['month']."</p>
                       </center>
                     </div>
-                    <div class='col-md-6'>
+                    <div class='col-md-10'>
                       <center>
                         <p>".$row['name']."</p>
                       </center>
