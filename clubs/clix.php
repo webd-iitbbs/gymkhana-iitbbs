@@ -154,7 +154,7 @@ try {
                     </div>
                     <div class='col-md-10'>
                       <center>
-                        <p>".$row['name']."</p>
+                        <p  style='margin-top:2vh;'>".$row['name']."</p>
                       </center>
                     </div>
                   </div>";
