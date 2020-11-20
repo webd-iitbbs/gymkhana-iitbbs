@@ -209,7 +209,7 @@ try {
                         <p class="card-text"></p>
                         <div class="other-links">
                           <img src="../assets/img/society logos/webd.png" height="55px" width="55px" alt="">
-                          <a href="webnd.php">WEB & DESIGN</a>
+                          <a href="webd.php">WEB & DESIGN</a>
                         </div>
                         <div class="other-links">
                           <img src="../assets/img/society logos/nakshatra.png" height="55px" width="55px" alt="">

@@ -596,6 +596,7 @@
  .social-line ul{
    display: block;
    text-align: center;
+   padding-left: 0;
  }
  .social-line ul li{
    display: inline-block;
