@@ -122,7 +122,7 @@ if(isset($_POST['insert'])){
     <div class="container" id="title">
       <p class="h3">ADMIN</p>
     </div>
-    <?php>
+    <?php
     if ($_SESSION['username']== 'secy'){
       ?>
       <div class="container align-self-center">
@@ -175,7 +175,7 @@ if(isset($_POST['insert'])){
       </div>
 
     <?php } ?>
-    <?php>
+    <?php
     if ($_SESSION['username']== 'vp'){
       ?>
 
@@ -258,7 +258,7 @@ if(isset($_POST['insert'])){
     <?php } ?>
 
 
-    <?php>
+    <?php
     if ($_SESSION['username']== 'facad'){
       ?>
 
@@ -343,7 +343,7 @@ if(isset($_POST['insert'])){
 
     </section>
   
-  <?php>
+  <?php
     if ($_SESSION['username']== 'vp'){
   ?>
 
