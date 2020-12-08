@@ -9,15 +9,15 @@ if (isset($_POST['submit'])){
     else if(($username == "vp" && $password == "GYMvp_2020")){
       $_SESSION['username']='vp';
     }
-    else if(($username == "facad_tech" && $password == "facad@GYMKHANA_2020")){
-      $_SESSION['username']='facadtech';
+    else if(($username == "facad" && $password == "facad@GYMKHANA_2020")){
+      $_SESSION['username']='facad';
     }
-    else if(($username == "facad_sports" && $password == "facad@GYMKHANA_2020")){
-      $_SESSION['username']='facadsports';
-    }
-    else if(($username == "facad_cult" && $password == "facad@GYMKHANA_2020")){
-      $_SESSION['username']='facadcult';
-    }
+    // else if(($username == "facad_sports" && $password == "facad@GYMKHANA_2020")){
+    //   $_SESSION['username']='facadsports';
+    // }
+    // else if(($username == "facad_cult" && $password == "facad@GYMKHANA_2020")){
+    //   $_SESSION['username']='facadcult';
+    // }
     else {
       header('Location:adminlogin.php');
     }
@@ -259,7 +259,7 @@ if(isset($_POST['insert'])){
 
 
     <?php>
-    if ($_SESSION['username']== 'vp'){
+    if ($_SESSION['username']== 'facad'){
       ?>
 
       <table class="table">

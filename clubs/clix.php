@@ -142,7 +142,7 @@ try {
             try {
               $conn = new PDO("mysql:host=$servername;dbname=$database", $username, $password);
               $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-              $stmt = $conn->prepare("SELECT * FROM happenings WHERE society = 'clix' ORDER BY id DESC LIMIT 0, 5");
+              $stmt = $conn->prepare("SELECT * FROM happenings WHERE society = 'clix' AND status = 'approved' ORDER BY id DESC LIMIT 0, 5");
               $stmt->execute();
               while ($row = $stmt->fetch()) {
                 echo " <div class='row'>

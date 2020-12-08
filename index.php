@@ -188,7 +188,7 @@ try {
             try {
               $conn = new PDO("mysql:host=$servername;dbname=$database", $username, $password);
               $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-              $stmt = $conn->prepare("SELECT * FROM happenings ORDER BY id DESC LIMIT 0, 4");
+              $stmt = $conn->prepare("SELECT * FROM happenings WHERE status = 'approved' ORDER BY id DESC LIMIT 0, 4");
               $stmt->execute();
               while ($row = $stmt->fetch()) {
                 echo " <div class='media post_item row'>
