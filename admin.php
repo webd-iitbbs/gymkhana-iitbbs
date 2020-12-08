@@ -3,14 +3,27 @@ session_start();
 if (isset($_POST['submit'])){
         $username= $_POST['username'];
         $password=$_POST['password'];
-    if(!($username == "admin" && $password == "GYMKHANA@WEBD_2020")){
-        header('Location:adminlogin.php');
+    if(($username == "secy" && $password == "GYMKHANA@secy_2020")){
+        $_SESSION['username']='secy';
     }
-    else{
-         $_SESSION['username']='admin';
+    else if(($username == "vp" && $password == "GYMvp_2020")){
+      $_SESSION['username']='vp';
     }
+    else if(($username == "facad_tech" && $password == "facad@GYMKHANA_2020")){
+      $_SESSION['username']='facadtech';
+    }
+    else if(($username == "facad_sports" && $password == "facad@GYMKHANA_2020")){
+      $_SESSION['username']='facadsports';
+    }
+    else if(($username == "facad_cult" && $password == "facad@GYMKHANA_2020")){
+      $_SESSION['username']='facadcult';
+    }
+    else {
+      header('Location:adminlogin.php');
+    }
+
 }
-if ($_SESSION['username']!= "admin"){
+if (!$_SESSION['username']){
     header('Location:adminlogin.php');
 }
 
@@ -21,8 +34,8 @@ if(isset($_POST['insert'])){
   $conn = new PDO("mysql:host=$servername;dbname=$database", $username, $password);
   // set the PDO error mode to exception
   $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-  $sql = "INSERT INTO happenings (name, society, date, month)
-  VALUES ('".$_POST['name']."', '".$_POST['society']."', '".$_POST['date']."', '".$_POST['month']."')";
+  $sql = "INSERT INTO happenings (name, society, date, month, status)
+  VALUES ('".$_POST['name']."', '".$_POST['society']."', '".$_POST['date']."', '".$_POST['month']."', 'forwarded to vp')";
   // use exec() because no results are returned
   $conn->exec($sql);
   echo "<script>alert('New record created successfully');</script>";
@@ -109,8 +122,9 @@ if(isset($_POST['insert'])){
     <div class="container" id="title">
       <p class="h3">ADMIN</p>
     </div>
-
-
+    <?php>
+    if ($_SESSION['username']== 'secy'){
+      ?>
       <div class="container align-self-center">
         <form method="POST" action="">
             <div clas="form-group row">
@@ -159,7 +173,179 @@ if(isset($_POST['insert'])){
              </div>
         </form>
       </div>
+
+    <?php } ?>
+    <?php>
+    if ($_SESSION['username']== 'vp'){
+      ?>
+
+      <table class="table">
+			  <thead>
+			    <tr>
+			      <th scope="col">#</th>
+			      <th scope="col">Name Of the Event</th>
+			      <th scope="col">Society</th>
+			      <th scope="col">Date</th>
+			      <th scope="col">Actions</th>
+			    </tr>
+			  </thead>
+			  <tbody>
+
+			  	<?php
+            
+            try {
+              $conn = new PDO("mysql:host=$servername;dbname=$database", $username, $password);
+              $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+              $stmt = $conn->prepare("SELECT * FROM happenings WHERE status = 'forwarded to vp'");
+              $stmt->execute();
+              $i = 1;
+              while ($row = $stmt->fetch()) {
+                echo " <tr>
+					      <th scope='row'>".$i."</th>
+					      <td>".$row['name']."</td>
+					      <td>".$row['society']."</td>
+					      <td>".$row['date']..$row['month']."</td>
+					      <td><form method = 'post'> <input type='submit' class='btn btn-success' value='Forward to FacAd' name='vpapprove_".$row['id']."' >&nbsp;&nbsp; <input type='submit' class='btn btn-danger' value='Deny' name='deny_".$row['id']."' ></form></td>
+              </tr>";
+
+              if(isset($_POST["vpapprove_'".$row['id']."'"])){
+                try {
+                $conn = new PDO("mysql:host=$servername;dbname=$database", $username, $password);
+                // set the PDO error mode to exception
+                $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+                $sql = "UPDATE happenings SET status='forwarded to facad' WHERE id='".$row['id']."'";
+                // use exec() because no results are returned
+                $conn->exec($sql);
+                echo "<script>alert('Post approved');</script>";
+                } catch(PDOException $e) {
+                  echo $sql . "<br>" . $e->getMessage();
+                }
+              }
+
+              if(isset($_POST["deny'".$row['id']."'"])){
+                try {
+                $conn = new PDO("mysql:host=$servername;dbname=$database", $username, $password);
+                // set the PDO error mode to exception
+                $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+                $sql = "DELETE FROM happenings WHERE id='".$row['id']."'";
+                // use exec() because no results are returned
+                $conn->exec($sql);
+                echo "<script>alert('Post deleted');</script>";
+                } catch(PDOException $e) {
+                  echo $sql . "<br>" . $e->getMessage();
+                }
+              }
+              
+
+                        
+              }
+
+            }
+              
+            catch(PDOException $e) {
+              echo "Error: " . $e->getMessage();
+            }
+            $conn = null;
+
+
+          ?>
+
+          		    
+			    
+			  </tbody>
+			</table>
+
+    <?php } ?>
+
+
+    <?php>
+    if ($_SESSION['username']== 'vp'){
+      ?>
+
+      <table class="table">
+			  <thead>
+			    <tr>
+			      <th scope="col">#</th>
+			      <th scope="col">Name Of the Event</th>
+			      <th scope="col">Society</th>
+			      <th scope="col">Date</th>
+			      <th scope="col">Actions</th>
+			    </tr>
+			  </thead>
+			  <tbody>
+
+			  	<?php
+            
+            try {
+              $conn = new PDO("mysql:host=$servername;dbname=$database", $username, $password);
+              $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+              $stmt = $conn->prepare("SELECT * FROM happenings WHERE status = 'forwarded to facad'");
+              $stmt->execute();
+              $i = 1;
+              while ($row = $stmt->fetch()) {
+                echo " <tr>
+					      <th scope='row'>".$i."</th>
+					      <td>".$row['name']."</td>
+					      <td>".$row['society']."</td>
+					      <td>".$row['date']..$row['month']."</td>
+					      <td><form method = 'post'> <input type='submit' class='btn btn-success' value='Approve' name='facapprove_".$row['id']."' >&nbsp;&nbsp; <input type='submit' class='btn btn-danger' value='Deny' name='deny_".$row['id']."' ></form></td>
+              </tr>";
+
+              if(isset($_POST["facapprove_'".$row['id']."'"])){
+                try {
+                $conn = new PDO("mysql:host=$servername;dbname=$database", $username, $password);
+                // set the PDO error mode to exception
+                $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+                $sql = "UPDATE happenings SET status='approved' WHERE id='".$row['id']."'";
+                // use exec() because no results are returned
+                $conn->exec($sql);
+                echo "<script>alert('Post approved');</script>";
+                } catch(PDOException $e) {
+                  echo $sql . "<br>" . $e->getMessage();
+                }
+              }
+
+              if(isset($_POST["deny'".$row['id']."'"])){
+                try {
+                $conn = new PDO("mysql:host=$servername;dbname=$database", $username, $password);
+                // set the PDO error mode to exception
+                $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+                $sql = "DELETE FROM happenings WHERE id='".$row['id']."'";
+                // use exec() because no results are returned
+                $conn->exec($sql);
+                echo "<script>alert('Post deleted');</script>";
+                } catch(PDOException $e) {
+                  echo $sql . "<br>" . $e->getMessage();
+                }
+              }
+              
+
+                        
+              }
+
+            }
+              
+            catch(PDOException $e) {
+              echo "Error: " . $e->getMessage();
+            }
+            $conn = null;
+
+
+          ?>
+
+          		    
+			    
+			  </tbody>
+			</table>
+
+    <?php } ?>
+
+
     </section>
+  
+  <?php>
+    if ($_SESSION['username']== 'vp'){
+  ?>
 
     <section class="team">
 	    <div class="container" id="title">
@@ -214,7 +400,8 @@ if(isset($_POST['insert'])){
 			  </tbody>
 			</table>
 	    </div>
-	</section>
+	  </section>
+  <?php } ?>
 
 
 
