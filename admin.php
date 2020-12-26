@@ -204,7 +204,7 @@ if(isset($_POST['insert'])){
 					      <th scope='row'>".$i."</th>
 					      <td>".$row['name']."</td>
 					      <td>".$row['society']."</td>
-					      <td>".$row['date']..$row['month']."</td>
+					      <td>".$row['date'].$row['month']."</td>
 					      <td><form method = 'post'> <input type='submit' class='btn btn-success' value='Forward to FacAd' name='vpapprove_".$row['id']."' >&nbsp;&nbsp; <input type='submit' class='btn btn-danger' value='Deny' name='deny_".$row['id']."' ></form></td>
               </tr>";
 
@@ -287,7 +287,7 @@ if(isset($_POST['insert'])){
 					      <th scope='row'>".$i."</th>
 					      <td>".$row['name']."</td>
 					      <td>".$row['society']."</td>
-					      <td>".$row['date']..$row['month']."</td>
+					      <td>".$row['date'].$row['month']."</td>
 					      <td><form method = 'post'> <input type='submit' class='btn btn-success' value='Approve' name='facapprove_".$row['id']."' >&nbsp;&nbsp; <input type='submit' class='btn btn-danger' value='Deny' name='deny_".$row['id']."' ></form></td>
               </tr>";
 
