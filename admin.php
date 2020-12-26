@@ -217,6 +217,8 @@ if(isset($_POST['insert'])){
                 $sql = "UPDATE happenings SET status='forwarded to facad' WHERE id='".$row['id']."'";
                 // use exec() because no results are returned
                 $conn->exec($sql);
+                header("Refresh:2");
+
                 echo "<script>alert('Post approved');</script>";
                 } catch(PDOException $e) {
                   echo $sql . "<br>" . $e->getMessage();
@@ -233,6 +235,8 @@ if(isset($_POST['insert'])){
                 // use exec() because no results are returned
                 $conn->exec($sql);
                 echo "<script>alert('Post deleted');</script>";
+                header("Refresh:2");
+
                 } catch(PDOException $e) {
                   echo $sql . "<br>" . $e->getMessage();
                 }
@@ -305,6 +309,8 @@ if(isset($_POST['insert'])){
                 // use exec() because no results are returned
                 $conn->exec($sql);
                 echo "<script>alert('Post approved');</script>";
+                header("Refresh:2");
+
                 } catch(PDOException $e) {
                   echo $sql . "<br>" . $e->getMessage();
                 }
@@ -320,6 +326,8 @@ if(isset($_POST['insert'])){
                 // use exec() because no results are returned
                 $conn->exec($sql);
                 echo "<script>alert('Post deleted');</script>";
+                header("Refresh:2");
+
                 } catch(PDOException $e) {
                   echo $sql . "<br>" . $e->getMessage();
                 }
