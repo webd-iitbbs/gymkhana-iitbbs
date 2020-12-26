@@ -208,7 +208,7 @@ if(isset($_POST['insert'])){
 					      <td><form method = 'post'> <input type='submit' class='btn btn-success' value='Forward to FacAd' name='vpapprove_".$row['id']."' >&nbsp;&nbsp; <input type='submit' class='btn btn-danger' value='Deny' name='vpdeny_".$row['id']."' ></form></td>
               </tr>";
               
-              $var = "vpapprove_".$row['id']. ;
+              $var = "vpapprove_".$row['id']. 
               if(isset($_POST[$var])){
                 try {
                 $conn = new PDO("mysql:host=$servername;dbname=$database", $username, $password);
@@ -223,7 +223,7 @@ if(isset($_POST['insert'])){
                 }
               }
 
-              $vd = "vpdeny".$row['id']. ;
+              $vd = "vpdeny".$row['id']. 
               if(isset($_POST[$vd])){
                 try {
                 $conn = new PDO("mysql:host=$servername;dbname=$database", $username, $password);
@@ -294,7 +294,7 @@ if(isset($_POST['insert'])){
 					      <td><form method = 'post'> <input type='submit' class='btn btn-success' value='Approve' name='facapprove_".$row['id']."' >&nbsp;&nbsp; <input type='submit' class='btn btn-danger' value='Deny' name='deny_".$row['id']."' ></form></td>
               </tr>";
 
-              $far = "facapprove_".$row['id']. ;
+              $far = "facapprove_".$row['id']. 
               if(isset($_POST[$far])){
                 try {
                 $conn = new PDO("mysql:host=$servername;dbname=$database", $username, $password);
@@ -309,7 +309,7 @@ if(isset($_POST['insert'])){
                 }
               }
 
-              $fd = "deny".$row['id']. ;
+              $fd = "deny".$row['id']. 
               if(isset($_POST[$fd])){
                 try {
                 $conn = new PDO("mysql:host=$servername;dbname=$database", $username, $password);
