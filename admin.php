@@ -218,12 +218,13 @@ if(isset($_POST['insert'])){
                 // use exec() because no results are returned
                 $conn->exec($sql);
                 echo "<script>alert('Post approved');</script>";
+                header('Location: '.$_SERVER['REQUEST_URI']);
                 } catch(PDOException $e) {
                   echo $sql . "<br>" . $e->getMessage();
                 }
               }
 
-              $vd = "vpdeny".$row['id'].""; 
+              $vd = "vpdeny_".$row['id'].""; 
               if(isset($_POST[$vd])){
                 try {
                 $conn = new PDO("mysql:host=$servername;dbname=$database", $username, $password);
@@ -233,6 +234,7 @@ if(isset($_POST['insert'])){
                 // use exec() because no results are returned
                 $conn->exec($sql);
                 echo "<script>alert('Post deleted');</script>";
+                header('Location: '.$_SERVER['REQUEST_URI']);
                 } catch(PDOException $e) {
                   echo $sql . "<br>" . $e->getMessage();
                 }
@@ -304,12 +306,13 @@ if(isset($_POST['insert'])){
                 // use exec() because no results are returned
                 $conn->exec($sql);
                 echo "<script>alert('Post approved');</script>";
+                header('Location: '.$_SERVER['REQUEST_URI']);
                 } catch(PDOException $e) {
                   echo $sql . "<br>" . $e->getMessage();
                 }
               }
 
-              $fd = "deny".$row['id'].""; 
+              $fd = "deny_".$row['id'].""; 
               if(isset($_POST[$fd])){
                 try {
                 $conn = new PDO("mysql:host=$servername;dbname=$database", $username, $password);
@@ -319,6 +322,7 @@ if(isset($_POST['insert'])){
                 // use exec() because no results are returned
                 $conn->exec($sql);
                 echo "<script>alert('Post deleted');</script>";
+                header('Location: '.$_SERVER['REQUEST_URI']);
                 } catch(PDOException $e) {
                   echo $sql . "<br>" . $e->getMessage();
                 }
