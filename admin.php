@@ -218,7 +218,6 @@ if(isset($_POST['insert'])){
                 // use exec() because no results are returned
                 $conn->exec($sql);
                 echo "<script>alert('Post approved');</script>";
-                header('Location: '.$_SERVER['REQUEST_URI']);
                 } catch(PDOException $e) {
                   echo $sql . "<br>" . $e->getMessage();
                 }
@@ -234,7 +233,6 @@ if(isset($_POST['insert'])){
                 // use exec() because no results are returned
                 $conn->exec($sql);
                 echo "<script>alert('Post deleted');</script>";
-                header('Location: '.$_SERVER['REQUEST_URI']);
                 } catch(PDOException $e) {
                   echo $sql . "<br>" . $e->getMessage();
                 }
@@ -243,6 +241,8 @@ if(isset($_POST['insert'])){
 
                         
               }
+
+              header('Location: '.$_SERVER['REQUEST_URI']);
 
             }
               
@@ -306,7 +306,6 @@ if(isset($_POST['insert'])){
                 // use exec() because no results are returned
                 $conn->exec($sql);
                 echo "<script>alert('Post approved');</script>";
-                header('Location: '.$_SERVER['REQUEST_URI']);
                 } catch(PDOException $e) {
                   echo $sql . "<br>" . $e->getMessage();
                 }
@@ -322,7 +321,6 @@ if(isset($_POST['insert'])){
                 // use exec() because no results are returned
                 $conn->exec($sql);
                 echo "<script>alert('Post deleted');</script>";
-                header('Location: '.$_SERVER['REQUEST_URI']);
                 } catch(PDOException $e) {
                   echo $sql . "<br>" . $e->getMessage();
                 }
@@ -331,7 +329,7 @@ if(isset($_POST['insert'])){
 
                         
               }
-
+              header('Location: '.$_SERVER['REQUEST_URI']);
             }
               
             catch(PDOException $e) {
