@@ -178,7 +178,7 @@ if(isset($_POST['insert'])){
     <?php
     if ($_SESSION['username']== 'vp'){
       ?>
-
+      <div class="container">
       <table class="table">
 			  <thead>
 			    <tr>
@@ -254,6 +254,7 @@ if(isset($_POST['insert'])){
 			    
 			  </tbody>
 			</table>
+      </div>
 
     <?php } ?>
 
@@ -261,7 +262,7 @@ if(isset($_POST['insert'])){
     <?php
     if ($_SESSION['username']== 'facad'){
       ?>
-
+      <div class="container">
       <table class="table">
 			  <thead>
 			    <tr>
@@ -337,7 +338,7 @@ if(isset($_POST['insert'])){
 			    
 			  </tbody>
 			</table>
-
+      </div>
     <?php } ?>
 
 
