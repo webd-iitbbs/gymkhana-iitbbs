@@ -242,7 +242,6 @@ if(isset($_POST['insert'])){
                         
               }
 
-              header('Location: '.$_SERVER['REQUEST_URI']);
 
             }
               
@@ -329,7 +328,6 @@ if(isset($_POST['insert'])){
 
                         
               }
-              header('Location: '.$_SERVER['REQUEST_URI']);
             }
               
             catch(PDOException $e) {
