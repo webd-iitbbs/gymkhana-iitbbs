@@ -370,7 +370,7 @@
                     </ul>
                   </div>
                   <div class="text-content">
-                    <h3>Rohit Varre</h3>
+                    <h3>Shivang Pandey</h3>
                     <p>SPORTS AND GAMES</p>
                   </div>
                   <div class="filter"></div>
@@ -378,7 +378,7 @@
               </div>
               <div class="back-b h-100">
                 <div class="card bor-no">
-                  <h4 class="card-title">Rohit Varre</h4>
+                  <h4 class="card-title">Shivang Pandey</h4>
                  
                                   <p class="card-text">GENERAL SECREATARY SPORTS AND GAMES</p>
                                  
@@ -386,7 +386,7 @@
 
                   <ul class="list-inline">
                     <li class="list-inline-item">
-                      <a href="tel:9381426875" class="phone"><i class="fa fa-phone"></i></a>
+                      <a href="tel:9424460989" class="phone"><i class="fa fa-phone"></i></a>
                     </li>
                     <li class="list-inline-item">
                       <a href="mailto:gsecsports.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
@@ -410,7 +410,7 @@
                     </ul>
                   </div>
                   <div class="text-content">
-                    <h3>Akarsh Rana</h3>
+                    <h3>Akshat Rampuria</h3>
                     <p>SCIENCE AND TECHNOLOGY</p>
                   </div>
                   <div class="filter"></div>
@@ -418,13 +418,13 @@
               </div>
               <div class="back-b h-100">
                 <div class="card bor-no">
-                  <h4 class="card-title"> Akarsh Rana </h4>
+                  <h4 class="card-title"> Akshat Rampuria </h4>
                   
                                   <p class="card-text">GENERAL SECREATARY SCIENCE AND TECHNOLOGY</p>
                                   <p class="card-text">IIT BHUBANESHWAR</p>
                  <ul class="list-inline">
                     <li class="list-inline-item">
-                      <a href="tel:9458654394" class="phone"><i class="fa fa-phone"></i></a>
+                      <a href="tel:7597911373" class="phone"><i class="fa fa-phone"></i></a>
                     </li>
                     <li class="list-inline-item">
                       <a href="mailto:gsecsnt.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
@@ -448,7 +448,7 @@
                     </ul>
                   </div>
                   <div class="text-content">
-                    <h3>Swapnil More</h3>
+                    <h3>Ayush Kashyap</h3>
                     <p>SOCIO-CULTURAL</p>
                   </div>
                   <div class="filter"></div>
@@ -456,13 +456,13 @@
               </div>
               <div class="back-b h-100">
                 <div class="card bor-no">
-                  <h4 class="card-title">Swapnil More</h4>
+                  <h4 class="card-title">Ayush Kashyap</h4>
                   
                   <p class="card-text">GENERAL SECREATARY SOCIO-CULTURAL</p>
                   <p class="card-text">IIT BHUBANESHWAR</p>
                  <ul class="list-inline">
                   <li class="list-inline-item">
-                    <a href="tel:9549214948" class="phone"><i class="fa fa-phone"></i></a>
+                    <a href="tel:7488089039" class="phone"><i class="fa fa-phone"></i></a>
                   </li>
                   <li class="list-inline-item">
                     <a href="mailto:gseccul.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
@@ -497,7 +497,7 @@
                     </ul>
                   </div>
                   <div class="text-content">
-                    <h3>M N S S SHASHANK</h3>
+                    <h3>Shishir Reddy Muppidi</h3>
                     <p>Wissenaire</p>
                   </div>
                   <div class="filter"></div>
@@ -505,7 +505,7 @@
               </div>
               <div class="back-b h-100">
                 <div class="card bor-no">
-                  <h4 class="card-title">M N S S SHASHANK</h4>
+                  <h4 class="card-title">Shishir Reddy Muppidi</h4>
                  
                                   <p class="card-text">CHIEF CO-ORDINATOR, Wissenaire</p>
                                  
@@ -513,7 +513,7 @@
 
                   <ul class="list-inline">
                     <li class="list-inline-item">
-                      <a href="tel:9989923323" class="phone"><i class="fa fa-phone"></i></a>
+                      <a href="tel:6309140804" class="phone"><i class="fa fa-phone"></i></a>
                     </li>
                     <li class="list-inline-item">
                       <a href="mailto:coord.wissenaire@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
@@ -537,7 +537,7 @@
                     </ul>
                   </div>
                   <div class="text-content">
-                    <h3>Anmol Surana</h3>
+                    <h3>Nikhil Jobbi</h3>
                     <p>Alma Fiesta</p>
                   </div>
                   <div class="filter"></div>
@@ -545,13 +545,13 @@
               </div>
               <div class="back-b h-100">
                 <div class="card bor-no">
-                  <h4 class="card-title"> Anmol Surana </h4>
+                  <h4 class="card-title"> Nikhil Jobbi </h4>
                   
                                   <p class="card-text">CHIEF CO-ORDINATOR, Alma Fiesta</p>
                                   <p class="card-text">IIT BHUBANESHWAR</p>
                  <ul class="list-inline">
                     <li class="list-inline-item">
-                      <a href="tel:7587799006" class="phone"><i class="fa fa-phone"></i></a>
+                      <a href="tel:7380778657" class="phone"><i class="fa fa-phone"></i></a>
                     </li>
                     <li class="list-inline-item">
                       <a href="mailto:coord.almafiesta@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
@@ -575,7 +575,7 @@
                     </ul>
                   </div>
                   <div class="text-content">
-                    <h3>Abhishek Negi</h3>
+                    <h3>Aditya Jain</h3>
                     <p>Ashvamedha</p>
                   </div>
                   <div class="filter"></div>
@@ -583,7 +583,7 @@
               </div>
               <div class="back-b h-100">
                 <div class="card bor-no">
-                  <h4 class="card-title">ABHISHEK NEGI</h4>
+                  <h4 class="card-title">Aditya Jain</h4>
                  
                                   <p class="card-text">CHIEF CO-ORDINATOR, Ashvamedha</p>
                                  
@@ -591,7 +591,7 @@
 
                   <ul class="list-inline">
                     <li class="list-inline-item">
-                      <a href="tel:7668138088" class="phone"><i class="fa fa-phone"></i></a>
+                      <a href="tel:8126048919" class="phone"><i class="fa fa-phone"></i></a>
                     </li>
                     <li class="list-inline-item">
                       <a href="mailto:coord.ashvamedha@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
