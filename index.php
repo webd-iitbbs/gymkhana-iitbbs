@@ -235,7 +235,7 @@ try {
             <div class="g-bg-color--white g-text-center--xs g-padding-x-10--xs g-padding-y-10--xs">
               <p class="text-uppercase g-font-size-14--xs g-font-weight--500 g-color--primary g-letter-spacing--1">
               </p>
-              <h3 class="g-font-size-22--xs g-letter-spacing--1"><a href="http://www.iitbbs.ac.in/profile.php/sankarsan/">Dr. Sankarsan Mohapatro</a></h3>
+              <h3 class="g-font-size-22--xs g-letter-spacing--1"><a href="https://www.iitbbs.ac.in/profile.php/skaranki/">Dr. Srinivas Bhaskar Karanki</a></h3>
               <p>-President<br>
                   Students Gymkhana</p>
             </div>

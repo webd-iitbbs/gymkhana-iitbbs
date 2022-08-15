@@ -308,7 +308,7 @@
                       <h3 class="g-font-size-32--xs g-font-size-36--sm">Web and Design Society</h3>
                       <p>
 
-        The Web and Design Society of IIT Bhubaneswar has the credit of managing and designing all the websites of the institute and the fests. Though it majorly acts away from the limelight, it transforms its members into creative professionals by equipping them with the skill and art of creating websites and club designs. Members of the society actively conduct competitions for beginners and advanced web designers.
+        The Web and Design Society of IIT Bhubaneswar has the credit of managing and designing all the websites of the institute. We aim to inspire people to select web development as their second hobby and transform them into creative professionals by equipping them with the skill and art of creating websites and club designs. Members of the society actively conduct competitions and workshops for beginners and advanced web developers.
 
         </p>
                   </div>

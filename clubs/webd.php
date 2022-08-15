@@ -91,7 +91,8 @@ try {
             <div class="banner-image-webd"></div>
             <div class="banner-text text-center">
                 <img src="../assets/img/society logos/webd.png" height="100px" width="auto" alt="">
-                <p style="color: white;">WEB AND DESIGN SOCIETY</p>
+                <h1>WEB AND DESIGN SOCIETY</h1>
+                <!-- <p style="color: white;">WEB AND DESIGN SOCIETY</p> -->
                 <p><span class="descripeMe"></span></p>
                 <!-- <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#">About us</a> -->
             </div>
@@ -107,7 +108,7 @@ try {
                     <br>
                     <br>
 
-                    <!-- <img src="../assets/img/Soc-Images/risc(1).jpg" class="img-fluid" width="500px" height="auto" alt=""> -->
+                    <img src="../assets/img/Soc-Images/webd1.jpg" class="img-fluid" width="500px" height="auto" alt="">
 
                     <br>
 
@@ -118,7 +119,7 @@ try {
                         <br>
                         <h2>About Us</h2>
                     </div>
-                    <p>The Web and Design Society of IIT Bhubaneswar has the credit of managing and designing all the websites of the institute and also banners and posters for many events of the institute .Though it majorly acts away from the limelight, it transforms its members into creative professionals by equipping them with the skill and art of creating websites and club designs. Members of the society actively conduct workshops and competitions for beginners as well as advanced web designers.</p>
+                    <p>Web and Design society is responsible for managing and designing all of the institute's websites. It teaches students the skill and art of designing websites and club designs. Members of the organization actively organize competitions for novice and experienced web developers. The first impression of an institution, its fests, or anything else is unquestionably its website. The Web and Design society ensures that this first impression is impressive, informative, up-to-date, effortless, and therefore long-lasting. This society manages all website-related matters for the institute and helps students develop their creativity and master the essential skill of website design.</p>
 
                 </div>
             </div>

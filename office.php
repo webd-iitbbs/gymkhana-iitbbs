@@ -99,7 +99,7 @@
           <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
             <div class="flip-team">
               <div class="front-A h-100">
-                <div class="card profile-card-5 bor-no" data-image-src="assets/img/office/114.jpg">
+                <div class="card profile-card-5 bor-no" data-image-src="assets/img/office/president.jpg">
                   <div class="social-line">
                     <ul>
                       <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
@@ -107,7 +107,7 @@
                     </ul>
                   </div>
                   <div class="text-content">
-                    <h3>Dr. Sankarsan Mohapatro</h3>
+                    <h3>Dr. Srinivas Bhaskar Karanki</h3>
                     <p>PRESIDENT</p>
                   </div>
                   <div class="filter"></div>
@@ -115,15 +115,15 @@
               </div>
               <div class="back-b h-100">
                 <div class="card bor-no">
-                  <h4 class="card-title"> Dr. Sankarsan Mohapatro </h4>
+                  <h4 class="card-title"> Dr. Srinivas Bhaskar Karanki </h4>
                  
                                   <p class="card-text">PRESIDENT</p>
-                                  <p class="card-text">STUDENTS GYMKHANA</p>
+                                  <p class="card-text">STUDENTS' GYMKHANA</p>
                                   <p class="card-text">IIT BHUBANESHWAR</p>
 
                   <ul class="list-inline">
                     <li class="list-inline-item">
-                      <a href="tel:6742306248" class="phone"><i class="fa fa-phone"></i></a>
+                      <a href="tel:06747135746" class="phone"><i class="fa fa-phone"></i></a>
                     </li>
                     <li class="list-inline-item">
                       <a href="mailto:president.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
@@ -158,7 +158,7 @@
                   <h4 class="card-title"> Nischal Soni </h4>
                   
                                   <p class="card-text">VICE PRESIDENT</p>
-                                  <p class="card-text">STUDENTS GYMKHANA</p>
+                                  <p class="card-text">STUDENTS' GYMKHANA</p>
                                   <p class="card-text">IIT BHUBANESHWAR</p>
                  <ul class="list-inline">
                     <li class="list-inline-item">
@@ -186,7 +186,7 @@
                     </ul>
                   </div>
                   <div class="text-content">
-                    <h3> Dr. Yengkhom Kesorjit Singh </h3>
+                    <h3>Dr. Nijwm Wary</h3>
                     <p>TREASURER</p>
                   </div>
                   <div class="filter"></div>
@@ -194,17 +194,17 @@
               </div>
               <div class="back-b h-100">
                 <div class="card bor-no">
-                  <h4 class="card-title"> Dr. Yengkhom Kesorjit Singh </h4>
+                  <h4 class="card-title"> Dr. Nijwm Wary </h4>
                   
                   <p class="card-text">TREASURER</p>
-                  <p class="card-text">STUDENTS GYMKHANA</p>
+                  <p class="card-text">STUDENTS' GYMKHANA</p>
                   <p class="card-text">IIT BHUBANESHWAR</p>
                  <ul class="list-inline">
                   <li class="list-inline-item">
-                    <a href="tel:6371119583" class="phone"><i class="fa fa-phone"></i></a>
+                    <a href="tel:6747135764" class="phone"><i class="fa fa-phone"></i></a>
                   </li>
                   <li class="list-inline-item">
-                    <a href="mailto:yksingh@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                    <a href="mailto:treasurer.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
                   </li>
                   </ul>
                 </div>
@@ -231,7 +231,7 @@
           <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
             <div class="flip-team">
               <div class="front-A h-100">
-                <div class="card profile-card-5 bor-no" data-image-src="assets/img/office/SandC.jpg">
+                <div class="card profile-card-5 bor-no" data-image-src="assets/img/office/fasnc.jpg">
                   <div class="social-line">
                     <ul>
                       <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
@@ -239,7 +239,7 @@
                     </ul>
                   </div>
                   <div class="text-content">
-                    <h3>Dr. Manaswini Behera</h3>
+                    <h3>Dr. Kodanda Ram Mangipudi</h3>
                     <p>Social & Cultural</p>
                   </div>
                   <div class="filter"></div>
@@ -247,18 +247,18 @@
               </div>
               <div class="back-b h-100">
                 <div class="card bor-no">
-                  <h4 class="card-title">Dr. Manaswini Behera</h4>
+                  <h4 class="card-title">Dr. Kodanda Ram Mangipudi</h4>
                  
                                   <p class="card-text">FACULTY ADVISOR, Social & Cultural</p>
-                                  <p class="card-text">STUDENTS GYMKHANA</p>
+                                  <p class="card-text">STUDENTS' GYMKHANA</p>
                                   <p class="card-text">IIT BHUBANESHWAR</p>
 
                   <ul class="list-inline">
                     <li class="list-inline-item">
-                      <a href="tel: 6747136616" class="phone"><i class="fa fa-phone"></i></a>
+                      <a href="tel:6747136924" class="phone"><i class="fa fa-phone"></i></a>
                     </li>
                     <li class="list-inline-item">
-                      <a href="mailto:manaswini@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                      <a href="mailto:fasnc.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
                     </li>
                   </ul>
                 </div>
@@ -271,7 +271,7 @@
           <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
             <div class="flip-team">
               <div class="front-A h-100">
-                <div class="card profile-card-5 bor-no" data-image-src="assets/img/office/SandT.jpg">
+                <div class="card profile-card-5 bor-no" data-image-src="assets/img/office/fasnt.jpg">
                   <div class="social-line">
                     <ul>
                       <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
@@ -279,7 +279,7 @@
                     </ul>
                   </div>
                   <div class="text-content">
-                    <h3>Dr. Nil Bihari Puhan</h3>
+                    <h3>Dr. Soumya Prakash Dash</h3>
                     <p>Science & Technology</p>
                   </div>
                   <div class="filter"></div>
@@ -287,17 +287,17 @@
               </div>
               <div class="back-b h-100">
                 <div class="card bor-no">
-                  <h4 class="card-title">Dr. Nil Bihari Puhan</h4>
+                  <h4 class="card-title">Dr. Soumya Prakash Dash</h4>
                   
                                   <p class="card-text">FACULTY ADVISOR, Science & Technology</p>
-                                  <p class="card-text">STUDENTS GYMKHANA</p>
+                                  <p class="card-text">STUDENTS' GYMKHANA</p>
                                   <p class="card-text">IIT BHUBANESHWAR</p>
                  <ul class="list-inline">
                     <li class="list-inline-item">
-                      <a href="tel:6747135734" class="phone"><i class="fa fa-phone"></i></a>
+                      <a href="tel:6747135774" class="phone"><i class="fa fa-phone"></i></a>
                     </li>
                     <li class="list-inline-item">
-                      <a href="mailto:nbpuhan@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                      <a href="mailto:fasnt.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
                     </li>
                   </ul>
                 </div>
@@ -310,7 +310,7 @@
           <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
             <div class="flip-team">
               <div class="front-A h-100">
-                <div class="card profile-card-5 bor-no" data-image-src="assets/img/office/SandG.jpg">
+                <div class="card profile-card-5 bor-no" data-image-src="assets/img/office/fasng.jpg">
                   <div class="social-line">
                     <ul>
                       <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
@@ -318,7 +318,7 @@
                     </ul>
                   </div>
                   <div class="text-content">
-                    <h3>Dr. Olive Ray</h3>
+                    <h3>Dr. Anoop Thomas</h3>
                     <p>Sports and Games</p>
                   </div>
                   <div class="filter"></div>
@@ -326,17 +326,17 @@
               </div>
               <div class="back-b h-100">
                 <div class="card bor-no">
-                  <h4 class="card-title">Dr. Olive Ray</h4>
+                  <h4 class="card-title">Dr. Anoop Thomas</h4>
                   
                   <p class="card-text">FACULTY ADVISOR, Sports and Games</p>
-                  <p class="card-text">STUDENTS GYMKHANA</p>
+                  <p class="card-text">STUDENTS' GYMKHANA</p>
                   <p class="card-text">IIT BHUBANESHWAR</p>
                  <ul class="list-inline">
                   <li class="list-inline-item">
-                    <a href="tel:6747135772" class="phone"><i class="fa fa-phone"></i></a>
+                    <a href="tel:6747135760" class="phone"><i class="fa fa-phone"></i></a>
                   </li>
                   <li class="list-inline-item">
-                    <a href="mailto:olive@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                    <a href="mailto:fasng.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
                   </li>
                   </ul>
                 </div>
@@ -826,7 +826,7 @@
                     </ul>
                   </div>
                   <div class="text-content">
-                    <h3>Ayushi Kohli</h3>
+                    <h3>Pritam Sonwalkar</h3>
                     <p>UG Representative</p>
                   </div>
                   <div class="filter"></div>
@@ -834,16 +834,16 @@
               </div>
               <div class="back-b h-100">
                 <div class="card bor-no">
-                  <h4 class="card-title">Ayushi Kohli</h4>
+                  <h4 class="card-title">Pritam Sonwalkar</h4>
                   
                   <p class="card-text">UG Representative</p>
                   <p class="card-text">IIT BHUBANESHWAR</p>
                  <ul class="list-inline">
                   <li class="list-inline-item">
-                    <a href="tel:6355115650" class="phone"><i class="fa fa-phone"></i></a>
+                    <a href="tel:9021698990" class="phone"><i class="fa fa-phone"></i></a>
                   </li>
                   <li class="list-inline-item">
-                    <a href="mailto:kas11@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                    <a href="mailto:ugrep.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
                   </li>
                   </ul>
                 </div>
@@ -857,7 +857,7 @@
    </section>
         
 
-  <!--OTHER SECRATARIES-->
+  <!--SECRATARIES-->
 
   <section class="team">
     <div class="container" id="title">
