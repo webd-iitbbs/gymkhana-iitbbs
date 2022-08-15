@@ -147,7 +147,7 @@
                     </ul>
                   </div>
                   <div class="text-content">
-                    <h3>s Niranjan</h3>
+                    <h3>Nischal Soni</h3>
                     <p>VICE PRESIDENT</p>
                   </div>
                   <div class="filter"></div>
@@ -155,14 +155,14 @@
               </div>
               <div class="back-b h-100">
                 <div class="card bor-no">
-                  <h4 class="card-title"> S Niranjan </h4>
+                  <h4 class="card-title"> Nischal Soni </h4>
                   
                                   <p class="card-text">VICE PRESIDENT</p>
                                   <p class="card-text">STUDENTS GYMKHANA</p>
                                   <p class="card-text">IIT BHUBANESHWAR</p>
                  <ul class="list-inline">
                     <li class="list-inline-item">
-                      <a href="tel:8838506825" class="phone"><i class="fa fa-phone"></i></a>
+                      <a href="tel:7597103641" class="phone"><i class="fa fa-phone"></i></a>
                     </li>
                     <li class="list-inline-item">
                       <a href="mailto:vpresident.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
@@ -485,7 +485,7 @@
   <div class="team-main">
     <div class="container">
       <div class="row">
-        <div class="col-md-3 offset-md-1" style="@media(min-width: 500px){ margin-left: 12.33vw;}">
+        <div class="col-md-3">
           <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
             <div class="flip-team">
               <div class="front-A h-100">
@@ -595,6 +595,44 @@
                     </li>
                     <li class="list-inline-item">
                       <a href="mailto:coord.ashvamedha@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-3">
+          <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
+            <div class="flip-team">
+              <div class="front-A h-100">
+                <div class="card profile-card-5 bor-no" data-image-src="assets/img/office/esummit.jpg">
+                  <div class="social-line">
+                    <ul>
+                      <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
+                      <li><a href="#" class="mail"><i class="fa fa-envelope"></i></a></li>
+                    </ul>
+                  </div>
+                  <div class="text-content">
+                    <h3>Kariveda Sujal Reddy</h3>
+                    <p>E - Summit</p>
+                  </div>
+                  <div class="filter"></div>
+                </div>
+              </div>
+              <div class="back-b h-100">
+                <div class="card bor-no">
+                  <h4 class="card-title"> Kariveda Sujal Reddy </h4>
+                  
+                                  <p class="card-text">CHIEF CO-ORDINATOR, E - Summit</p>
+                                  <p class="card-text">IIT BHUBANESHWAR</p>
+                 <ul class="list-inline">
+                    <li class="list-inline-item">
+                      <a href="tel:8977447553" class="phone"><i class="fa fa-phone"></i></a>
+                    </li>
+                    <li class="list-inline-item">
+                      <a href="mailto:coord.esummit@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
                     </li>
                   </ul>
                 </div>
@@ -823,7 +861,7 @@
 
   <section class="team">
     <div class="container" id="title">
-      <p class="h3">OTHER SECRATARIES</p>
+      <p class="h3">SECRATARIES</p>
     </div>
 
 
@@ -842,7 +880,7 @@
                     </ul>
                   </div>
                   <div class="text-content">
-                    <h3>Soumyajit Manna</h3>
+                    <h3>Yuvraj Pratap Singh</h3>
                     <p>Astronomy</p>
                   </div>
                   <div class="filter"></div>
@@ -850,7 +888,7 @@
               </div>
               <div class="back-b h-100">
                 <div class="card bor-no">
-                  <h4 class="card-title">Soumyajit Manna</h4>
+                  <h4 class="card-title">Yuvraj Pratap Singh</h4>
                  
                                   <p class="card-text">Astronomy Society Secretary</p>
                                  
@@ -858,10 +896,10 @@
 
                   <ul class="list-inline">
                     <li class="list-inline-item">
-                      <a href="tel:8637514426" class="phone"><i class="fa fa-phone"></i></a>
+                      <a href="tel:8789850155" class="phone"><i class="fa fa-phone"></i></a>
                     </li>
                     <li class="list-inline-item">
-                      <a href="mailto:secysnt.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                      <a href="mailto:secyastronomy.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
                     </li>
                   </ul>
                 </div>
@@ -882,7 +920,7 @@
                     </ul>
                   </div>
                   <div class="text-content">
-                    <h3>Sudheer Bulusu</h3>
+                    <h3>Shashwat Singh</h3>
                     <p>Web & Design</p>
                   </div>
                   <div class="filter"></div>
@@ -890,13 +928,13 @@
               </div>
               <div class="back-b h-100">
                 <div class="card bor-no">
-                  <h4 class="card-title">Sudheer Bulusu</h4>
+                  <h4 class="card-title">Shashwat Singh</h4>
                   
                                   <p class="card-text">Web & Design Secretary</p>
                                   <p class="card-text">IIT BHUBANESHWAR</p>
                  <ul class="list-inline">
                     <li class="list-inline-item">
-                      <a href="tel:7675974963" class="phone"><i class="fa fa-phone"></i></a>
+                      <a href="tel:7985417601" class="phone"><i class="fa fa-phone"></i></a>
                     </li>
                     <li class="list-inline-item">
                       <a href="mailto:secyweb.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
@@ -920,7 +958,7 @@
                     </ul>
                   </div>
                   <div class="text-content">
-                    <h3>Harikesh Verma</h3>
+                    <h3>Vidit Srivastava</h3>
                     <p>Robotics Secretary</p>
                   </div>
                   <div class="filter"></div>
@@ -928,13 +966,13 @@
               </div>
               <div class="back-b h-100">
                 <div class="card bor-no">
-                  <h4 class="card-title">Harikesh Verma</h4>
+                  <h4 class="card-title">Vidit Srivastava</h4>
                   
                   <p class="card-text">Robotics Secretary</p>
                   <p class="card-text">IIT BHUBANESHWAR</p>
                  <ul class="list-inline">
                   <li class="list-inline-item">
-                    <a href="tel:8889212939" class="phone"><i class="fa fa-phone"></i></a>
+                    <a href="tel:7985638709" class="phone"><i class="fa fa-phone"></i></a>
                   </li>
                   <li class="list-inline-item">
                     <a href="mailto:secyrobotics.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
@@ -958,7 +996,7 @@
                     </ul>
                   </div>
                   <div class="text-content">
-                    <h3>Navaneeth Bysani</h3>
+                    <h3>Jatin Yadav</h3>
                     <p>Programming</p>
                   </div>
                   <div class="filter"></div>
@@ -966,7 +1004,7 @@
               </div>
               <div class="back-b h-100">
                 <div class="card bor-no">
-                  <h4 class="card-title">Navaneeth Bysani</h4>
+                  <h4 class="card-title">Jatin Yadav</h4>
                  
                                   <p class="card-text">Programming Secretary</p>
                                  
@@ -974,7 +1012,7 @@
 
                   <ul class="list-inline">
                     <li class="list-inline-item">
-                      <a href="tel:8985749089" class="phone"><i class="fa fa-phone"></i></a>
+                      <a href="tel:8278310665" class="phone"><i class="fa fa-phone"></i></a>
                     </li>
                     <li class="list-inline-item">
                       <a href="mailto:secyprogsoc.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
@@ -1001,7 +1039,7 @@
                     </ul>
                   </div>
                   <div class="text-content">
-                    <h3>Nikhil Nooguri</h3>
+                    <h3>Suru Sri Mukhesh</h3>
                     <p>Clix Secretary</p>
                   </div>
                   <div class="filter"></div>
@@ -1009,13 +1047,13 @@
               </div>
               <div class="back-b h-100">
                 <div class="card bor-no">
-                  <h4 class="card-title">Nikhil Nooguri</h4>
+                  <h4 class="card-title">Suru Sri Mukhesh</h4>
                   
                   <p class="card-text">Clix Secretary</p>
                   <p class="card-text">IIT BHUBANESHWAR</p>
                  <ul class="list-inline">
                   <li class="list-inline-item">
-                    <a href="tel:8978214357" class="phone"><i class="fa fa-phone"></i></a>
+                    <a href="tel:8712260676" class="phone"><i class="fa fa-phone"></i></a>
                   </li>
                   <li class="list-inline-item">
                     <a href="mailto:clix.photosoc@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
@@ -1039,7 +1077,7 @@
                     </ul>
                   </div>
                   <div class="text-content">
-                    <h3>Mayur Vastrakar</h3>
+                    <h3>Anshul Kumar Sahu</h3>
                     <p>Souls for Solace</p>
                   </div>
                   <div class="filter"></div>
@@ -1047,13 +1085,13 @@
               </div>
               <div class="back-b h-100">
                 <div class="card bor-no">
-                  <h4 class="card-title">Mayur Vastrakar</h4>
+                  <h4 class="card-title">Anshul Kumar Sahu</h4>
                   
                                   <p class="card-text">Souls for Solace Secretary</p>
                                   <p class="card-text">IIT BHUBANESHWAR</p>
                  <ul class="list-inline">
                     <li class="list-inline-item">
-                      <a href="tel:8319248648" class="phone"><i class="fa fa-phone"></i></a>
+                      <a href="tel:9039840298" class="phone"><i class="fa fa-phone"></i></a>
                     </li>
                     <li class="list-inline-item">
                       <a href="mailto:secysfs.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
@@ -1077,7 +1115,7 @@
                     </ul>
                   </div>
                   <div class="text-content">
-                    <h3>Nischal Soni</h3>
+                    <h3>Harsh Raj</h3>
                     <p>Literary</p>
                   </div>
                   <div class="filter"></div>
@@ -1085,13 +1123,13 @@
               </div>
               <div class="back-b h-100">
                 <div class="card bor-no">
-                  <h4 class="card-title">Nischal Soni</h4>
+                  <h4 class="card-title">Harsh Raj</h4>
                   
                   <p class="card-text">Literary Secretary</p>
                   <p class="card-text">IIT BHUBANESHWAR</p>
                  <ul class="list-inline">
                   <li class="list-inline-item">
-                    <a href="tel:7597103641" class="phone"><i class="fa fa-phone"></i></a>
+                    <a href="tel:7903980379" class="phone"><i class="fa fa-phone"></i></a>
                   </li>
                   <li class="list-inline-item">
                     <a href="mailto:secylitsoc.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
@@ -1114,7 +1152,7 @@
                     </ul>
                   </div>
                   <div class="text-content">
-                    <h3>Sonutez Gottimukkala</h3>
+                    <h3>Bhaskar Rana</h3>
                     <p>Cinematics</p>
                   </div>
                   <div class="filter"></div>
@@ -1122,13 +1160,13 @@
               </div>
               <div class="back-b h-100">
                 <div class="card bor-no">
-                  <h4 class="card-title">Sonutez Gottimukkala</h4>
+                  <h4 class="card-title">Bhaskar Rana</h4>
                   
                   <p class="card-text">Cinematics Secretary</p>
                   <p class="card-text">IIT BHUBANESHWAR</p>
                  <ul class="list-inline">
                   <li class="list-inline-item">
-                    <a href="tel:9381182849" class="phone"><i class="fa fa-phone"></i></a>
+                    <a href="tel:8757426639" class="phone"><i class="fa fa-phone"></i></a>
                   </li>
                   <li class="list-inline-item">
                     <a href="mailto:secycinesoc.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
@@ -1154,7 +1192,7 @@
                     </ul>
                   </div>
                   <div class="text-content">
-                    <h3>Avipsa Abeesweta Sahu</h3>
+                    <h3>L Devi Jeyasri</h3>
                     <p>Dance</p>
                   </div>
                   <div class="filter"></div>
@@ -1162,7 +1200,7 @@
               </div>
               <div class="back-b h-100">
                 <div class="card bor-no">
-                  <h4 class="card-title">Avipsa Abeesweta Sahu</h4>
+                  <h4 class="card-title">L Devi Jeyasri</h4>
                  
                                   <p class="card-text">Dance Secretary</p>
                                  
@@ -1170,7 +1208,7 @@
 
                   <ul class="list-inline">
                     <li class="list-inline-item">
-                      <a href="tel:7008969719" class="phone"><i class="fa fa-phone"></i></a>
+                      <a href="tel:8778442900" class="phone"><i class="fa fa-phone"></i></a>
                     </li>
                     <li class="list-inline-item">
                       <a href="mailto:secydance.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
@@ -1194,7 +1232,7 @@
                     </ul>
                   </div>
                   <div class="text-content">
-                    <h3>Krishna Mundra</h3>
+                    <h3>Ramakrishna Reddy Palle</h3>
                     <p>Music</p>
                   </div>
                   <div class="filter"></div>
@@ -1202,16 +1240,16 @@
               </div>
               <div class="back-b h-100">
                 <div class="card bor-no">
-                  <h4 class="card-title">Krishna Mundra</h4>
+                  <h4 class="card-title">Ramakrishna Reddy Palle</h4>
                   
                                   <p class="card-text">Music Secretary</p>
                                   <p class="card-text">IIT BHUBANESHWAR</p>
                  <ul class="list-inline">
                     <li class="list-inline-item">
-                      <a href="tel:7597740959" class="phone"><i class="fa fa-phone"></i></a>
+                      <a href="tel:8328537734" class="phone"><i class="fa fa-phone"></i></a>
                     </li>
                     <li class="list-inline-item">
-                      <a href="mailto:secymsic.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                      <a href="mailto:secymusic.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
                     </li>
                   </ul>
                 </div>
@@ -1232,7 +1270,7 @@
                     </ul>
                   </div>
                   <div class="text-content">
-                    <h3>Nitish Kumar Boora</h3>
+                    <h3>Anshul Buxy</h3>
                     <p>Fine Arts</p>
                   </div>
                   <div class="filter"></div>
@@ -1240,13 +1278,13 @@
               </div>
               <div class="back-b h-100">
                 <div class="card bor-no">
-                  <h4 class="card-title">Nitish Kumar Boora</h4>
+                  <h4 class="card-title">Anshul Buxy</h4>
                   
                   <p class="card-text">Fine Arts Secretary</p>
                   <p class="card-text">IIT BHUBANESHWAR</p>
                  <ul class="list-inline">
                   <li class="list-inline-item">
-                    <a href="tel:8792848680" class="phone"><i class="fa fa-phone"></i></a>
+                    <a href="tel:7869291927" class="phone"><i class="fa fa-phone"></i></a>
                   </li>
                   <li class="list-inline-item">
                     <a href="mailto:secyfinearts.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
@@ -1269,21 +1307,21 @@
                     </ul>
                   </div>
                   <div class="text-content">
-                    <h3>Saurabh Kumar</h3>
-                    <p>Dramatic</p>
+                    <h3>Ayush Kumar</h3>
+                    <p>Dramatics</p>
                   </div>
                   <div class="filter"></div>
                 </div>
               </div>
               <div class="back-b h-100">
                 <div class="card bor-no">
-                  <h4 class="card-title">Saurabh Kumar</h4>
+                  <h4 class="card-title">Ayush Kumar</h4>
                   
-                  <p class="card-text">Dramatic Secretary</p>
+                  <p class="card-text">Dramatics Secretary</p>
                   <p class="card-text">IIT BHUBANESHWAR</p>
                  <ul class="list-inline">
                   <li class="list-inline-item">
-                    <a href="tel:9643076289" class="phone"><i class="fa fa-phone"></i></a>
+                    <a href="tel:6372177233" class="phone"><i class="fa fa-phone"></i></a>
                   </li>
                   <li class="list-inline-item">
                     <a href="mailto:secydrams.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
@@ -1309,7 +1347,7 @@
                     </ul>
                   </div>
                   <div class="text-content">
-                    <h3>Aditya Yogesh Sangani</h3>
+                    <h3>Shreyan Bagchi</h3>
                     <p>FOOTBALL</p>
                   </div>
                   <div class="filter"></div>
@@ -1317,7 +1355,7 @@
               </div>
               <div class="back-b h-100">
                 <div class="card bor-no">
-                  <h4 class="card-title">Aditya Yogesh Sangani</h4>
+                  <h4 class="card-title">Shreyan Bagchi</h4>
                  
                                   <p class="card-text">Football Secretary</p>
                                  
@@ -1325,10 +1363,10 @@
 
                   <ul class="list-inline">
                     <li class="list-inline-item">
-                      <a href="tel:7008969719" class="phone"><i class="fa fa-phone"></i></a>
+                      <a href="tel:9777939061" class="phone"><i class="fa fa-phone"></i></a>
                     </li>
                     <li class="list-inline-item">
-                      <a href="mailto:secydance.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                      <a href="mailto:secyfootball.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
                     </li>
                   </ul>
                 </div>
@@ -1349,7 +1387,7 @@
                     </ul>
                   </div>
                   <div class="text-content">
-                    <h3>Paryul Singhai</h3>
+                    <h3>G Phani Sushrutha</h3>
                     <p>Athletics</p>
                   </div>
                   <div class="filter"></div>
@@ -1357,13 +1395,13 @@
               </div>
               <div class="back-b h-100">
                 <div class="card bor-no">
-                  <h4 class="card-title">Paryul Singhai</h4>
+                  <h4 class="card-title">G Phani Sushrutha</h4>
                   
                                   <p class="card-text">Athletics Secretary</p>
                                   <p class="card-text">IIT BHUBANESHWAR</p>
                  <ul class="list-inline">
                     <li class="list-inline-item">
-                      <a href="tel:8318897504" class="phone"><i class="fa fa-phone"></i></a>
+                      <a href="tel:7842647959" class="phone"><i class="fa fa-phone"></i></a>
                     </li>
                     <li class="list-inline-item">
                       <a href="mailto:secyathletics.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
@@ -1387,7 +1425,7 @@
                     </ul>
                   </div>
                   <div class="text-content">
-                    <h3>Ansh Mishra</h3>
+                    <h3>Aditya Roy</h3>
                     <p>Badminton</p>
                   </div>
                   <div class="filter"></div>
@@ -1395,13 +1433,13 @@
               </div>
               <div class="back-b h-100">
                 <div class="card bor-no">
-                  <h4 class="card-title">Ansh Mishra</h4>
+                  <h4 class="card-title">Aditya Roy</h4>
                   
                   <p class="card-text">Badminton Secretary</p>
                   <p class="card-text">IIT BHUBANESHWAR</p>
                  <ul class="list-inline">
                   <li class="list-inline-item">
-                    <a href="tel:8269939408" class="phone"><i class="fa fa-phone"></i></a>
+                    <a href="tel:9881174066" class="phone"><i class="fa fa-phone"></i></a>
                   </li>
                   <li class="list-inline-item">
                     <a href="mailto:secybadminton.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
@@ -1424,7 +1462,7 @@
                     </ul>
                   </div>
                   <div class="text-content">
-                    <h3>Gowtham Gorajana</h3>
+                    <h3>Chippada Venkatesh</h3>
                     <p>Cricket</p>
                   </div>
                   <div class="filter"></div>
@@ -1432,13 +1470,13 @@
               </div>
               <div class="back-b h-100">
                 <div class="card bor-no">
-                  <h4 class="card-title">Gowtham Gorajana</h4>
+                  <h4 class="card-title">Chippada Venkatesh</h4>
                   
                   <p class="card-text">Cricket Secretary</p>
                   <p class="card-text">IIT BHUBANESHWAR</p>
                  <ul class="list-inline">
                   <li class="list-inline-item">
-                    <a href="tel:9390134757" class="phone"><i class="fa fa-phone"></i></a>
+                    <a href="tel:9381596021" class="phone"><i class="fa fa-phone"></i></a>
                   </li>
                   <li class="list-inline-item">
                     <a href="mailto:secycricket.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
@@ -1464,7 +1502,7 @@
                     </ul>
                   </div>
                   <div class="text-content">
-                    <h3>T.Naga sravani</h3>
+                    <h3>N Vikaas</h3>
                     <p>BasketBall</p>
                   </div>
                   <div class="filter"></div>
@@ -1472,7 +1510,7 @@
               </div>
               <div class="back-b h-100">
                 <div class="card bor-no">
-                  <h4 class="card-title">T.Naga sravani</h4>
+                  <h4 class="card-title">N Vikaas</h4>
                  
                                   <p class="card-text">BasketBall Secretary</p>
                                  
@@ -1480,7 +1518,7 @@
 
                   <ul class="list-inline">
                     <li class="list-inline-item">
-                      <a href="tel:9133710059" class="phone"><i class="fa fa-phone"></i></a>
+                      <a href="tel:7904082288" class="phone"><i class="fa fa-phone"></i></a>
                     </li>
                     <li class="list-inline-item">
                       <a href="mailto:secybasketball.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
@@ -1504,7 +1542,7 @@
                     </ul>
                   </div>
                   <div class="text-content">
-                    <h3>Janyavula Shyam Sai</h3>
+                    <h3>Veerendra Pasupuleti</h3>
                     <p>Volley Ball</p>
                   </div>
                   <div class="filter"></div>
@@ -1512,13 +1550,13 @@
               </div>
               <div class="back-b h-100">
                 <div class="card bor-no">
-                  <h4 class="card-title">Janyavula Shyam Sai</h4>
+                  <h4 class="card-title">Veerendra Pasupuleti</h4>
                   
                                   <p class="card-text">Volley Ball Secretary</p>
                                   <p class="card-text">IIT BHUBANESHWAR</p>
                  <ul class="list-inline">
                     <li class="list-inline-item">
-                      <a href="tel:9052454828" class="phone"><i class="fa fa-phone"></i></a>
+                      <a href="tel:8688289991" class="phone"><i class="fa fa-phone"></i></a>
                     </li>
                     <li class="list-inline-item">
                       <a href="mailto:secyvolleyball.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
@@ -1542,7 +1580,7 @@
                     </ul>
                   </div>
                   <div class="text-content">
-                    <h3>Chebrolu Sravanth</h3>
+                    <h3>M Sai Ashwarth Narayan</h3>
                     <p>Tennis</p>
                   </div>
                   <div class="filter"></div>
@@ -1550,13 +1588,13 @@
               </div>
               <div class="back-b h-100">
                 <div class="card bor-no">
-                  <h4 class="card-title">Chebrolu Sravanth</h4>
+                  <h4 class="card-title">M Sai Ashwarth Narayan</h4>
                   
                   <p class="card-text">Tennis Secretary</p>
                   <p class="card-text">IIT BHUBANESHWAR</p>
                  <ul class="list-inline">
                   <li class="list-inline-item">
-                    <a href="tel:6362633813" class="phone"><i class="fa fa-phone"></i></a>
+                    <a href="tel:7989902335" class="phone"><i class="fa fa-phone"></i></a>
                   </li>
                   <li class="list-inline-item">
                     <a href="mailto:secytennis.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
@@ -1579,7 +1617,7 @@
                     </ul>
                   </div>
                   <div class="text-content">
-                    <h3>Gaganpreet Singh</h3>
+                    <h3>Himanshu Kumar</h3>
                     <p>Gym & Weightlifting</p>
                   </div>
                   <div class="filter"></div>
@@ -1587,13 +1625,13 @@
               </div>
               <div class="back-b h-100">
                 <div class="card bor-no">
-                  <h4 class="card-title">Gaganpreet Singh</h4>
+                  <h4 class="card-title">Himanshu Kumar</h4>
                   
                   <p class="card-text">Gym & Weightlifting Secretary</p>
                   <p class="card-text">IIT BHUBANESHWAR</p>
                  <ul class="list-inline">
                   <li class="list-inline-item">
-                    <a href="tel:7982608067" class="phone"><i class="fa fa-phone"></i></a>
+                    <a href="tel:7488807958" class="phone"><i class="fa fa-phone"></i></a>
                   </li>
                   <li class="list-inline-item">
                     <a href="mailto:secygym.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
@@ -1611,7 +1649,7 @@
           <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
             <div class="flip-team">
               <div class="front-A h-100">
-                <div class="card profile-card-5 bor-no" data-image-src="assets/img/office/squash.png">
+                <div class="card profile-card-5 bor-no" data-image-src="assets/img/office/febs.jpeg">
                   <div class="social-line">
                     <ul>
                       <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
@@ -1619,26 +1657,26 @@
                     </ul>
                   </div>
                   <div class="text-content">
-                    <h3>Ponnam Mahendhar</h3>
-                    <p>Squash</p>
+                    <h3>Kshitij Anand</h3>
+                    <p>Finance, Economics & Business</p>
                   </div>
                   <div class="filter"></div>
                 </div>
               </div>
               <div class="back-b h-100">
                 <div class="card bor-no">
-                  <h4 class="card-title">Ponnam Mahendhar</h4>
+                  <h4 class="card-title">Kshitij Anand</h4>
                  
-                                  <p class="card-text">Squash Secretary</p>
+                                  <p class="card-text">Finance, Economics & Business Secretary</p>
                                  
                                   <p class="card-text">IIT BHUBANESHWAR</p>
 
                   <ul class="list-inline">
                     <li class="list-inline-item">
-                      <a href="tel:9381231712" class="phone"><i class="fa fa-phone"></i></a>
+                      <a href="tel:6205632697" class="phone"><i class="fa fa-phone"></i></a>
                     </li>
                     <li class="list-inline-item">
-                      <a href="mailto:secysquash.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                      <a href="mailto:secyfebs.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
                     </li>
                   </ul>
                 </div>
@@ -1659,7 +1697,7 @@
                     </ul>
                   </div>
                   <div class="text-content">
-                    <h3>Tanmay Mallick</h3>
+                    <h3>Pranjali Nema</h3>
                     <p>Table Tennis</p>
                   </div>
                   <div class="filter"></div>
@@ -1667,13 +1705,13 @@
               </div>
               <div class="back-b h-100">
                 <div class="card bor-no">
-                  <h4 class="card-title">Tanmay Mallick</h4>
+                  <h4 class="card-title">Pranjali Nema</h4>
                   
                                   <p class="card-text">Table Tennis Secretary</p>
                                   <p class="card-text">IIT BHUBANESHWAR</p>
                  <ul class="list-inline">
                     <li class="list-inline-item">
-                      <a href="tel:8217505134" class="phone"><i class="fa fa-phone"></i></a>
+                      <a href="tel:9017602468" class="phone"><i class="fa fa-phone"></i></a>
                     </li>
                     <li class="list-inline-item">
                       <a href="mailto:secytabletennis.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
@@ -1689,7 +1727,7 @@
           <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
             <div class="flip-team">
               <div class="front-A h-100">
-                <div class="card profile-card-5 bor-no" data-image-src="assets/img/office/hockey.jpg">
+                <div class="card profile-card-5 bor-no" data-image-src="assets/img/office/quiz.jpg">
                   <div class="social-line">
                     <ul>
                       <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
@@ -1697,24 +1735,24 @@
                     </ul>
                   </div>
                   <div class="text-content">
-                    <h3>Omkar subhasish khuntia</h3>
-                    <p>Hockey</p>
+                    <h3>Adarsh Kumar Taria</h3>
+                    <p>Quiz</p>
                   </div>
                   <div class="filter"></div>
                 </div>
               </div>
               <div class="back-b h-100">
                 <div class="card bor-no">
-                  <h4 class="card-title">Omkar subhasish khuntia</h4>
+                  <h4 class="card-title">Adarsh Kumar Taria</h4>
                   
-                  <p class="card-text">Hockey Secretary</p>
+                  <p class="card-text">Quiz Secretary</p>
                   <p class="card-text">IIT BHUBANESHWAR</p>
                  <ul class="list-inline">
                   <li class="list-inline-item">
-                    <a href="tel:8637230121" class="phone"><i class="fa fa-phone"></i></a>
+                    <a href="tel:9078155020" class="phone"><i class="fa fa-phone"></i></a>
                   </li>
                   <li class="list-inline-item">
-                    <a href="mailto:secytennis.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                    <a href="mailto:quizclub@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
                   </li>
                   </ul>
                 </div>
@@ -1726,7 +1764,7 @@
           <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
             <div class="flip-team">
               <div class="front-A h-100">
-                <div class="card profile-card-5 bor-no" data-image-src="assets/img/office/aquatics.jpeg">
+                <div class="card profile-card-5 bor-no" data-image-src="assets/img/office/panacea.jpg">
                   <div class="social-line">
                     <ul>
                       <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
@@ -1734,24 +1772,24 @@
                     </ul>
                   </div>
                   <div class="text-content">
-                    <h3>Abhinav Singh</h3>
-                    <p>Aquatics</p>
+                    <h3>Parichay Gupta</h3>
+                    <p>Panacea</p>
                   </div>
                   <div class="filter"></div>
                 </div>
               </div>
               <div class="back-b h-100">
                 <div class="card bor-no">
-                  <h4 class="card-title">Abhinav Singh</h4>
+                  <h4 class="card-title">Parichay Gupta</h4>
                   
-                  <p class="card-text">Aquatics Secretary</p>
+                  <p class="card-text">Panacea Club Head</p>
                   <p class="card-text">IIT BHUBANESHWAR</p>
                  <ul class="list-inline">
                   <li class="list-inline-item">
-                    <a href="tel:9599401610" class="phone"><i class="fa fa-phone"></i></a>
+                    <a href="tel:9372936785" class="phone"><i class="fa fa-phone"></i></a>
                   </li>
                   <li class="list-inline-item">
-                    <a href="mailto:secygym.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                    <a href="mailto:iitbbs.panacea@gmail.com" class="mail"><i class="fa fa-envelope"></i></a>
                   </li>
                   </ul>
                 </div>
@@ -1760,6 +1798,50 @@
           </div>
         </div>
        </div>
+       <!--------------------------->
+       
+       <div class="row">
+        <div class="col-md-3">
+          <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
+            <div class="flip-team">
+              <div class="front-A h-100">
+                <div class="card profile-card-5 bor-no" data-image-src="assets/img/office/boardgames.jpg">
+                  <div class="social-line">
+                    <ul>
+                      <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
+                      <li><a href="#" class="mail"><i class="fa fa-envelope"></i></a></li>
+                    </ul>
+                  </div>
+                  <div class="text-content">
+                    <h3>Devesh Patodkar</h3>
+                    <p>Board Games</p>
+                  </div>
+                  <div class="filter"></div>
+                </div>
+              </div>
+              <div class="back-b h-100">
+                <div class="card bor-no">
+                  <h4 class="card-title">Devesh Patodkar</h4>
+                 
+                                  <p class="card-text">Board Games Secretary</p>
+                                 
+                                  <p class="card-text">IIT BHUBANESHWAR</p>
+
+                  <ul class="list-inline">
+                    <li class="list-inline-item">
+                      <a href="tel:8379957983" class="phone"><i class="fa fa-phone"></i></a>
+                    </li>
+                    <li class="list-inline-item">
+                      <a href="mailto:secyboardgames.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+       </div>
+
       </div>
     </div>
    </section>
