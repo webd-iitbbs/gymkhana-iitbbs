@@ -756,8 +756,7 @@ Our campus is coming up with a beautiful olympic size swimming pool. A swimming 
           <div class="col-lg-4 col-md-6 footer-newsletter">
             <h4>Connect with us</h4>
             <div class="social-links">
-              <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
-              <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
+              <a href="https://www.facebook.com/SG.IITBhubaneswar/" class="facebook"><i class="fa fa-facebook"></i></a>
             </div>
           </div>
 

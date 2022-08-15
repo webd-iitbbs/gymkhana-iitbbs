@@ -672,7 +672,7 @@
                     </ul>
                   </div>
                   <div class="text-content">
-                    <h3>Nilkant Zadafiya</h3>
+                    <h3>Tarkeshwar</h3>
                     <p>PG Representative</p>
                   </div>
                   <div class="filter"></div>
@@ -680,16 +680,16 @@
               </div>
               <div class="back-b h-100">
                 <div class="card bor-no">
-                  <h4 class="card-title">Nilkant Zadafiya</h4>
+                  <h4 class="card-title">Tarkeshwar</h4>
                   
                   <p class="card-text">PG Representative</p>
                   <p class="card-text">IIT BHUBANESHWAR</p>
                  <ul class="list-inline">
                   <li class="list-inline-item">
-                    <a href="tel:7818997814" class="phone"><i class="fa fa-phone"></i></a>
+                    <a href="tel:7455080817" class="phone"><i class="fa fa-phone"></i></a>
                   </li>
                   <li class="list-inline-item">
-                    <a href="mailto:nz15@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                    <a href="mailto:21ph05018@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
                   </li>
                   </ul>
                 </div>
@@ -748,7 +748,7 @@
                     </ul>
                   </div>
                   <div class="text-content">
-                    <h3>Rahul R</h3>
+                    <h3>Krishna Harshita Chintalapudi</h3>
                     <p>UG Representative</p>
                   </div>
                   <div class="filter"></div>
@@ -756,7 +756,7 @@
               </div>
               <div class="back-b h-100">
                 <div class="card bor-no">
-                  <h4 class="card-title">Rahul R</h4>
+                  <h4 class="card-title">Krishna Harshita Chintalapudi</h4>
                  
                                   <p class="card-text">UG Representative</p>
                                  
@@ -764,10 +764,10 @@
 
                   <ul class="list-inline">
                     <li class="list-inline-item">
-                      <a href="tel:944757724" class="phone"><i class="fa fa-phone"></i></a>
+                      <a href="tel:9494623309" class="phone"><i class="fa fa-phone"></i></a>
                     </li>
                     <li class="list-inline-item">
-                      <a href="mailto:rr21@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                      <a href="mailto:ugrep.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
                     </li>
                   </ul>
                 </div>
@@ -788,7 +788,7 @@
                     </ul>
                   </div>
                   <div class="text-content">
-                    <h3>Kartik Tewari</h3>
+                    <h3>Aditya Aggarwal</h3>
                     <p>UG Representative</p>
                   </div>
                   <div class="filter"></div>
@@ -796,16 +796,16 @@
               </div>
               <div class="back-b h-100">
                 <div class="card bor-no">
-                  <h4 class="card-title">Kartik Tewari</h4>
+                  <h4 class="card-title">Aditya Aggarwal</h4>
                   
                                   <p class="card-text">UG Representative</p>
                                   <p class="card-text">IIT BHUBANESHWAR</p>
                  <ul class="list-inline">
                     <li class="list-inline-item">
-                      <a href="tel:6303740467" class="phone"><i class="fa fa-phone"></i></a>
+                      <a href="tel:9548027446" class="phone"><i class="fa fa-phone"></i></a>
                     </li>
                     <li class="list-inline-item">
-                      <a href="mailto:kt11@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                      <a href="mailto:ugrep.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
                     </li>
                   </ul>
                 </div>
@@ -1882,8 +1882,7 @@
           <div class="col-lg-4 col-md-6 footer-newsletter">
             <h4>Connect with us</h4>
             <div class="social-links">
-              <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
-              <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
+              <a href="https://www.facebook.com/SG.IITBhubaneswar/" class="facebook"><i class="fa fa-facebook"></i></a>
             </div>
           </div>
 

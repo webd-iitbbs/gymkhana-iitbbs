@@ -127,16 +127,16 @@ if(isset($_POST['submit'])){
           <h3>Connect with us :</h3>
           <div class="social-icons" >
             <a href="https://www.facebook.com/iitbbs/" style="padding-right: 2vw;">
-              <i class="fab fa-facebook-f"></i>
+              <i class="fa fa-facebook-f"></i>
             </a>
             <a href="https://twitter.com/iitbbs" style="padding-right: 2vw;">
-              <i class="fab fa-twitter"></i>
+              <i class="fa fa-twitter"></i>
             </a>
             <a href="https://www.instagram.com/iitbhubaneswar" style="padding-right: 2vw;">
-              <i class="fab fa-instagram"></i>
+              <i class="fa fa-instagram"></i>
             </a>
             <a href="https://www.linkedin.com/school/iit-bhubaneswar-official" style="padding-right: 2vw;">
-              <i class="fab fa-linkedin-in"></i>
+              <i class="fa fa-linkedin"></i>
             </a>
           </div>
         </div>
@@ -216,8 +216,7 @@ if(isset($_POST['submit'])){
               <div class="col-lg-4 col-md-6 footer-newsletter">
                 <h4>Connect with us</h4>
                 <div class="social-links">
-                  <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
-                  <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
+                  <a href="https://www.facebook.com/SG.IITBhubaneswar/" class="facebook"><i class="fa fa-facebook"></i></a>
                 </div>
               </div>
     
