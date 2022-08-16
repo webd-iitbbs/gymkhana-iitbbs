@@ -90,7 +90,7 @@ try {
         <div class="banner-text text-center">
             <img src="../assets/img/society logos/clix.png" height="100px" width="auto" alt="">
             <h1>CLIX</h1>
-            <p style="color: white;">PHOTOGRAPHY SOCIETY</p>
+            <p style="color: white;">THE PHOTOGRAPHY SOCIETY</p>
             <p><span class="descripeMe"></span></p>
             <!-- <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#">About us</a> -->
         </div>
@@ -119,11 +119,11 @@ try {
                 <br><br>
                     <h2>About Us</h2>
                 </div>
-                <p>Drama is theater, life, an escape from life, happiness, and sadness all rolled into one.
-                    Formed in 2009, the society has been a bunch of fun-loving
-                    enthusiastic students who believe in the fact that the domains related to the theatre are the most powerful tool to bring people together and to unleash our hidden potential and talent.
-                    The society tries to address various social causes by understanding the dynamics and nuances of the world around us, observing the grassroot issues closely, and at other times, by imagining and creating a utopian world order as an alternative this, through the medium of theatre.  The society is known to develop performances through nukkad; stage plays, mono acts which not only revolve around political and social themes but also generate a wave of entertainment through the audience effortlessly.Our members go through a great exposure by actively taking part in inter-college competitions and have been bringing laureates for the society.
-                    Overall, it is a great place to find yourself, learn, discover your creative best, everlasting friendships and make memories of a lifetime,
+                <p>“Photography is the only language that can be understood anywhere in the world”
+    - Bruno Barbey <br> <br>
+Clix is a crew of snappers whose mission is to relish the joy of photography both as a profession and also as a hobby. The society includes students of all levels who love capturing unique shots and practise the art of photography for the benefit of the self as well as the campus community. We organize various workshops on photography and post processing for the benefit of amateur shutterbugs. To bring out the hidden talent of the amateur photographers we provide them hands-on-experience through the coverage of various events that are conducted in the campus. <br> <br>
+The Clix community boasts of its undying passion for photography by communicating all its’ zealousness in the form a magazine titled Clixages which includes mesmerizing clicks of the society photographers and thought-provoking articles. We are active users of social media sites for promoting the divinity of photography to the outside world. You can find us on Facebook and Instagram pages where our best output is posted by the members. <br> <br>
+Are you a photo enthusiast? Do you love to click innovative snapshots? Then CLIX is the right platform for you. We are here to nurture your skills and build you as an amazing photographer.
                     </p>
                 
                 </div>

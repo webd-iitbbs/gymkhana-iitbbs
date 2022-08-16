@@ -614,7 +614,7 @@ As we all know that we have    well equipped basketball courts and five more new
       </div>
   </div>
 
-    <div class="g-promo-section">
+    <!-- <div class="g-promo-section">
       <div class="container-sp g-padding-y-80--xs g-padding-y-125--sm">
           <div class="row">
               <div class="col-sm-6 offset-sm-6" style="padding:  30px;">
@@ -632,12 +632,12 @@ As we all know that we have    well equipped basketball courts and five more new
       </div>
       <div class="col-sm-6 col-sm-pull-6 g-promo-section__img-right--md g-promo-section__img-left--md g-bg-position--center g-height-400--xs g-height-100-percent--md js__fullwidth-img" style="background-image: url('./assets/img/sports/hockey.jpg');">
       </div>
-  </div>
+  </div> -->
 
   <div class="g-promo-section">
       <div class="container-sp g-padding-y-80--xs g-padding-y-125--sm">
           <div class="row">
-              <div class="col-sm-6" style="padding:  30px;">
+              <div class="col-sm-6 offset-sm-6" style="padding:  30px;">
                   <div class="g-margin-b-30--xs">
                       <h3 class="g-font-size-32--xs g-font-size-36--sm">TABLE TENNIS</h3>
                       <p>
@@ -648,11 +648,11 @@ Have you ever imagined playing a sport with extraordinary equipment? Here our ca
               </div>
           </div>
       </div>
-      <div class="col-sm-6 g-promo-section__img-right--md g-bg-position--center g-height-400--xs g-height-100-percent--md js__fullwidth-img" style="background-image: url('./assets/img/sports/tt3.jpg');">
+      <div class="col-sm-6 col-sm-pull-6 g-promo-section__img-right--md g-promo-section__img-left--md g-bg-position--center g-height-400--xs g-height-100-percent--md js__fullwidth-img" style="background-image: url('./assets/img/sports/tt3.jpg');">
       </div>
   </div>
 
-  <div class="g-promo-section">
+  <!-- <div class="g-promo-section">
       <div class="container-sp g-padding-y-80--xs g-padding-y-125--sm">
           <div class="row">
               <div class="col-sm-6 offset-sm-6" style="padding:  30px;">
@@ -670,7 +670,7 @@ Have you ever imagined playing a sport with extraordinary equipment? Here our ca
       </div>
       <div class="col-sm-6 col-sm-pull-6 g-promo-section__img-right--md g-promo-section__img-left--md g-bg-position--center g-height-400--xs g-height-100-percent--md js__fullwidth-img" style="background-image: url('./assets/img/sports/squash.jpg');">
       </div>
-  </div>
+  </div> -->
 
   <div class="g-promo-section">
       <div class="container-sp g-padding-y-80--xs g-padding-y-125--sm">
@@ -713,7 +713,7 @@ Tennis is an upcoming sport at our campus, with active development of courts und
           <div class="row">
               <div class="col-sm-6" style="padding:  30px;">
                   <div class="g-margin-b-30--xs">
-                      <h3 class="g-font-size-32--xs g-font-size-36--sm">AQUATICS</h3>
+                      <h3 class="g-font-size-32--xs g-font-size-36--sm">GYM AND WEIGHTLIFTING</h3>
                       <p>
 Our campus is coming up with a beautiful olympic size swimming pool. A swimming pool is one of the best and most important facilities that colleges offer. Swimming is a fun activity but apart from that, it also has physical, social and psychological benefits to it. The health benefits that swimming provides are numerous. It improves flexibility and strength, builds up endurance, and increases muscular flexibility as well. It also helps in muscular balance, strengthening the heart muscles, besides improving the physique, increases blood circulation, rehabilitates muscles, and improves the ability to control and maintain healthy weight. It is an easy get away  of getting some physical activity which can help reduce the rate of obesity and also comes in handy to save lives in drowning situations.
         </p>
