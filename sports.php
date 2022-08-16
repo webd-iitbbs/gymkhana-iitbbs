@@ -295,7 +295,7 @@
 
     <div class="row slider" id="portfolio-wrapper">
         <div class="col-lg-3 col-md-6 portfolio-item filter-cricket">
-          <a href="assets/img/sports/cricket">
+          <a href="assets/img/sports/cricket.jpg">
             <img src="assets/img/sports/cricket.jpg" alt="">
             <div class="details">
               <h4>Cricket</h4>

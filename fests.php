@@ -103,6 +103,15 @@
             </div>
           </div>
 
+          <div class="carousel-item" style="background-image: url(./assets/img/fests/es1.jpeg)">
+            <div class="carousel-container">
+              <div class="container">
+                <h3> E - SUMMIT </h3>
+                <h3> IIT BHUBANESWAR</h3>
+              </div>
+            </div>
+          </div>
+
           <div class="carousel-item" style="background-image: url(./assets/img/fests/w.jpg)">
             <div class="carousel-container">
               <div class="container">
@@ -121,6 +130,15 @@
             </div>
           </div>
 
+          <div class="carousel-item" style="background-image: url(./assets/img/fests/es2.jpeg)">
+            <div class="carousel-container">
+              <div class="container">
+                <h3> E - SUMMIT </h3>
+                <h3> IIT BHUBANESWAR</h3>
+              </div>
+            </div>
+          </div>
+
           <div class="carousel-item" style="background-image: url(./assets/img/fests/w1.jpg)">
             <div class="carousel-container">
               <div class="container">
@@ -134,6 +152,15 @@
             <div class="carousel-container">
               <div class="container">
                 <h3> ASHVAMEDHA </h3>
+                <h3> IIT BHUBANESWAR</h3>
+              </div>
+            </div>
+          </div>
+
+          <div class="carousel-item" style="background-image: url(./assets/img/fests/es3.jpeg)">
+            <div class="carousel-container">
+              <div class="container">
+                <h3> E - SUMMIT </h3>
                 <h3> IIT BHUBANESWAR</h3>
               </div>
             </div>
@@ -166,6 +193,15 @@
             </div>
           </div>  
 
+          <div class="carousel-item" style="background-image: url(./assets/img/fests/es4.jpeg)">
+            <div class="carousel-container">
+              <div class="container">
+                <h3> E - SUMMIT </h3>
+                <h3> IIT BHUBANESWAR</h3>
+              </div>
+            </div>
+          </div>
+
           <div class="carousel-item" style="background-image: url(./assets/img/fests/a4.jpg)">
             <div class="carousel-container">
               <div class="container">
@@ -192,6 +228,15 @@
               </div>
             </div>
           </div> 
+
+          <div class="carousel-item" style="background-image: url(./assets/img/fests/es5.jpeg)">
+            <div class="carousel-container">
+              <div class="container">
+                <h3> E - SUMMIT </h3>
+                <h3> IIT BHUBANESWAR</h3>
+              </div>
+            </div>
+          </div>
 
           <div class="carousel-item" style="background-image: url(./assets/img/fests/a5.jpg)">
             <div class="carousel-container">
@@ -220,6 +265,15 @@
             </div>
           </div> 
 
+          <div class="carousel-item" style="background-image: url(./assets/img/fests/es6.jpeg)">
+            <div class="carousel-container">
+              <div class="container">
+                <h3> E - SUMMIT </h3>
+                <h3> IIT BHUBANESWAR</h3>
+              </div>
+            </div>
+          </div>
+
           <div class="carousel-item" style="background-image: url(./assets/img/fests/a6.jpg)">
             <div class="carousel-container">
               <div class="container">
@@ -246,6 +300,15 @@
               </div>
             </div>
           </div> 
+
+          <div class="carousel-item" style="background-image: url(./assets/img/fests/es7.jpeg)">
+            <div class="carousel-container">
+              <div class="container">
+                <h3> E - SUMMIT </h3>
+                <h3> IIT BHUBANESWAR</h3>
+              </div>
+            </div>
+          </div>
 
           <div class="carousel-item" style="background-image: url(./assets/img/fests/a7.jpg)">
             <div class="carousel-container">
@@ -365,7 +428,7 @@
         </div>
 
 
-        <div class="col-12 col-md-4 order-md-first" style="margin-top: 14vh;">
+        <div class="col-12 col-md-4 order-md-first" style="margin-top: 10vh;">
           <div class="card border-top-0 rounded-5 hover-shadow">
           <div class="card-img position-relative">
             <img class="card-img-top rounded-5" src="assets/img/fests/event-1.jpg" alt="event thumb">
@@ -444,6 +507,60 @@
         </div>
 
       </div>  
+    </section>
+
+    <section id="services" class="container-sp">
+      <div class="row">
+
+        <div class="col-12 col-md-8" data-aos="fade-up">
+
+          <header class="section-header wow fadeInUp">
+            <h3>E - Summit</h3>
+          </header>
+
+          <div>
+
+            <p class="p" align="justify" >E-Summit is a three day event, started as an initiative of the E-Cell of IIT Bhubaneswar. The Summit seeks to facilitate interaction among industrialists, funding agencies, seasoned and upcoming entrepreneurs, academia and students of the participating institutes. E-Summit’22 will include a gamut of activities such as entrepreneurial guest lectures, workshops and panel discussions with experts, startup internship fair and investors drive. E-summit, as a culture of IIT Bhubaneswar, has proved its worth in depleting the Chasm that exists between E-and management. It is the stage for future Industry leaders and Entrepreneurs to exercise their skills.
+            <br><br>"Where Investors Meets Innovators"</p>
+
+
+          </div>
+
+        </div>
+
+
+        <div class="col-12 col-md-4 order-md-first" style="margin-top: 10vh;">
+          <div class="card border-top-0 rounded-5 hover-shadow">
+          <div class="card-img position-relative">
+            <img class="card-img-top rounded-5" src="assets/img/fests/es.jpeg" alt="event thumb">
+           
+          </div>
+          <div class="card-body">
+              <h4 class="card-title">E - Summit</h4>
+            <!-- social media-->
+            <div class="d-flex align-items-end bd-highlight mb-3">
+  <div class="mr-auto p-2 bd-highlight">
+    <a class="text-primary" href="https://e-summit-iitbbs.com/">WEBSITE</a></div>
+ <div class="p-2 bd-highlight">
+    <a class="d-inline-block p-1" href="https://www.facebook.com/centrepreneurship/" class="facebook"><i class="fa fa-facebook"></i></a>
+  </div>
+    <div class="p-2 bd-highlight">
+    <a class="d-inline-block p-1" href="https://www.instagram.com/centrepreneurship/" class="instagram"><i class="fa fa-instagram"></i></a>
+   </div>
+</div>
+           
+          </div>
+        </div>
+        </div>
+
+
+        
+       
+
+      </div>
+
+      </div> 
+
     </section>
 
     
