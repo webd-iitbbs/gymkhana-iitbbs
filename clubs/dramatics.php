@@ -102,7 +102,7 @@ try {
 <div class="back">
     <div class="container">
         <div class="row ">
-            <div class="col-lg-6 text-center cen ">
+            <div class="col-lg-6 text-center center my-auto">
                <br>
                <br>
                 
@@ -113,6 +113,7 @@ try {
             </div>
             <div class="col-lg-6 ">
                 <div class="text-center">
+                <br><br>
                     <h2>About Us</h2>
                 </div>
                 <p>Drama is theater, life, an escape from life, happiness, and sadness all rolled into one.
@@ -250,11 +251,11 @@ try {
           <div class="row">
           <div class="card" style="width: 18rem;">
             <div class="card-body">
-              <h5 class="card-title">Saurabh Kumar</h5>
+              <h5 class="card-title">AYUSH KUMAR</h5>
               <h6 class="card-subtitle mb-2 text-muted">SECRETARY</h6>
               <p class="card-text"></p>
               <center>
-                <a href="tel:9643076289" class="phone"><i class="fa fa-phone"></i></a>
+                <a href="tel:6372177233" class="phone"><i class="fa fa-phone"></i></a>
                 <a href="mailto:secydrams.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
               </center>
             </div>
@@ -266,34 +267,34 @@ try {
           <div class="row justify-content-center">
           <div class="card" style="width: 18rem;">
             <div class="card-body">
-              <h5 class="card-title">Aniket K Shah</h5>
-              <h6 class="card-subtitle mb-2 text-muted">GOVERNER</h6>
+              <h5 class="card-title">Ojasvv Gupta</h5>
+              <h6 class="card-subtitle mb-2 text-muted">GOVERNOR</h6>
               <p class="card-text"></p>
               <center>
-              <a href="mailto:aks23@iitbbs.ac.in" class="phone"><i class="fa fa-phone"></i></a>
-              <a href="tel:6352303546" class="mail"><i class="fa fa-envelope"></i></a>
+              <a href="mailto:20ce01010@iitbbs.ac.in" class="phone"><i class="fa fa-phone"></i></a>
+              <a href="tel:8000250779" class="mail"><i class="fa fa-envelope"></i></a>
               </center>
             </div>
           </div>
           <div class="card" style="width: 18rem;">
             <div class="card-body">
-              <h5 class="card-title">Nitesh Tomar</h5>
-              <h6 class="card-subtitle mb-2 text-muted">GOVERNER</h6>
+              <h5 class="card-title">Dhananjay Singh Nandanwan</h5>
+              <h6 class="card-subtitle mb-2 text-muted">GOVERNOR</h6>
               <p class="card-text"></p>
               <center>
-                <a href="tel:8800647807" class="phone"><i class="fa fa-phone"></i></a>
-                <a href="mailto:nt12@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                <a href="tel:6264290637" class="phone"><i class="fa fa-phone"></i></a>
+                <a href="mailto:20ce01008@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
               </center>
             </div>
           </div>
           <div class="card" style="width: 18rem;">
             <div class="card-body">
-              <h5 class="card-title">Parth sharma</h5>
-              <h6 class="card-subtitle mb-2 text-muted">GOVERNER</h6>
+              <h5 class="card-title">Mayank Sawarna</h5>
+              <h6 class="card-subtitle mb-2 text-muted">GOVERNOR</h6>
               <p class="card-text"></p>
               <center>
-                <a href="tel:8290237445" class="phone"><i class="fa fa-phone"></i></a>
-                <a href="mailto:ps32@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                <a href="tel:8409438028" class="phone"><i class="fa fa-phone"></i></a>
+                <a href="mailto:20ce01006@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
               </center>
             </div>
           </div>

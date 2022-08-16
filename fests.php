@@ -148,7 +148,7 @@
             </div>
           </div>
 
-          <div class="carousel-item" style="background-image: url(./assets/img/fests/w3.JPG)">
+          <div class="carousel-item" style="background-image: url(./assets/img/fests/w3.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <h3> WISSENAIRE </h3>
@@ -184,7 +184,7 @@
             </div>
           </div>
 
-          <div class="carousel-item" style="background-image: url(./assets/img/fests/as5.jpg)">
+          <div class="carousel-item" style="background-image: url(./assets/img/fests/as4.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <h3> ASHVAMEDHA </h3>
@@ -256,14 +256,14 @@
             </div>
           </div>
 
-          <div class="carousel-item" style="background-image: url(./assets/img/fests/w6.jpg)">
+          <!-- <div class="carousel-item" style="background-image: url(./assets/img/fests/w6.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <h3> WISSENAIRE </h3>
                 <h3> IIT BHUBANESWAR</h3>
               </div>
             </div>
-          </div>
+          </div> -->
 
           <div class="carousel-item" style="background-image: url(./assets/img/fests/as7.jpg)">
             <div class="carousel-container">
@@ -327,12 +327,12 @@
             <!-- social media -->
            <div class="d-flex align-items-end bd-highlight mb-3">
   <div class="mr-auto p-2 bd-highlight">
-    <a class="text-primary" href="http://2020.almafiesta.com/">WEBSITE</a></div>
+    <!-- <a class="text-primary" href="http://2020.almafiesta.com/">WEBSITE</a>--></div>
   <div class="p-2 bd-highlight">
-    <a class="d-inline-block p-1" href="https://www.facebook.com/pages/category/Sports-Event/Ashvamedha-Sports-fest-489397321810888/" class="facebook"><i class="fa fa-facebook"></i></a>
+    <a class="d-inline-block p-1" href="https://www.facebook.com/almafiesta/" class="facebook"><i class="fa fa-facebook"></i></a>
   </div>
     <div class="p-2 bd-highlight">
-    <a class="d-inline-block p-1" href="https://www.instagram.com/ashvamedha_iitbbs/" class="instagram"><i class="fa fa-instagram"></i></a>
+    <a class="d-inline-block p-1" href="https://www.instagram.com/almafiesta.iitbbs/" class="instagram"><i class="fa fa-instagram"></i></a>
    </div>
 </div>
            
@@ -378,10 +378,10 @@
   <div class="mr-auto p-2 bd-highlight">
     <a class="text-primary" href="https://www.wissenaire.org/">WEBSITE</a></div>
  <div class="p-2 bd-highlight">
-    <a class="d-inline-block p-1" href="https://www.facebook.com/pages/category/Sports-Event/Ashvamedha-Sports-fest-489397321810888/" class="facebook"><i class="fa fa-facebook"></i></a>
+    <a class="d-inline-block p-1" href="https://www.facebook.com/wissenaireiitbbs/" class="facebook"><i class="fa fa-facebook"></i></a>
   </div>
     <div class="p-2 bd-highlight">
-    <a class="d-inline-block p-1" href="https://www.instagram.com/ashvamedha_iitbbs/" class="instagram"><i class="fa fa-instagram"></i></a>
+    <a class="d-inline-block p-1" href="https://www.instagram.com/wissenaire.iitbbs/" class="instagram"><i class="fa fa-instagram"></i></a>
    </div>
 </div>
            
@@ -430,9 +430,9 @@
             <!-- social media -->
             <div class="d-flex align-items-end bd-highlight mb-3">
   <div class="mr-auto p-2 bd-highlight">
-    <a class="text-primary" href="http://www.iplfantasyleague-ashvamedha.web.app/">WEBSITE</a></div>
+    <!-- <a class="text-primary" href="http://www.iplfantasyleague-ashvamedha.web.app/">WEBSITE</a>--></div>
   <div class="p-2 bd-highlight">
-    <a class="d-inline-block p-1" href="https://www.facebook.com/pages/category/Sports-Event/Ashvamedha-Sports-fest-489397321810888/" class="facebook"><i class="fa fa-facebook"></i></a>
+    <a class="d-inline-block p-1" href="https://www.facebook.com/AshvamedhaIITBBS/" class="facebook"><i class="fa fa-facebook"></i></a>
   </div>
     <div class="p-2 bd-highlight">
     <a class="d-inline-block p-1" href="https://www.instagram.com/ashvamedha_iitbbs/" class="instagram"><i class="fa fa-instagram"></i></a>

@@ -399,7 +399,7 @@ The ability to express your thoughts and ideas effectively is of paramount impor
 ‘Souls for Solace’ is a platform for those who are not satisfied with merely making a living and want to contribute towards creating a better society to live in. In collaboration with various NGOs, the society believes strongly in the principles of sharing what we have with the less fortunate and has undertaken initiatives like blood donation camps, educating the poor, books and clothes donation drives, and much more. It also provides the platform to discuss and implement innovative ideas that could help create a better future.
                             </p>
                         </div>
-                        <a href="clubs/sfs.php" class=" cta text-uppercase s-btn s-btn--sm s-btn--primary-brd g-radius--50 g-padding-x-40--xs">
+                        <a href="clubs/s4s.php" class=" cta text-uppercase s-btn s-btn--sm s-btn--primary-brd g-radius--50 g-padding-x-40--xs">
                           <span>EXPLORE</span>
                           <svg width="13px" height="10px" viewBox="0 0 13 10">
                             <path d="M1,5 L11,5"></path>

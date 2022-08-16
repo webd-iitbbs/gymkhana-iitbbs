@@ -90,7 +90,7 @@ try {
         <div class="banner-text text-center">
             <img src="../assets/img/society logos/literary.png" height="100px" width="auto" alt="">
             <h1>PANACEA</h1>
-            <p style="color: white;">LITERARY SOCIETY</p>
+            <p style="color: white;">ENGLISH LITERARY SOCIETY</p>
             <p><span class="descripeMe"></span></p>
             <!-- <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#">About us</a> -->
         </div>
@@ -102,7 +102,7 @@ try {
 <div class="back">
     <div class="container">
         <div class="row ">
-            <div class="col-lg-6 text-center cen ">
+            <div class="col-lg-6 text-center center my-auto">
                <br>
                <br>
                 
@@ -119,6 +119,7 @@ try {
             </div>
             <div class="col-lg-6 " id="about">
                 <div class="text-center">
+                <br><br>
                     <h2>About Us</h2>
                 </div>
                 <p>Welcome to Panacea, the English Literary Society of Indian Institute of Technology Bhubaneswar.
@@ -290,12 +291,12 @@ try {
           <div class="row">
           <div class="card" style="width: 18rem;">
             <div class="card-body">
-              <h5 class="card-title">Saurabh Kumar</h5>
-              <h6 class="card-subtitle mb-2 text-muted">SECRETARY</h6>
+              <h5 class="card-title">PARICHAY GUPTA</h5>
+              <h6 class="card-subtitle mb-2 text-muted">CLUB HEAD</h6>
               <p class="card-text"></p>
               <center>
-                <a href="tel:9643076289" class="phone"><i class="fa fa-phone"></i></a>
-                <a href="mailto:secydrams.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                <a href="tel:9372936785" class="phone"><i class="fa fa-phone"></i></a>
+                <a href="mailto:iitbbs.panacea@gmail.com" class="mail"><i class="fa fa-envelope"></i></a>
               </center>
             </div>
           </div>
@@ -309,34 +310,34 @@ try {
               
           <div class="card" style="width: 18rem;">
             <div class="card-body">
-              <h5 class="card-title">Ganesh Ram Koushik</h5>
-              <h6 class="card-subtitle mb-2 text-muted">GOVERNER</h6>
+              <h5 class="card-title">Sarita Shubhadarshini</h5>
+              <h6 class="card-subtitle mb-2 text-muted">GOVERNOR</h6>
               <p class="card-text"></p>
               <center>
-              <a href="tel:7550072415" class="phone"><i class="fa fa-phone"></i></a>
-              <a href="maito:grk14@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+              <a href="tel:7978464762" class="phone"><i class="fa fa-phone"></i></a>
+              <a href="maito:20me01065@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
               </center>
             </div>
           </div>
           <div class="card" style="width: 18rem;">
             <div class="card-body">
-              <h5 class="card-title">Kriti Maloo</h5>
-              <h6 class="card-subtitle mb-2 text-muted">GOVERNER</h6>
+              <h5 class="card-title">Sahare Rakhi Pramod</h5>
+              <h6 class="card-subtitle mb-2 text-muted">GOVERNOR</h6>
               <p class="card-text"></p>
               <center>
-                <a href="tel:9424701601" class="phone"><i class="fa fa-phone"></i></a>
-                <a href="maito:km22@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                <a href="tel:7774933956" class="phone"><i class="fa fa-phone"></i></a>
+                <a href="maito:20ce02022@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
               </center>
             </div>
           </div>
           <div class="card" style="width: 18rem;">
             <div class="card-body">
-              <h5 class="card-title">Y Anish Reddy</h5>
-              <h6 class="card-subtitle mb-2 text-muted">GOVERNER</h6>
+              <h5 class="card-title">Prathamesh Patil</h5>
+              <h6 class="card-subtitle mb-2 text-muted">GOVERNOR</h6>
               <p class="card-text"></p>
               <center>
-                <a href="tel:6302743914" class="phone"><i class="fa fa-phone"></i></a>
-                <a href="maito:yar10@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                <a href="tel:9518548852" class="phone"><i class="fa fa-phone"></i></a>
+                <a href="maito:20me01012@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
               </center>
             </div>
           </div>

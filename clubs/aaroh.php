@@ -103,7 +103,7 @@ try {
 <div class="back">
     <div class="container">
         <div class="row ">
-            <div class="col-lg-6 text-center cen ">
+            <div class="col-lg-6 text-center center my-auto">
                 <br>
                 <br>
                 <img src="../assets/img/Soc-Images/aaroh(1).jpg" width="500px" height="auto" class="img-fluid" alt="">
@@ -113,6 +113,7 @@ try {
             </div>
             <div class="col-lg-6 ">
                 <div class="text-center">
+                <br><br>
                     <h2>About Us</h2>
                 </div>
                 <p>Aaroh was started in 2010 by a group of music enthusiasts in IIT Bhubaneswar. Over
@@ -254,12 +255,12 @@ try {
           <div class="row">
           <div class="card" style="width: 18rem;">
             <div class="card-body">
-              <h5 class="card-title">KRISHNA MUNDRA</h5>
+              <h5 class="card-title">RAMAKRISHNA REDDY PALLE</h5>
               <h6 class="card-subtitle mb-2 text-muted">SECRETARY</h6>
               <p class="card-text"></p>
               <center>
-                <a href="tel:7597740959" class="phone"><i class="fa fa-phone"></i></a>
-                <a href="mailto:secymsic.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                <a href="tel:8328537734" class="phone"><i class="fa fa-phone"></i></a>
+                <a href="mailto:secymusic.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
               </center>
             </div>
           </div>
@@ -270,23 +271,34 @@ try {
           <div class="row justify-content-center">
           <div class="card" style="width: 18rem;">
             <div class="card-body">
-              <h5 class="card-title">Raj Jayavant</h5>
-              <h6 class="card-subtitle mb-2 text-muted">GOVERNER</h6>
+              <h5 class="card-title">Ayush Soni</h5>
+              <h6 class="card-subtitle mb-2 text-muted">GOVERNOR</h6>
               <p class="card-text"></p>
               <center>
-              <a href="tel:9819304846" class="phone"><i class="fa fa-phone"></i></a>
-              <a href="mailto:rsj10@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+              <a href="tel:9958979125" class="phone"><i class="fa fa-phone"></i></a>
+              <a href="mailto:20ee01007@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
               </center>
             </div>
           </div>
           <div class="card" style="width: 18rem;">
             <div class="card-body">
-              <h5 class="card-title">Sagnik Acharya</h5>
-              <h6 class="card-subtitle mb-2 text-muted">GOVERNER</h6>
+              <h5 class="card-title">Aditya Balakrishnan</h5>
+              <h6 class="card-subtitle mb-2 text-muted">GOVERNOR</h6>
               <p class="card-text"></p>
               <center>
-                <a href="tel:8017167230" class="phone"><i class="fa fa-phone"></i></a>
-                <a href="mailto:sa35@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                <a href="tel:9778473211" class="phone"><i class="fa fa-phone"></i></a>
+                <a href="mailto:20cs01019@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+              </center>
+            </div>
+          </div>
+          <div class="card" style="width: 18rem;">
+            <div class="card-body">
+              <h5 class="card-title">Sanchalli Subhadarshini</h5>
+              <h6 class="card-subtitle mb-2 text-muted">GOVERNOR</h6>
+              <p class="card-text"></p>
+              <center>
+                <a href="tel:9348904089" class="phone"><i class="fa fa-phone"></i></a>
+                <a href="mailto:20ce02024@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
               </center>
             </div>
           </div>

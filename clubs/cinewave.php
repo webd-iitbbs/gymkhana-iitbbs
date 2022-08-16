@@ -90,7 +90,7 @@ try {
         <div class="banner-text text-center">
             <img src="../assets/img/society logos/cinewave.png" height="130px" width="auto" alt="">
             <h1>CINEWAVE</h1>
-            <p style="color: white;">THE CINEMATIC SOCIETY</p>
+            <p style="color: white;">THE CINEMATICS SOCIETY</p>
             <p><span class="descripeMe"></span></p>
             <!-- <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#">About us</a> -->
         </div>
@@ -102,7 +102,7 @@ try {
 <div class="back">
     <div class="container">
         <div class="row my-auto">
-            <div class="col-lg-6 text-center cen ">
+            <div class="col-lg-6 text-center center my-auto">
                <br>
                <br>
                <br>
@@ -261,11 +261,11 @@ try {
           <div class="row">
           <div class="card" style="width: 18rem;">
             <div class="card-body">
-              <h5 class="card-title">G. Sonutez</h5>
+              <h5 class="card-title">BHASKAR RANA</h5>
               <h6 class="card-subtitle mb-2 text-muted">SECRETARY</h6>
               <p class="card-text"></p>
               <center>
-                <a href="tel:9381182849" class="phone"><i class="fa fa-phone"></i></a>
+                <a href="tel:8757426639" class="phone"><i class="fa fa-phone"></i></a>
                 <a href="mailto:secycinesoc.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
               </center>
             </div>
@@ -277,34 +277,34 @@ try {
           <div class="row justify-content-center">
           <div class="card" style="width: 18rem;">
             <div class="card-body">
-              <h5 class="card-title">Kadali Jithendra Sri Sai</h5>
-              <h6 class="card-subtitle mb-2 text-muted">Governor</h6>
+              <h5 class="card-title">Prateek Kumar Singh</h5>
+              <h6 class="card-subtitle mb-2 text-muted">GOVERNOR</h6>
               <p class="card-text"></p>
               <center>
-              <a href="tel:7337248309" class="phone"><i class="fa fa-phone"></i></a>
-              <a href="maito:kss12@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+              <a href="tel:8851595987" class="phone"><i class="fa fa-phone"></i></a>
+              <a href="maito:20cs01003@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
               </center>
             </div>
           </div>
           <div class="card" style="width: 18rem;">
             <div class="card-body">
-              <h5 class="card-title">Chaitra Vardhan</h5>
-              <h6 class="card-subtitle mb-2 text-muted">Governor</h6>
+              <h5 class="card-title">Shubham Giri</h5>
+              <h6 class="card-subtitle mb-2 text-muted">GOVERNOR</h6>
               <p class="card-text"></p>
               <center>
-                <a href="tel:6303317836" class="phone"><i class="fa fa-phone"></i></a>
-                <a href="mailto:bcv10@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                <a href="tel:6393395314" class="phone"><i class="fa fa-phone"></i></a>
+                <a href="mailto:20ce01044@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
               </center>
             </div>
           </div>
           <div class="card" style="width: 18rem;">
             <div class="card-body">
-              <h5 class="card-title">Amrit Gaurav Rath</h5>
-              <h6 class="card-subtitle mb-2 text-muted">Governor</h6>
+              <h5 class="card-title">Gagarin Rout</h5>
+              <h6 class="card-subtitle mb-2 text-muted">GOVERNOR</h6>
               <p class="card-text"></p>
               <center>
-                <a href="tel:9439092128" class="phone"><i class="fa fa-phone"></i></a>
-                <a href="mailto:agr10@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                <a href="tel:7205305296" class="phone"><i class="fa fa-phone"></i></a>
+                <a href="mailto:20me02001@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
               </center>
             </div>
           </div>

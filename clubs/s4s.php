@@ -92,7 +92,7 @@ try {
             <br>
             <br>
             <h1>SOULS FOR SOLACE</h1>
-           
+            <p style="color: white;">THE SOCIAL WELFARE SOCIETY</p>
             <p><span class="descripeMe"></span></p>
             <!-- <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#">About us</a> -->
         </div>
@@ -104,11 +104,13 @@ try {
 <div class="back">
     <div class="container">
         <div class="row ">
-            <div class="col-lg-6 text-center cen ">
-               
+            <div class="col-lg-6 text-center center my-auto">
+            <br>
                <br>
                <br>
-                
+               <br>
+               <br>
+
                 <img src="../assets/img/Soc-Images/s4s(1).jpg" class="img-fluid" width="500px" height="auto" alt="">
                 <br>
                 
@@ -116,6 +118,7 @@ try {
             </div>
             <div class="col-lg-6 ">
                 <div class="text-center">
+                <br><br>
                     <h2>About Us</h2>
                 </div>
                 <p>Souls for Solace is the social welfare society of IIT Bhubaneshwar with the ultimate motto of helping the community to reach a better tomorrow. 
@@ -241,7 +244,7 @@ try {
                         <a href="dramatics.php">DRAMATICS</a>
                       </div>
                       <div class="other-links">
-                        <img src="../assets/img/Society logos/quizclub.png" height="55px" width="55px" alt="">
+                        <img src="../assets/img/society logos/quizclub.png" height="55px" width="55px" alt="">
                         <a href="quizclub.php">QUIZCLUB</a>
                       </div>
                       
@@ -265,12 +268,12 @@ try {
           <div class="row">
           <div class="card" style="width: 18rem;">
             <div class="card-body">
-              <h5 class="card-title">Saurabh Kumar</h5>
+              <h5 class="card-title">ANSHUL KUMAR SAHU</h5>
               <h6 class="card-subtitle mb-2 text-muted">SECRETARY</h6>
               <p class="card-text"></p>
               <center>
-                <a href="tel:9643076289" class="phone"><i class="fa fa-phone"></i></a>
-                <a href="mailto:secydrams.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                <a href="tel:9039840298" class="phone"><i class="fa fa-phone"></i></a>
+                <a href="mailto:secysfs.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
               </center>
             </div>
           </div>
@@ -281,34 +284,34 @@ try {
           <div class="row justify-content-center">
           <div class="card" style="width: 18rem;">
             <div class="card-body">
-              <h5 class="card-title">M SADHANA</h5>
-              <h6 class="card-subtitle mb-2 text-muted">GOVERNER</h6>
+              <h5 class="card-title">Y Jhanvi</h5>
+              <h6 class="card-subtitle mb-2 text-muted">GOVERNOR</h6>
               <p class="card-text"></p>
               <center>
-              <a href="tel:9840034535" class="phone"><i class="fa fa-phone"></i></a>
-              <a href="mailto:ms34@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+              <a href="tel:9704863763" class="phone"><i class="fa fa-phone"></i></a>
+              <a href="mailto:20cs01025@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
               </center>
             </div>
           </div>
           <div class="card" style="width: 18rem;">
             <div class="card-body">
-              <h5 class="card-title">Rithik Prasad.V</h5>
-              <h6 class="card-subtitle mb-2 text-muted">GOVERNER</h6>
+              <h5 class="card-title">Yash Yadav</h5>
+              <h6 class="card-subtitle mb-2 text-muted">GOVERNOR</h6>
               <p class="card-text"></p>
               <center>
-                <a href="tel:9491100024" class="phone"><i class="fa fa-phone"></i></a>
-                <a href="mailto:vrp11@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                <a href="tel:9770034733" class="phone"><i class="fa fa-phone"></i></a>
+                <a href="mailto:20ee01008@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
               </center>
             </div>
           </div>
           <div class="card" style="width: 18rem;">
             <div class="card-body">
-              <h5 class="card-title">Jamma Sathwik</h5>
-              <h6 class="card-subtitle mb-2 text-muted">GOVERNER</h6>
+              <h5 class="card-title">Purvi Verma</h5>
+              <h6 class="card-subtitle mb-2 text-muted">GOVERNOR</h6>
               <p class="card-text"></p>
               <center>
-                <a href="tel:8790472897" class="phone"><i class="fa fa-phone"></i></a>
-                <a href="mailto:js25@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                <a href="tel:9399723537" class="phone"><i class="fa fa-phone"></i></a>
+                <a href="mailto:20ce01050@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
               </center>
             </div>
           </div>

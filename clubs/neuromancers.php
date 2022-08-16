@@ -243,11 +243,11 @@ try {
         <div class="row">
           <div class="card" style="width: 18rem;">
             <div class="card-body">
-              <h5 class="card-title">NAVANEETH BYSANI</h5>
+              <h5 class="card-title">JATIN YADAV</h5>
               <h6 class="card-subtitle mb-2 text-muted">SECRETARY</h6>
               <p class="card-text"></p>
               <center>
-                <a href="tel:8985749089" class="phone"><i class="fa fa-phone"></i></a>
+                <a href="tel:8278310665" class="phone"><i class="fa fa-phone"></i></a>
                 <a href="mailto:secyprogsoc.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
               </center>
             </div>
@@ -259,34 +259,34 @@ try {
         <div class="row justify-content-center">
           <div class="card" style="width: 18rem;">
             <div class="card-body">
-              <h5 class="card-title">Arooshi Verma</h5>
+              <h5 class="card-title">Pranay Borgohain</h5>
               <h6 class="card-subtitle mb-2 text-muted">GOVERNOR</h6>
               <p class="card-text"></p>
               <center>
-                <a href="tel:9340039180" class="phone"><i class="fa fa-phone"></i></a>
-                <a href="mailto:av22@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                <a href="tel:7380029581" class="phone"><i class="fa fa-phone"></i></a>
+                <a href="mailto:20ee01015@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
               </center>
             </div>
           </div>
           <div class="card" style="width: 18rem;">
             <div class="card-body">
-              <h5 class="card-title">Aashay Avinash</h5>
+              <h5 class="card-title">Sai Krishna Jupally</h5>
               <h6 class="card-subtitle mb-2 text-muted">GOVERNOR</h6>
               <p class="card-text"></p>
               <center>
-                <a href="tel:9861296273" class="phone"><i class="fa fa-phone"></i></a>
-                <a href="mailto:avp10@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                <a href="tel:8247808373" class="phone"><i class="fa fa-phone"></i></a>
+                <a href="mailto:jsk12@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
               </center>
             </div>
           </div>
           <div class="card" style="width: 18rem;">
             <div class="card-body">
-              <h5 class="card-title">Jayesh Sharma</h5>
+              <h5 class="card-title">Rishvic Pushpakaran</h5>
               <h6 class="card-subtitle mb-2 text-muted">GOVERNOR</h6>
               <p class="card-text"></p>
               <center>
-                <a href="tel:9774630020" class="phone"><i class="fa fa-phone"></i></a>
-                <a href="mailto:js26@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                <a href="tel:8130539104" class="phone"><i class="fa fa-phone"></i></a>
+                <a href="mailto:20cs01018@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
               </center>
             </div>
           </div>

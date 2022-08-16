@@ -199,6 +199,15 @@
             </div>
           </div>
 
+          <div class="carousel-item" style="background-image: url(./assets/img/Soc-Images/webd1.jpg)">
+            <div class="carousel-container">
+              <div class="container">
+                <h3> TECHNICAL COUNCIL </h3>
+                <h3> IIT BHUBANESWAR</h3>
+              </div>
+            </div>
+          </div>
+
         </div>
 
         <a class="carousel-control-prev" href="#introCarousel" role="button" data-slide="prev">

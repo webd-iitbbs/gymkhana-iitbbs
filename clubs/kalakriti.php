@@ -91,7 +91,7 @@ try {
             <div class="banner-text text-center">
                 <img src="../assets/img/society logos/kalakriti.png" height="100px" width="auto" alt="">
                 <h1>KALAKRITI</h1>
-                <p style="color: white;">ARTS SOCIETY</p>
+                <p style="color: white;">FINE ARTS SOCIETY</p>
                 <p><span class="descripeMe"></span></p>
                 <!-- <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#">About us</a> -->
             </div>
@@ -254,11 +254,11 @@ try {
                 <div class="row">
                     <div class="card" style="width: 18rem;">
                         <div class="card-body">
-                            <h5 class="card-title">NITISH KUMAR</h5>
+                            <h5 class="card-title">ANSHUL BUXY</h5>
                             <h6 class="card-subtitle mb-2 text-muted">SECRETARY</h6>
                             <p class="card-text"></p>
                             <center>
-                                <a href="tel:8792848680" class="phone"><i class="fa fa-phone"></i></a>
+                                <a href="tel:7869291927" class="phone"><i class="fa fa-phone"></i></a>
                                 <a href="mailto:secyfinearts.sg@iitbbs.ac.in" class="mail"><i
                                         class="fa fa-envelope"></i></a>
                             </center>
@@ -271,34 +271,34 @@ try {
                 <div class="row justify-content-center">
                     <div class="card" style="width: 18rem;">
                         <div class="card-body">
-                            <h5 class="card-title">Tanushree Shenwai</h5>
+                            <h5 class="card-title">Swapnil Tatiya</h5>
                             <h6 class="card-subtitle mb-2 text-muted">GOVERNOR</h6>
                             <p class="card-text"></p>
                             <center>
-                                <a href="tel:8446340508" class="phone"><i class="fa fa-phone"></i></a>
-                                <a href="mailto:tss10@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                                <a href="tel:7019271476" class="phone"><i class="fa fa-phone"></i></a>
+                                <a href="mailto:20ec01017@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
                             </center>
                         </div>
                     </div>
                     <div class="card" style="width: 18rem;">
                         <div class="card-body">
-                            <h5 class="card-title">Sayantan Mondal</h5>
+                            <h5 class="card-title">Jahnavi Sai Ganta</h5>
                             <h6 class="card-subtitle mb-2 text-muted">GOVERNOR</h6>
                             <p class="card-text"></p>
                             <center>
-                                <a href="tel:8013902075" class="phone"><i class="fa fa-phone"></i></a>
-                                <a href="mailto:sm79@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                                <a href="tel:8247616106" class="phone"><i class="fa fa-phone"></i></a>
+                                <a href="mailto:20me02006@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
                             </center>
                         </div>
                     </div>
                     <div class="card" style="width: 18rem;">
                         <div class="card-body">
-                            <h5 class="card-title">V Sairam Reddy</h5>
+                            <h5 class="card-title">Harsh Bajak</h5>
                             <h6 class="card-subtitle mb-2 text-muted">GOVERNOR</h6>
                             <p class="card-text"></p>
                             <center>
-                                <a href="tel:7569166915" class="phone"><i class="fa fa-phone"></i></a>
-                                <a href="mailto:vsr10@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                                <a href="tel:9351958723" class="phone"><i class="fa fa-phone"></i></a>
+                                <a href="mailto:20ce02036@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
                             </center>
                         </div>
                     </div>
