@@ -141,7 +141,7 @@
             <h3>Student Activity Center</h3>
           </header>
             <p class="p" align="justify">
-              The most ambitious undertaking of the institute in the past year was its decision to co-host the Inter IIT Sports Meet, with IIT Kharagpur. This decision led to a boom in the sports facilities that have been available to the students. The Students Activity Centre, or the SAC, has also been constructed, complete with indoor badminton and squash courts and 6 basketball and volleyball courts. The institute has also taken huge strides towards completing the other sports fields, such as the hockey field, the athletics track, the football field and the cricket ground. These amenities are still under construction and are expected to be completely ready by the end of the next academic year. These facilities will provide increasing opportunity to all the students and will further develop the institutes sports standards.
+            IITs are well known for their fabulous amalgamation of extracurriculars with academics. At the heart of these activities, you can find the Students Activity Center. The SAC boasts an array of badminton, squash, basketball, and volleyball courts, complete with a swimming pool. It houses a gym, a dance room and plenty of amenities to assist the functioning of socio-cultural societies. The Student Activity Center ought to be a haven for sports and sociocultural activities at IIT Bhubaneswar for years to come.
             </p>
         </div>
         <div class="col-md-5 order-md-first">

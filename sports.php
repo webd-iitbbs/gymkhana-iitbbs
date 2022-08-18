@@ -377,6 +377,16 @@
         </a>
       </div>
 
+      <div class="col-lg-3 col-md-6 portfolio-item filter-badminton">
+        <a href="assets/img/sports/gym2.jpg">
+          <img src="assets/img/sports/gym2.jpg" alt="">
+          <div class="details">
+            <h4>Gym</h4>
+           
+          </div>
+        </a>
+      </div>
+
       <div class="col-lg-3 col-md-6 portfolio-item filter-volley">
         <a href="assets/img/sports/volleyball (2).jpg">
           <img src="assets/img/sports/volleyball (2).jpg" alt="">
@@ -715,14 +725,15 @@ Tennis is an upcoming sport at our campus, with active development of courts und
                   <div class="g-margin-b-30--xs">
                       <h3 class="g-font-size-32--xs g-font-size-36--sm">GYM AND WEIGHTLIFTING</h3>
                       <p>
-Our campus is coming up with a beautiful olympic size swimming pool. A swimming pool is one of the best and most important facilities that colleges offer. Swimming is a fun activity but apart from that, it also has physical, social and psychological benefits to it. The health benefits that swimming provides are numerous. It improves flexibility and strength, builds up endurance, and increases muscular flexibility as well. It also helps in muscular balance, strengthening the heart muscles, besides improving the physique, increases blood circulation, rehabilitates muscles, and improves the ability to control and maintain healthy weight. It is an easy get away  of getting some physical activity which can help reduce the rate of obesity and also comes in handy to save lives in drowning situations.
+                      The worst thing I can be is the same as everyone else and I hate it. The gym is not a social place for the fit, it is a place where an individual transforms himself into someone different from the crowd. IIT Bhubaneswar provides its residents with a fully functional gym which is a perfect combo of modern machines and old school weight training. It not only helps you build muscle but also keeps your mental health in a perfect condition.
+So be ready to channelise your energy and hit the gym and transform your mind and soul.
         </p>
                   </div>
                   
               </div>
           </div>
       </div>
-      <div class="col-sm-6 g-promo-section__img-right--md g-bg-position--center g-height-400--xs g-height-100-percent--md js__fullwidth-img" style="background-image: url('./assets/img/sports/aquatics.jpg');">
+      <div class="col-sm-6 g-promo-section__img-right--md g-bg-position--center g-height-400--xs g-height-100-percent--md js__fullwidth-img" style="background-image: url('./assets/img/sports/gym.jpg');">
       </div>
   </div>
 

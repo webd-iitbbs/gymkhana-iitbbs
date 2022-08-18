@@ -529,7 +529,7 @@
         </div>
 
 
-        <div class="col-12 col-md-4 order-md-first" style="margin-top: 10vh;">
+        <div class="col-12 col-md-4 order-md-first" style="margin-top: 6vh;">
           <div class="card border-top-0 rounded-5 hover-shadow">
           <div class="card-img position-relative">
             <img class="card-img-top rounded-5" src="assets/img/fests/es.jpeg" alt="event thumb">
