@@ -72,7 +72,7 @@
                   <li><a href="sportsmeet.php">Inter IIT Sports Meet</a></li>
                   <li><a href="techmeet.php">Inter IIT Tech Meet</a></li>
                   <li><a href="gc.php">General Championship Sports</a></li>
-                  <li><a href="ic.php">Innovation Challenge</a></li>
+                  <!-- <li><a href="ic.php">Innovation Challenge</a></li> -->
                 </ul>
               </li>
               <li><a href="office.php">Office</a></li>
@@ -477,175 +477,6 @@
       </div>
     </div>
    </section>
-  <!--FEST COORDINATORS-->
-  <section class="team">
-    <div class="container" id="title">
-      <p class="h3">FEST CHIEF CO-ORDINATORS</p>
-    </div>
-  <div class="team-main">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-3">
-          <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
-            <div class="flip-team">
-              <div class="front-A h-100">
-                <div class="card profile-card-5 bor-no" data-image-src="assets/img/office/wiss.jpg">
-                  <div class="social-line">
-                    <ul>
-                      <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
-                      <li><a href="#" class="mail"><i class="fa fa-envelope"></i></a></li>
-                    </ul>
-                  </div>
-                  <div class="text-content">
-                    <h3>Shishir Reddy Muppidi</h3>
-                    <p>Wissenaire</p>
-                  </div>
-                  <div class="filter"></div>
-                </div>
-              </div>
-              <div class="back-b h-100">
-                <div class="card bor-no">
-                  <h4 class="card-title">Shishir Reddy Muppidi</h4>
-                 
-                                  <p class="card-text">CHIEF CO-ORDINATOR, Wissenaire</p>
-                                 
-                                  <p class="card-text">IIT BHUBANESHWAR</p>
-
-                  <ul class="list-inline">
-                    <li class="list-inline-item">
-                      <a href="tel:6309140804" class="phone"><i class="fa fa-phone"></i></a>
-                    </li>
-                    <li class="list-inline-item">
-                      <a href="mailto:coord.wissenaire@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        
-        <div class="col-md-3">
-          <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
-            <div class="flip-team">
-              <div class="front-A h-100">
-                <div class="card profile-card-5 bor-no" data-image-src="assets/img/office/alma.jpg">
-                  <div class="social-line">
-                    <ul>
-                      <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
-                      <li><a href="#" class="mail"><i class="fa fa-envelope"></i></a></li>
-                    </ul>
-                  </div>
-                  <div class="text-content">
-                    <h3>Nikhil Jobbi</h3>
-                    <p>Alma Fiesta</p>
-                  </div>
-                  <div class="filter"></div>
-                </div>
-              </div>
-              <div class="back-b h-100">
-                <div class="card bor-no">
-                  <h4 class="card-title"> Nikhil Jobbi </h4>
-                  
-                                  <p class="card-text">CHIEF CO-ORDINATOR, Alma Fiesta</p>
-                                  <p class="card-text">IIT BHUBANESHWAR</p>
-                 <ul class="list-inline">
-                    <li class="list-inline-item">
-                      <a href="tel:7380778657" class="phone"><i class="fa fa-phone"></i></a>
-                    </li>
-                    <li class="list-inline-item">
-                      <a href="mailto:coord.almafiesta@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-md-3">
-          <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
-            <div class="flip-team">
-              <div class="front-A h-100">
-                <div class="card profile-card-5 bor-no" data-image-src="assets/img/office/ashv.jpeg">
-                  <div class="social-line">
-                    <ul>
-                      <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
-                      <li><a href="#" class="mail"><i class="fa fa-envelope"></i></a></li>
-                    </ul>
-                  </div>
-                  <div class="text-content">
-                    <h3>Aditya Jain</h3>
-                    <p>Ashvamedha</p>
-                  </div>
-                  <div class="filter"></div>
-                </div>
-              </div>
-              <div class="back-b h-100">
-                <div class="card bor-no">
-                  <h4 class="card-title">Aditya Jain</h4>
-                 
-                                  <p class="card-text">CHIEF CO-ORDINATOR, Ashvamedha</p>
-                                 
-                                  <p class="card-text">IIT BHUBANESHWAR</p>
-
-                  <ul class="list-inline">
-                    <li class="list-inline-item">
-                      <a href="tel:8126048919" class="phone"><i class="fa fa-phone"></i></a>
-                    </li>
-                    <li class="list-inline-item">
-                      <a href="mailto:coord.ashvamedha@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-md-3">
-          <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
-            <div class="flip-team">
-              <div class="front-A h-100">
-                <div class="card profile-card-5 bor-no" data-image-src="assets/img/office/esummit.jpg">
-                  <div class="social-line">
-                    <ul>
-                      <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
-                      <li><a href="#" class="mail"><i class="fa fa-envelope"></i></a></li>
-                    </ul>
-                  </div>
-                  <div class="text-content">
-                    <h3>Kariveda Sujal Reddy</h3>
-                    <p>E - Summit</p>
-                  </div>
-                  <div class="filter"></div>
-                </div>
-              </div>
-              <div class="back-b h-100">
-                <div class="card bor-no">
-                  <h4 class="card-title"> Kariveda Sujal Reddy </h4>
-                  
-                                  <p class="card-text">CHIEF CO-ORDINATOR, E - Summit</p>
-                                  <p class="card-text">IIT BHUBANESHWAR</p>
-                 <ul class="list-inline">
-                    <li class="list-inline-item">
-                      <a href="tel:8977447553" class="phone"><i class="fa fa-phone"></i></a>
-                    </li>
-                    <li class="list-inline-item">
-                      <a href="mailto:coord.esummit@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        </div>
-       </div>
-      </div>
-    </div>
-   </section>
 
    <!--EXECUTIVE COUNCIL-->
   
@@ -945,45 +776,7 @@
             </div>
           </div>
         </div>
-        
-        <div class="col-md-3">
-          <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
-            <div class="flip-team">
-              <div class="front-A h-100">
-                <div class="card profile-card-5 bor-no" data-image-src="assets/img/office/risc.jpg">
-                  <div class="social-line">
-                    <ul>
-                      <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
-                      <li><a href="#" class="mail"><i class="fa fa-envelope"></i></a></li>
-                    </ul>
-                  </div>
-                  <div class="text-content">
-                    <h3>Vidit Srivastava</h3>
-                    <p>Robotics Secretary</p>
-                  </div>
-                  <div class="filter"></div>
-                </div>
-              </div>
-              <div class="back-b h-100">
-                <div class="card bor-no">
-                  <h4 class="card-title">Vidit Srivastava</h4>
-                  
-                  <p class="card-text">Robotics Secretary</p>
-                  <p class="card-text">IIT BHUBANESHWAR</p>
-                 <ul class="list-inline">
-                  <li class="list-inline-item">
-                    <a href="tel:7985638709" class="phone"><i class="fa fa-phone"></i></a>
-                  </li>
-                  <li class="list-inline-item">
-                    <a href="mailto:secyrobotics.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
-                  </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        
+
         <div class="col-md-3">
           <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
             <div class="flip-team">
@@ -1024,14 +817,11 @@
           </div>
         </div>
         
-       </div>
-       <!-------->
-       <div class="row">
         <div class="col-md-3">
           <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
             <div class="flip-team">
               <div class="front-A h-100">
-                <div class="card profile-card-5 bor-no" data-image-src="assets/img/office/clix.jpg">
+                <div class="card profile-card-5 bor-no" data-image-src="assets/img/office/risc.jpg">
                   <div class="social-line">
                     <ul>
                       <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
@@ -1039,24 +829,24 @@
                     </ul>
                   </div>
                   <div class="text-content">
-                    <h3>Suru Sri Mukhesh</h3>
-                    <p>Clix Secretary</p>
+                    <h3>Vidit Srivastava</h3>
+                    <p>Robotics Secretary</p>
                   </div>
                   <div class="filter"></div>
                 </div>
               </div>
               <div class="back-b h-100">
                 <div class="card bor-no">
-                  <h4 class="card-title">Suru Sri Mukhesh</h4>
+                  <h4 class="card-title">Vidit Srivastava</h4>
                   
-                  <p class="card-text">Clix Secretary</p>
+                  <p class="card-text">Robotics Secretary</p>
                   <p class="card-text">IIT BHUBANESHWAR</p>
                  <ul class="list-inline">
                   <li class="list-inline-item">
-                    <a href="tel:8712260676" class="phone"><i class="fa fa-phone"></i></a>
+                    <a href="tel:7985638709" class="phone"><i class="fa fa-phone"></i></a>
                   </li>
                   <li class="list-inline-item">
-                    <a href="mailto:clix.photosoc@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                    <a href="mailto:secyrobotics.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
                   </li>
                   </ul>
                 </div>
@@ -1065,6 +855,49 @@
           </div>
         </div>
         
+       </div>
+       <!-------->
+       <div class="row">
+       <div class="col-md-3">
+          <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
+            <div class="flip-team">
+              <div class="front-A h-100">
+                <div class="card profile-card-5 bor-no" data-image-src="assets/img/office/febs.jpeg">
+                  <div class="social-line">
+                    <ul>
+                      <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
+                      <li><a href="#" class="mail"><i class="fa fa-envelope"></i></a></li>
+                    </ul>
+                  </div>
+                  <div class="text-content">
+                    <h3>Kshitij Anand</h3>
+                    <p>Finance, Economics & Business</p>
+                  </div>
+                  <div class="filter"></div>
+                </div>
+              </div>
+              <div class="back-b h-100">
+                <div class="card bor-no">
+                  <h4 class="card-title">Kshitij Anand</h4>
+                 
+                                  <p class="card-text">Finance, Economics & Business Secretary</p>
+                                 
+                                  <p class="card-text">IIT BHUBANESHWAR</p>
+
+                  <ul class="list-inline">
+                    <li class="list-inline-item">
+                      <a href="tel:6205632697" class="phone"><i class="fa fa-phone"></i></a>
+                    </li>
+                    <li class="list-inline-item">
+                      <a href="mailto:secyfebs.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
         <div class="col-md-3">
           <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
             <div class="flip-team">
@@ -1335,11 +1168,11 @@
        </div>
        <!--------------------------->
        <div class="row">
-        <div class="col-md-3">
+       <div class="col-md-3">
           <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
             <div class="flip-team">
               <div class="front-A h-100">
-                <div class="card profile-card-5 bor-no" data-image-src="assets/img/office/football.jpg">
+                <div class="card profile-card-5 bor-no" data-image-src="assets/img/office/clix.jpg">
                   <div class="social-line">
                     <ul>
                       <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
@@ -1347,102 +1180,24 @@
                     </ul>
                   </div>
                   <div class="text-content">
-                    <h3>Shreyan Bagchi</h3>
-                    <p>FOOTBALL</p>
+                    <h3>Suru Sri Mukhesh</h3>
+                    <p>Clix Secretary</p>
                   </div>
                   <div class="filter"></div>
                 </div>
               </div>
               <div class="back-b h-100">
                 <div class="card bor-no">
-                  <h4 class="card-title">Shreyan Bagchi</h4>
-                 
-                                  <p class="card-text">Football Secretary</p>
-                                 
-                                  <p class="card-text">IIT BHUBANESHWAR</p>
-
-                  <ul class="list-inline">
-                    <li class="list-inline-item">
-                      <a href="tel:9777939061" class="phone"><i class="fa fa-phone"></i></a>
-                    </li>
-                    <li class="list-inline-item">
-                      <a href="mailto:secyfootball.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        
-        <div class="col-md-3">
-          <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
-            <div class="flip-team">
-              <div class="front-A h-100">
-                <div class="card profile-card-5 bor-no" data-image-src="assets/img/office/athletics.jpg">
-                  <div class="social-line">
-                    <ul>
-                      <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
-                      <li><a href="#" class="mail"><i class="fa fa-envelope"></i></a></li>
-                    </ul>
-                  </div>
-                  <div class="text-content">
-                    <h3>G Phani Sushrutha</h3>
-                    <p>Athletics</p>
-                  </div>
-                  <div class="filter"></div>
-                </div>
-              </div>
-              <div class="back-b h-100">
-                <div class="card bor-no">
-                  <h4 class="card-title">G Phani Sushrutha</h4>
+                  <h4 class="card-title">Suru Sri Mukhesh</h4>
                   
-                                  <p class="card-text">Athletics Secretary</p>
-                                  <p class="card-text">IIT BHUBANESHWAR</p>
-                 <ul class="list-inline">
-                    <li class="list-inline-item">
-                      <a href="tel:7842647959" class="phone"><i class="fa fa-phone"></i></a>
-                    </li>
-                    <li class="list-inline-item">
-                      <a href="mailto:secyathletics.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        
-        <div class="col-md-3">
-          <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
-            <div class="flip-team">
-              <div class="front-A h-100">
-                <div class="card profile-card-5 bor-no" data-image-src="assets/img/office/badm.jpg">
-                  <div class="social-line">
-                    <ul>
-                      <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
-                      <li><a href="#" class="mail"><i class="fa fa-envelope"></i></a></li>
-                    </ul>
-                  </div>
-                  <div class="text-content">
-                    <h3>Aditya Roy</h3>
-                    <p>Badminton</p>
-                  </div>
-                  <div class="filter"></div>
-                </div>
-              </div>
-              <div class="back-b h-100">
-                <div class="card bor-no">
-                  <h4 class="card-title">Aditya Roy</h4>
-                  
-                  <p class="card-text">Badminton Secretary</p>
+                  <p class="card-text">Clix Secretary</p>
                   <p class="card-text">IIT BHUBANESHWAR</p>
                  <ul class="list-inline">
                   <li class="list-inline-item">
-                    <a href="tel:9881174066" class="phone"><i class="fa fa-phone"></i></a>
+                    <a href="tel:8712260676" class="phone"><i class="fa fa-phone"></i></a>
                   </li>
                   <li class="list-inline-item">
-                    <a href="mailto:secybadminton.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                    <a href="mailto:clix.photosoc@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
                   </li>
                   </ul>
                 </div>
@@ -1450,6 +1205,83 @@
             </div>
           </div>
         </div>
+        
+        <div class="col-md-3">
+          <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
+            <div class="flip-team">
+              <div class="front-A h-100">
+                <div class="card profile-card-5 bor-no" data-image-src="assets/img/office/panacea.jpg">
+                  <div class="social-line">
+                    <ul>
+                      <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
+                      <li><a href="#" class="mail"><i class="fa fa-envelope"></i></a></li>
+                    </ul>
+                  </div>
+                  <div class="text-content">
+                    <h3>Parichay Gupta</h3>
+                    <p>Panacea</p>
+                  </div>
+                  <div class="filter"></div>
+                </div>
+              </div>
+              <div class="back-b h-100">
+                <div class="card bor-no">
+                  <h4 class="card-title">Parichay Gupta</h4>
+                  
+                  <p class="card-text">Panacea Club Head</p>
+                  <p class="card-text">IIT BHUBANESHWAR</p>
+                 <ul class="list-inline">
+                  <li class="list-inline-item">
+                    <a href="tel:9372936785" class="phone"><i class="fa fa-phone"></i></a>
+                  </li>
+                  <li class="list-inline-item">
+                    <a href="mailto:iitbbs.panacea@gmail.com" class="mail"><i class="fa fa-envelope"></i></a>
+                  </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <div class="col-md-3">
+          <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
+            <div class="flip-team">
+              <div class="front-A h-100">
+                <div class="card profile-card-5 bor-no" data-image-src="assets/img/office/quiz.jpg">
+                  <div class="social-line">
+                    <ul>
+                      <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
+                      <li><a href="#" class="mail"><i class="fa fa-envelope"></i></a></li>
+                    </ul>
+                  </div>
+                  <div class="text-content">
+                    <h3>Adarsh Kumar Taria</h3>
+                    <p>Quiz</p>
+                  </div>
+                  <div class="filter"></div>
+                </div>
+              </div>
+              <div class="back-b h-100">
+                <div class="card bor-no">
+                  <h4 class="card-title">Adarsh Kumar Taria</h4>
+                  
+                  <p class="card-text">Quiz Secretary</p>
+                  <p class="card-text">IIT BHUBANESHWAR</p>
+                 <ul class="list-inline">
+                  <li class="list-inline-item">
+                    <a href="tel:9078155020" class="phone"><i class="fa fa-phone"></i></a>
+                  </li>
+                  <li class="list-inline-item">
+                    <a href="mailto:quizclub@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                  </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
         <div class="col-md-3">
           <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
             <div class="flip-team">
@@ -1645,11 +1477,11 @@
        </div>
        <!--------------------->
        <div class="row">
-        <div class="col-md-3">
+       <div class="col-md-3">
           <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
             <div class="flip-team">
               <div class="front-A h-100">
-                <div class="card profile-card-5 bor-no" data-image-src="assets/img/office/febs.jpeg">
+                <div class="card profile-card-5 bor-no" data-image-src="assets/img/office/football.jpg">
                   <div class="social-line">
                     <ul>
                       <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
@@ -1657,26 +1489,26 @@
                     </ul>
                   </div>
                   <div class="text-content">
-                    <h3>Kshitij Anand</h3>
-                    <p>Finance, Economics & Business</p>
+                    <h3>Shreyan Bagchi</h3>
+                    <p>FOOTBALL</p>
                   </div>
                   <div class="filter"></div>
                 </div>
               </div>
               <div class="back-b h-100">
                 <div class="card bor-no">
-                  <h4 class="card-title">Kshitij Anand</h4>
+                  <h4 class="card-title">Shreyan Bagchi</h4>
                  
-                                  <p class="card-text">Finance, Economics & Business Secretary</p>
+                                  <p class="card-text">Football Secretary</p>
                                  
                                   <p class="card-text">IIT BHUBANESHWAR</p>
 
                   <ul class="list-inline">
                     <li class="list-inline-item">
-                      <a href="tel:6205632697" class="phone"><i class="fa fa-phone"></i></a>
+                      <a href="tel:9777939061" class="phone"><i class="fa fa-phone"></i></a>
                     </li>
                     <li class="list-inline-item">
-                      <a href="mailto:secyfebs.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                      <a href="mailto:secyfootball.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
                     </li>
                   </ul>
                 </div>
@@ -1727,7 +1559,7 @@
           <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
             <div class="flip-team">
               <div class="front-A h-100">
-                <div class="card profile-card-5 bor-no" data-image-src="assets/img/office/quiz.jpg">
+                <div class="card profile-card-5 bor-no" data-image-src="assets/img/office/badm.jpg">
                   <div class="social-line">
                     <ul>
                       <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
@@ -1735,24 +1567,24 @@
                     </ul>
                   </div>
                   <div class="text-content">
-                    <h3>Adarsh Kumar Taria</h3>
-                    <p>Quiz</p>
+                    <h3>Aditya Roy</h3>
+                    <p>Badminton</p>
                   </div>
                   <div class="filter"></div>
                 </div>
               </div>
               <div class="back-b h-100">
                 <div class="card bor-no">
-                  <h4 class="card-title">Adarsh Kumar Taria</h4>
+                  <h4 class="card-title">Aditya Roy</h4>
                   
-                  <p class="card-text">Quiz Secretary</p>
+                  <p class="card-text">Badminton Secretary</p>
                   <p class="card-text">IIT BHUBANESHWAR</p>
                  <ul class="list-inline">
                   <li class="list-inline-item">
-                    <a href="tel:9078155020" class="phone"><i class="fa fa-phone"></i></a>
+                    <a href="tel:9881174066" class="phone"><i class="fa fa-phone"></i></a>
                   </li>
                   <li class="list-inline-item">
-                    <a href="mailto:quizclub@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                    <a href="mailto:secybadminton.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
                   </li>
                   </ul>
                 </div>
@@ -1760,11 +1592,12 @@
             </div>
           </div>
         </div>
+
         <div class="col-md-3">
           <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
             <div class="flip-team">
               <div class="front-A h-100">
-                <div class="card profile-card-5 bor-no" data-image-src="assets/img/office/panacea.jpg">
+                <div class="card profile-card-5 bor-no" data-image-src="assets/img/office/athletics.jpg">
                   <div class="social-line">
                     <ul>
                       <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
@@ -1772,25 +1605,25 @@
                     </ul>
                   </div>
                   <div class="text-content">
-                    <h3>Parichay Gupta</h3>
-                    <p>Panacea</p>
+                    <h3>G Phani Sushrutha</h3>
+                    <p>Athletics</p>
                   </div>
                   <div class="filter"></div>
                 </div>
               </div>
               <div class="back-b h-100">
                 <div class="card bor-no">
-                  <h4 class="card-title">Parichay Gupta</h4>
+                  <h4 class="card-title">G Phani Sushrutha</h4>
                   
-                  <p class="card-text">Panacea Club Head</p>
-                  <p class="card-text">IIT BHUBANESHWAR</p>
+                                  <p class="card-text">Athletics Secretary</p>
+                                  <p class="card-text">IIT BHUBANESHWAR</p>
                  <ul class="list-inline">
-                  <li class="list-inline-item">
-                    <a href="tel:9372936785" class="phone"><i class="fa fa-phone"></i></a>
-                  </li>
-                  <li class="list-inline-item">
-                    <a href="mailto:iitbbs.panacea@gmail.com" class="mail"><i class="fa fa-envelope"></i></a>
-                  </li>
+                    <li class="list-inline-item">
+                      <a href="tel:7842647959" class="phone"><i class="fa fa-phone"></i></a>
+                    </li>
+                    <li class="list-inline-item">
+                      <a href="mailto:secyathletics.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                    </li>
                   </ul>
                 </div>
               </div>
@@ -1842,6 +1675,177 @@
         </div>
        </div>
 
+      </div>
+    </div>
+   </section>
+
+
+ <!--FEST COORDINATORS-->
+ <section class="team">
+    <div class="container" id="title">
+      <p class="h3">FEST CHIEF CO-ORDINATORS</p>
+    </div>
+  <div class="team-main">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-3">
+          <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
+            <div class="flip-team">
+              <div class="front-A h-100">
+                <div class="card profile-card-5 bor-no" data-image-src="assets/img/office/wiss.jpg">
+                  <div class="social-line">
+                    <ul>
+                      <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
+                      <li><a href="#" class="mail"><i class="fa fa-envelope"></i></a></li>
+                    </ul>
+                  </div>
+                  <div class="text-content">
+                    <h3>Shishir Reddy Muppidi</h3>
+                    <p>Wissenaire</p>
+                  </div>
+                  <div class="filter"></div>
+                </div>
+              </div>
+              <div class="back-b h-100">
+                <div class="card bor-no">
+                  <h4 class="card-title">Shishir Reddy Muppidi</h4>
+                 
+                                  <p class="card-text">CHIEF CO-ORDINATOR, Wissenaire</p>
+                                 
+                                  <p class="card-text">IIT BHUBANESHWAR</p>
+
+                  <ul class="list-inline">
+                    <li class="list-inline-item">
+                      <a href="tel:6309140804" class="phone"><i class="fa fa-phone"></i></a>
+                    </li>
+                    <li class="list-inline-item">
+                      <a href="mailto:coord.wissenaire@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <div class="col-md-3">
+          <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
+            <div class="flip-team">
+              <div class="front-A h-100">
+                <div class="card profile-card-5 bor-no" data-image-src="assets/img/office/alma.jpg">
+                  <div class="social-line">
+                    <ul>
+                      <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
+                      <li><a href="#" class="mail"><i class="fa fa-envelope"></i></a></li>
+                    </ul>
+                  </div>
+                  <div class="text-content">
+                    <h3>Nikhil Jobbi</h3>
+                    <p>Alma Fiesta</p>
+                  </div>
+                  <div class="filter"></div>
+                </div>
+              </div>
+              <div class="back-b h-100">
+                <div class="card bor-no">
+                  <h4 class="card-title"> Nikhil Jobbi </h4>
+                  
+                                  <p class="card-text">CHIEF CO-ORDINATOR, Alma Fiesta</p>
+                                  <p class="card-text">IIT BHUBANESHWAR</p>
+                 <ul class="list-inline">
+                    <li class="list-inline-item">
+                      <a href="tel:7380778657" class="phone"><i class="fa fa-phone"></i></a>
+                    </li>
+                    <li class="list-inline-item">
+                      <a href="mailto:coord.almafiesta@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-3">
+          <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
+            <div class="flip-team">
+              <div class="front-A h-100">
+                <div class="card profile-card-5 bor-no" data-image-src="assets/img/office/ashv.jpeg">
+                  <div class="social-line">
+                    <ul>
+                      <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
+                      <li><a href="#" class="mail"><i class="fa fa-envelope"></i></a></li>
+                    </ul>
+                  </div>
+                  <div class="text-content">
+                    <h3>Aditya Jain</h3>
+                    <p>Ashvamedha</p>
+                  </div>
+                  <div class="filter"></div>
+                </div>
+              </div>
+              <div class="back-b h-100">
+                <div class="card bor-no">
+                  <h4 class="card-title">Aditya Jain</h4>
+                 
+                                  <p class="card-text">CHIEF CO-ORDINATOR, Ashvamedha</p>
+                                 
+                                  <p class="card-text">IIT BHUBANESHWAR</p>
+
+                  <ul class="list-inline">
+                    <li class="list-inline-item">
+                      <a href="tel:8126048919" class="phone"><i class="fa fa-phone"></i></a>
+                    </li>
+                    <li class="list-inline-item">
+                      <a href="mailto:coord.ashvamedha@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-3">
+          <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
+            <div class="flip-team">
+              <div class="front-A h-100">
+                <div class="card profile-card-5 bor-no" data-image-src="assets/img/office/esummit.jpg">
+                  <div class="social-line">
+                    <ul>
+                      <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
+                      <li><a href="#" class="mail"><i class="fa fa-envelope"></i></a></li>
+                    </ul>
+                  </div>
+                  <div class="text-content">
+                    <h3>Kariveda Sujal Reddy</h3>
+                    <p>E - Summit</p>
+                  </div>
+                  <div class="filter"></div>
+                </div>
+              </div>
+              <div class="back-b h-100">
+                <div class="card bor-no">
+                  <h4 class="card-title"> Kariveda Sujal Reddy </h4>
+                  
+                                  <p class="card-text">CHIEF CO-ORDINATOR, E - Summit</p>
+                                  <p class="card-text">IIT BHUBANESHWAR</p>
+                 <ul class="list-inline">
+                    <li class="list-inline-item">
+                      <a href="tel:8977447553" class="phone"><i class="fa fa-phone"></i></a>
+                    </li>
+                    <li class="list-inline-item">
+                      <a href="mailto:coord.esummit@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        </div>
+       </div>
       </div>
     </div>
    </section>

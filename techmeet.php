@@ -56,7 +56,7 @@
                   <li><a href="sportsmeet.php">Inter IIT Sports Meet</a></li>
                   <li><a href="techmeet.php">Inter IIT Tech Meet</a></li>
                   <li><a href="gc.php">General Championship Sports</a></li>
-                  <li><a href="ic.php">Innovation Challenge</a></li>
+                  <!-- <li><a href="ic.php">Innovation Challenge</a></li> -->
                 </ul>
               </li>
               <li><a href="office.php">Office</a></li>
@@ -104,13 +104,11 @@ wherein all the IITs participate. This event is hosted in cycle by one of the
 participating institutions.<br>
 The Inter IIT Tech Meet saw its humble beginning in 2012 at IIT Kanpur as
 Pan IIT Student Initiative and now has grown into an annual meet approved
-by IIT Council. The previous edition of the meet was hosted by IIT Bombay
-and IIT Roorkee ended up on top. Primarily the Inter IIT would have
+by IIT Council. The previous edition of the meet was hosted by IIT Kharagpur. Primarily the Inter IIT would have
 collaborative events targeting networking and knowledge sharing and
-competitive events which fueling innovative work with given constraints to
+competitive events which fuel innovative work with given constraints to
 meet the mission and vision of Tech Meet.<br>
-The 8th Inter IIT Tech Meet is being hosted by IIT Roorkee from 20th-22nd
-December 2019. The 3 day meet will see the best minds from the 23 IITs come
+IIT Kanpur will host the 11th Inter IIT Tech Meet in December 2022. The 3 day meet will see the best minds from the 23 IITs come
 together to find feasible solutions to real-life industry problems offered by bigwigs
 such as DRDO SASE, BITGRIT Japan and The Ashoka Foundation.
 </p>
@@ -184,7 +182,7 @@ Audience Measurement (Mid Prep)</td>
               4.Saksham Arneja
             </td>
           </tr>
-          <tr>
+          <!-- <tr>
             <th scope="row">5</th>
             <td>Engineers’ Conclave (Low Prep)</td>
             <td>No Medal with total score 30/150.</td>
@@ -207,7 +205,7 @@ Audience Measurement (Mid Prep)</td>
             <td>
               
             </td>
-          </tr>
+          </tr> -->
           
         </tbody>
       </table>
