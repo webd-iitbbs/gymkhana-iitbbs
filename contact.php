@@ -89,7 +89,7 @@ if(isset($_POST['submit'])){
                 <ul>
                   <li><a href="sportsmeet.php">Inter IIT Sports Meet</a></li>
                   <li><a href="techmeet.php">Inter IIT Tech Meet</a></li>
-                  <li><a href="gc.php">General Championship Sports</a></li>
+                  <li><a href="gc.php">General Championship</a></li>
                   <!-- <li><a href="ic.php">Innovation Challenge</a></li> -->
                 </ul>
               </li>
