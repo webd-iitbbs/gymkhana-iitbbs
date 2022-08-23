@@ -75,7 +75,7 @@
 
         <div class="carousel-inner" role="listbox">
 
-          <div class="carousel-item active" style="background-image: url(assets/img/meets/IMG_6201.jpg)">
+          <div class="carousel-item active" style="background-image: url(assets/img/meets/gc1.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <h3> General Championship </h3>
@@ -83,7 +83,7 @@
             </div>
           </div>
 
-          <div class="carousel-item" style="background-image: url(assets/img/meets/IMG_6734.jpg)">
+          <div class="carousel-item" style="background-image: url(assets/img/meets/gc2.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <h3> General Championship </h3>
@@ -91,7 +91,7 @@
             </div>
           </div>
 
-          <div class="carousel-item" style="background-image: url(assets/img/meets/IMG_7575.JPG)">
+          <div class="carousel-item" style="background-image: url(assets/img/meets/gc3.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <h3> General Championship </h3>
@@ -99,7 +99,23 @@
             </div>
           </div>
 
-          <div class="carousel-item" style="background-image: url(assets/img/meets/IMG_7634.JPG)">
+          <div class="carousel-item" style="background-image: url(assets/img/meets/gc4.JPG)">
+            <div class="carousel-container">
+              <div class="container">
+                <h3> General Championship </h3>
+              </div>
+            </div>
+          </div>
+
+          <div class="carousel-item" style="background-image: url(assets/img/meets/gc5.JPG)">
+            <div class="carousel-container">
+              <div class="container">
+                <h3> General Championship </h3>
+              </div>
+            </div>
+          </div>
+
+          <div class="carousel-item" style="background-image: url(assets/img/meets/gc6.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <h3> General Championship </h3>
@@ -134,12 +150,12 @@
           <header class="section-header wow fadeInUp">
             <h3>About General Championship</h3>
           </header>
-            <p class="p" align="justify">General Championship is the annual inter-departmental tournament where students strive to uphold their department’s pride. This serves as the right platform for students of various years to have a healthy interaction with each other. Points are allotted to winners and runners in each sport accordingly and the department with the highest aggregate of points across all sports is named the General Champion.Tournaments are held in 12 different sports, namely: Athletics, Badminton, Basketball, Chess, Cricket, Football, Lawn Tennis, Squash, Table Tennis, Volleyball, Throwball and Weightlifting.Each sports sees a winner and points are awarded according to the standings, thus making an overall points tally.
+            <p class="p" align="justify">General Championship is the annual inter-departmental tournament where students strive to uphold their department’s pride. This serves as the right platform for students of various years to have a healthy interaction with each other. Points are allotted to winners and runners in each event accordingly and the department with the highest aggregate of points across all events is named the General Champion. Tournaments are held under 3 different councils, namely: Technical, Cultural and Sports. Each event sees a winner and points are awarded according to the standings, thus making an overall points tally.
 
 </p>
         </div>
         <div class="col-md-5">
-          <img class="img-fluid d-block" src="assets/img/meets/IMG_7634.jpg" alt="about image" style="height:325px; margin: auto;">
+          <img class="img-fluid d-block" src="assets/img/meets/gc7.jpg" alt="about image" style="height:325px; margin: auto;">
         </div>
       </div>
     </div>
