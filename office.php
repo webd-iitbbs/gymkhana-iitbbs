@@ -348,6 +348,97 @@
       </div>
     </div>
    </section>
+
+   <!-- ======= Physical Training Instructors ======= -->
+   <section class="team">
+    <div class="container" id="title">
+      <p class="h3">PHYSICAL TRAINING INSTRUCTORS</p>
+    </div>
+
+
+  <div class="team-main">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-3 offset-md-3">
+          <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
+            <div class="flip-team">
+              <div class="front-A h-100">
+                <div class="card profile-card-5 bor-no" data-image-src="assets/img/office/pti1.jpg">
+                  <div class="social-line">
+                    <ul>
+                      <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
+                      <li><a href="#" class="mail"><i class="fa fa-envelope"></i></a></li>
+                    </ul>
+                  </div>
+                  <div class="text-content">
+                    <h3>Shri Biswajit Pegu</h3>
+                    <p>Physical Training Instructor</p>
+                  </div>
+                  <div class="filter"></div>
+                </div>
+              </div>
+              <div class="back-b h-100">
+                <div class="card bor-no">
+                  <h4 class="card-title">Shri Biswajit Pegu</h4>
+                  
+                  <p class="card-text">Physical Training Instructor</p>
+                  <p class="card-text">IIT BHUBANESHWAR</p>
+                 <ul class="list-inline">
+                  <li class="list-inline-item">
+                    <a href="tel:8120115892 " class="phone"><i class="fa fa-phone"></i></a>
+                  </li>
+                  <li class="list-inline-item">
+                    <a href="mailto:biswajitpegu@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                  </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
+            <div class="flip-team">
+              <div class="front-A h-100">
+                <div class="card profile-card-5 bor-no" data-image-src="assets/img/office/pti2.jpg">
+                  <div class="social-line">
+                    <ul>
+                      <!-- <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li> -->
+                      <li><a href="#" class="mail"><i class="fa fa-envelope"></i></a></li>
+                    </ul>
+                  </div>
+                  <div class="text-content">
+                    <h3>Smt. Sunita Verma</h3>
+                    <p>Physical Training Instructor</p>
+                  </div>
+                  <div class="filter"></div>
+                </div>
+              </div>
+              <div class="back-b h-100">
+                <div class="card bor-no">
+                  <h4 class="card-title">Smt. Sunita Verma</h4>
+                  
+                  <p class="card-text">Physical Training Instructor</p>
+                  <p class="card-text">IIT BHUBANESHWAR</p>
+                 <ul class="list-inline">
+                  <!-- <li class="list-inline-item">
+                    <a href="tel:8639154283" class="phone"><i class="fa fa-phone"></i></a>
+                  </li> -->
+                  <li class="list-inline-item">
+                    <a href="mailto:sunitav@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                  </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+       </div>
+      </div>
+      </div>
+    </div>
+   </section>
+
    <!--general secrataries-->
    <section class="team">
     <div class="container" id="title">
