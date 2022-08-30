@@ -168,7 +168,7 @@
       <div class="row">
         <div class="col-12">
           <div class="d-flex align-items-center section-title justify-content-between">
-            <h2 class="mb-0 text-nowrap mr-3">Results of GC 2020 (interrupted due to COVID-19)</h2>
+            <h2 class="mb-0 text-nowrap mr-3">Results of GC 2022</h2>
             <div class="border-top w-100 border-primary d-none d-sm-block"></div>
           </div>
         </div>
@@ -179,50 +179,33 @@
         <thead>
           <tr>
             <th scope="col">#</th>
-            <th scope="col">Sports</th>
-            <th scope="col">Winners</th>
+            <th scope="col">Department</th>
+            <th scope="col">Title</th>
           </tr>
         </thead>
         <tbody>
           <tr>
             <th scope="row">1</th>
-            <td>Volleyball (Boys)</td>
+            <td>ECE + Metallurgy</td>
             <td>
-              Champions: Mechanical <br>
-              Runners: ECE + Metallurgy <br>
-              3rd Place: Civil <br>
-              4th Place: Computer Science
+              Overall Champion <br>
+              <br>
             </td>
           </tr>
           <tr>
             <th scope="row">2</th>
-            <td>Volleyball (Girls)</td>
+            <td>Computer Science</td>
             <td>
-              Champions: ECE + Metallurgy  <br>
-              Runners: Mechanical <br>
-              3rd Place: Civil <br>
-              4th Place: Electrical
+              1st runner up <br>
+              <br>
             </td>
           </tr>
           <tr>
             <th scope="row">3</th>
-            <td>Athletics<br> (combined result of dualthon relay, discus throw, shotput,<br> standing jump, javelin, long jump)</td>
+            <td>Mechanical</td>
             <td>
-              1st Place: Civil <br>
-              2nd Place: Mechanical <br>
-              3rd Place: ECE + Metallurgy  <br>
-              4th Place: Electrical <br>
-            </td>
-          </tr>
-          
-          <tr>
-            <th scope="row">4</th>
-            <td>WeightLifting (combined result of all categories)</td>
-            <td>
-              1st Place: ECE + Metallurgy <br>
-              2nd Place: Electrical  <br>
-              3rd Place: Civil <br>
-              4th Place: M1
+              2nd runner up <br>
+              <br>
             </td>
           </tr>
         </tbody>

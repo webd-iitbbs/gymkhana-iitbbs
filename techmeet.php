@@ -210,6 +210,80 @@ Audience Measurement (Mid Prep)</td>
         </tbody>
       </table>
     </div>
+
+    <br /> <br />
+
+    <section class="section-sm">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <div class="d-flex align-items-center section-title justify-content-between">
+            <h2 class="mb-0 text-nowrap mr-3">Participation in TechMeet 9.0</h2>
+            <div class="border-top w-100 border-primary d-none d-sm-block"></div>
+          </div>
+        </div>
+      </div>
+      <br>
+
+      <table class="table">
+        <thead>
+          <tr>
+            <th scope="col">#</th>
+            <th scope="col">Competition</th>
+            <th scope="col">Position</th>
+            <th scope="col">Details</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th scope="row">1</th>
+            <td>Saptang Lab's Network Security Hackathon (Low Prep)</td>
+            <td>Bronze medal</td>
+            <td>
+              Team members:<br>
+              1.Akarsh Rana 2.Ganesh Ram Kaushik 3.Ankit Anand 4.Raushan Kumar 5.Shravanth Chebrolu
+            </td>
+          </tr>
+          
+        </tbody>
+      </table>
+    </div>
+
+    <section class="section-sm">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <div class="d-flex align-items-center section-title justify-content-between">
+            <h2 class="mb-0 text-nowrap mr-3">Participation in TechMeet 10.0</h2>
+            <div class="border-top w-100 border-primary d-none d-sm-block"></div>
+          </div>
+        </div>
+      </div>
+      <br>
+
+      <table class="table">
+        <thead>
+          <tr>
+            <th scope="col">#</th>
+            <th scope="col">Competition</th>
+            <th scope="col">Position</th>
+            <th scope="col">Details</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th scope="row">1</th>
+            <td>Gmetri's growth strategy for metaverse (Low prep)</td>
+            <td>Bronze medal</td>
+            <td>
+              Team members:<br>
+              1.Gandem Nitin 2.Srinath Duvvuri 3.Subhranshu P. Nayak 4.Deekshitha Chandra P.
+            </td>
+          </tr>
+          
+        </tbody>
+      </table>
+    </div>
              
   <!-- ======= Footer ======= -->
   <footer id="footer">

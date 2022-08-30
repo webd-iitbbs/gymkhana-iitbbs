@@ -725,7 +725,7 @@ Tennis is an upcoming sport at our campus, with active development of courts und
                   <div class="g-margin-b-30--xs">
                       <h3 class="g-font-size-32--xs g-font-size-36--sm">GYM AND WEIGHTLIFTING</h3>
                       <p>
-                      The worst thing I can be is the same as everyone else and I hate it. The gym is not a social place for the fit, it is a place where an individual transforms himself into someone different from the crowd. IIT Bhubaneswar provides its residents with a fully functional gym which is a perfect combo of modern machines and old school weight training. It not only helps you build muscle but also keeps your mental health in a perfect condition.
+                      "The worst thing I can be is the same as everyone else and I hate it" - Arnold Schwarzenegger.<br><br> The gym is not a social place for the fit, it is a place where an individual transforms himself into someone different from the crowd. IIT Bhubaneswar provides its residents with a fully functional gym which is a perfect combo of modern machines and old school weight training. It not only helps you build muscle but also keeps your mental health in a perfect condition.
 So be ready to channelise your energy and hit the gym and transform your mind and soul.
         </p>
                   </div>
