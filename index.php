@@ -106,6 +106,15 @@ try {
             </div>
           </div>
 
+          <div class="carousel-item" style="background-image: url(assets/img/6.jpg)">
+            <div class="carousel-container">
+              <div class="container">
+                <h3> STUDENTS' GYMKHANA </h3>
+                <h3> IIT BHUBANESWAR</h3>
+              </div>
+            </div>
+          </div>
+
           <div class="carousel-item" style="background-image: url(assets/img/3.jpg)">
             <div class="carousel-container">
               <div class="container">
@@ -114,6 +123,8 @@ try {
               </div>
             </div>
           </div>
+
+          
 
           <div class="carousel-item" style="background-image: url(assets/img/4.jpg)">
             <div class="carousel-container">
@@ -133,14 +144,7 @@ try {
             </div>
           </div>
 
-          <div class="carousel-item" style="background-image: url(assets/img/6.jpg)">
-            <div class="carousel-container">
-              <div class="container">
-                <h3> STUDENTS' GYMKHANA </h3>
-                <h3> IIT BHUBANESWAR</h3>
-              </div>
-            </div>
-          </div>
+          
 
         </div>
 

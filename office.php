@@ -623,7 +623,7 @@
           <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
             <div class="flip-team">
               <div class="front-A h-100">
-                <div class="card profile-card-5 bor-no" data-image-src="assets/img/office/phd1.jpg">
+                <div class="card profile-card-5 bor-no" data-image-src="assets/img/office/phd.jpg">
                   <div class="social-line">
                     <ul>
                       <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
@@ -631,7 +631,7 @@
                     </ul>
                   </div>
                   <div class="text-content">
-                    <h3>Shubham Tirmanwar</h3>
+                    <h3>Shubham Rao</h3>
                     <p>PhD Representative</p>
                   </div>
                   <div class="filter"></div>
@@ -639,7 +639,7 @@
               </div>
               <div class="back-b h-100">
                 <div class="card bor-no">
-                  <h4 class="card-title">Shubham Tirmanwar</h4>
+                  <h4 class="card-title">Shubham Rao</h4>
                   
                   <p class="card-text">PhD Representative</p>
                   <p class="card-text">IIT BHUBANESHWAR</p>
