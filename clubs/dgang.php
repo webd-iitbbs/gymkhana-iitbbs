@@ -199,7 +199,7 @@ try {
             <center>
             <a href="https://www.instagram.com/dgang_iitbbs/" class="instagram"><i class="fa fa-instagram"></i></a>
             <a href="https://www.facebook.com/dgangiitbbs/" class="facebook"><i class="fa fa-facebook"></i></a>
-
+            <a href="https://youtube.com/channel/UCNKzm1_Q6wzazBTY05aK3Lg" class="youtube"><i class="fa fa-youtube"></i></a>
             </center>
           </div>
         </div>
