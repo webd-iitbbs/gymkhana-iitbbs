@@ -90,7 +90,7 @@ try {
       <div class="banner-image-dgang"></div>
       <div class="banner-text text-center">
         <img src="../assets/img/society logos/dgang.png" height="100px" width="auto" alt="">
-        <h1>DGANG</h1>
+        <h1>D-GANG</h1>
         <p style="color: white;">DANCE SOCIETY</p>
         <p><span class="descripeMe"></span></p>
         <!-- <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#">About us</a> -->
