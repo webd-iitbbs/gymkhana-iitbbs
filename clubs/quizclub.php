@@ -90,7 +90,7 @@ try {
       <div class="banner-image-quizclub"></div>
       <div class="banner-text text-center">
         <img src="../assets/img/society logos/quizclub.png" height="100px" width="auto" alt="">
-        <h1>QUIZ CLUB</h1>
+        <h1>QUIZ SOCIETY</h1>
         <p style="color: white;"></p>
         <p><span class="descripeMe"></span></p>
         <!-- <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#">About us</a> -->
@@ -205,7 +205,7 @@ try {
                   <p class="card-text"></p>
                   <div class="social-links">
                     <center>
-                      <a href="https://www.instagram.com/quizclub.iitbbs/" class="instagram"><i class="fa fa-instagram"></i></a>
+                      <a href="https://www.instagram.com/quizsoc.iitbbs/" class="instagram"><i class="fa fa-instagram"></i></a>
                       <a href="https://www.facebook.com/QFactorIITBBS" class="facebook"><i class="fa fa-facebook"></i></a>
                     </center>
                   </div>
@@ -266,12 +266,12 @@ try {
         <div class="row">
           <div class="card" style="width: 18rem;">
             <div class="card-body">
-              <h5 class="card-title">Ravi Krishnamurthy</h5>
-              <h6 class="card-subtitle mb-2 text-muted">CLUB HEAD</h6>
+              <h5 class="card-title">ADARSH KUMAR TARIA</h5>
+              <h6 class="card-subtitle mb-2 text-muted">SECRETARY</h6>
               <p class="card-text"></p>
               <center>
-                <!-- <a href="tel:9643076289" class="phone"><i class="fa fa-phone"></i></a> -->
-                <a href="mailto:rkb15@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                <a href="tel:9078155020" class="phone"><i class="fa fa-phone"></i></a>
+                <a href="mailto:quizclub@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
               </center>
             </div>
           </div>
@@ -282,23 +282,34 @@ try {
         <div class="row justify-content-center">
           <div class="card" style="width: 18rem;">
             <div class="card-body">
-              <h5 class="card-title">Rahul Rajeev</h5>
+              <h5 class="card-title">AKSHITHA YEDLA</h5>
               <h6 class="card-subtitle mb-2 text-muted">GOVERNOR</h6>
               <p class="card-text"></p>
               <center>
-                <a href="tel:9207504158" class="phone"><i class="fa fa-phone"></i></a>
-                <a href="mailto:rr27@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                <a href="tel:9900933022" class="phone"><i class="fa fa-phone"></i></a>
+                <a href="mailto:20me01025@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
               </center>
             </div>
           </div>
           <div class="card" style="width: 18rem;">
             <div class="card-body">
-              <h5 class="card-title">Deepak Mahalik</h5>
+              <h5 class="card-title">VEDANTA MOHAPATRA</h5>
               <h6 class="card-subtitle mb-2 text-muted">GOVERNOR</h6>
               <p class="card-text"></p>
               <center>
-                <a href="tel:7008248735" class="phone"><i class="fa fa-phone"></i></a>
-                <a href="mailto:dm16@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                <a href="tel:8148158400" class="phone"><i class="fa fa-phone"></i></a>
+                <a href="mailto:20ce01004@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+              </center>
+            </div>
+          </div>
+          <div class="card" style="width: 18rem;">
+            <div class="card-body">
+              <h5 class="card-title">AAYUSH GAHAN</h5>
+              <h6 class="card-subtitle mb-2 text-muted">GOVERNOR</h6>
+              <p class="card-text"></p>
+              <center>
+                <a href="tel:7846885309" class="phone"><i class="fa fa-phone"></i></a>
+                <a href="mailto:20cs01039@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
               </center>
             </div>
           </div>

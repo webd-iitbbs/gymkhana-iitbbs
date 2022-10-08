@@ -108,7 +108,7 @@ by IIT Council. The previous edition of the meet was hosted by IIT Kharagpur. Pr
 collaborative events targeting networking and knowledge sharing and
 competitive events which fuel innovative work with given constraints to
 meet the mission and vision of Tech Meet.<br>
-IIT Kanpur will host the 11th Inter IIT Tech Meet in December 2022. The 3 day meet will see the best minds from the 23 IITs come
+IIT Kanpur will host the 11th Inter IIT Tech Meet in January 2023. The 3 day meet will see the best minds from the 23 IITs come
 together to find feasible solutions to real-life industry problems offered by bigwigs
 such as DRDO SASE, BITGRIT Japan and The Ashoka Foundation.
 </p>
