@@ -431,6 +431,12 @@ h1, h2, h3, h4, h5, h6 {
   height: 750px;
   opacity: 1;
 }
+#banner div.banner-image-febs {
+  background: url('../img/Soc-Images/febs3.JPG');
+  background-size: cover;
+  height: 750px;
+  opacity: 1;
+}
 #banner div.banner-image-nakshatra {
   background: url('../img/Soc-Images/nakshatra.jpg');
   background-size: cover;

@@ -119,7 +119,7 @@ try {
                         <br>
                         <h2>About Us</h2>
                     </div>
-                    <p>Web and Design society is responsible for managing and designing all of the institute's websites. It teaches students the skill and art of designing websites and club designs. Members of the organization actively organize competitions for novice and experienced web developers. The first impression of an institution, its fests, or anything else is unquestionably its website. The Web and Design society ensures that this first impression is impressive, informative, up-to-date, effortless, and therefore long-lasting. This society manages all website-related matters for the institute and helps students develop their creativity and master the essential skill of website design.</p>
+                    <p>Web and Design society is responsible for managing and designing all of the institute's websites. As a part of the Science and Technology Council, we aim to provide a gateway for the people in our institute to join the developer community. It teaches students the skill and art of designing websites and club designs. Members of the organization actively organize competitions for novice and experienced web developers. The first impression of an institution, its fests, or anything else is unquestionably its website. The Web and Design society ensures that this first impression is impressive, informative, up-to-date, effortless, and therefore long-lasting. This society manages all website-related matters for the institute and helps students develop their creativity and master the essential skill of website design.</p>
 
                 </div>
             </div>

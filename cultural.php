@@ -332,27 +332,34 @@
                 <div class="row">
                     <div class="col-sm-6" style="padding-right:  30px;">
                         <div class="g-margin-b-30--xs">
-                            <h3 class="g-font-size-32--xs g-font-size-36--sm">The Literary Society (Panacea, Abhivyakti and Quiz Club) </h3>
+                            <h3 class="g-font-size-32--xs g-font-size-36--sm">The Literary Society (Panacea, Abhivyakti and Quiz Society) </h3>
                             <p>
 
-The ability to express your thoughts and ideas effectively is of paramount importance to succeed in your career as well as life in general. Panacea and Abhivyakti work for the development of the communication and language skills of the students (in English and Hindi, respectively), while the Quiz Club is an open society aimed at encouraging students to expand their knowledge beyond  the conventional and establishing a relationship between theory and application of the learnt concepts in a fun manner.
+The ability to express your thoughts and ideas effectively is of paramount importance to succeed in your career as well as life in general. Panacea and Abhivyakti work for the development of the communication and language skills of the students (in English and Hindi, respectively), while the Quiz Society is an open society aimed at encouraging students to expand their knowledge beyond the conventional and establishing a relationship between theory and application of the learnt concepts in a fun manner.
                             </p>
                         </div>
                         <a href="clubs/panacea.php" class=" cta text-uppercase s-btn s-btn--sm s-btn--primary-brd g-radius--50 g-padding-x-40--xs">
-                          <span>EXPLORE PANACEA</span>
+                          <span>PANACEA</span>
                           <svg width="13px" height="10px" viewBox="0 0 13 10">
                             <path d="M1,5 L11,5"></path>
                             <polyline points="8 1 12 5 8 9"></polyline>
                           </svg>
                         </a>
                         <a href="clubs/quizclub.php" class=" cta ">
-                          <span>EXPLORE QUIZ CLUB</span>
+                          <span>QUIZ SOCIETY</span>
                           <svg width="13px" height="10px" viewBox="0 0 13 10">
                             <path d="M1,5 L11,5"></path>
                             <polyline points="8 1 12 5 8 9"></polyline>
                           </svg>
                         </a>
-                        
+                        <a href="clubs/abhivyakti.php" class=" cta ">
+                          <span>ABHIVYAKTI</span>
+                          <svg width="13px" height="10px" viewBox="0 0 13 10">
+                            <path d="M1,5 L11,5"></path>
+                            <polyline points="8 1 12 5 8 9"></polyline>
+                          </svg>
+                        </a>
+
                     </div>
                 </div>
             </div>

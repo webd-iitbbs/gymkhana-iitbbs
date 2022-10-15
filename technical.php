@@ -163,16 +163,7 @@
 
         <div class="carousel-inner" role="listbox">
 
-          <div class="carousel-item active" style="background-image: url(./assets/img/Soc-Images/technical.jpg)">
-            <div class="carousel-container">
-              <div class="container">
-                <h3> TECHNICAL COUNCIL </h3>
-                <h3> IIT BHUBANESWAR</h3>
-              </div>
-            </div>
-          </div>
-
-          <div class="carousel-item" style="background-image: url(./assets/img/Soc-Images/risc.jpg)">
+          <div class="carousel-item active" style="background-image: url(./assets/img/Soc-Images/risc.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <h3> TECHNICAL COUNCIL </h3>
@@ -200,6 +191,15 @@
           </div>
 
           <div class="carousel-item" style="background-image: url(./assets/img/Soc-Images/webd1.jpg)">
+            <div class="carousel-container">
+              <div class="container">
+                <h3> TECHNICAL COUNCIL </h3>
+                <h3> IIT BHUBANESWAR</h3>
+              </div>
+            </div>
+          </div>
+
+          <div class="carousel-item" style="background-image: url(./assets/img/Soc-Images/fintech.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <h3> TECHNICAL COUNCIL </h3>
@@ -257,16 +257,16 @@
   <div class="g-promo-section">
       <div class="container-sp g-padding-y-80--xs g-padding-y-125--sm">
           <div class="row">
-              <div class="col-sm-6" style="padding:  30px;">
+              <div class="col-sm-6" style="padding: 30px;">
                   <div class="g-margin-b-30--xs">
-                      <h3 class="g-font-size-32--xs g-font-size-36--sm">Nakshatra, The Astronomy Club</h3>
+                      <h3 class="g-font-size-32--xs g-font-size-36--sm">Web and Design Society (WebnD)</h3>
                       <p>
 
-        The recently established society aims at enhancing and sharing humanity's scientific understanding of the universe. Armed with its newly acquired state of the art telescopes, the members of this club study celestial objects and phenomena of the 14-billion-year-old vast universe independently. The club also publishes a newsletter regularly.
+        The Web and Design Society of IIT Bhubaneswar has the credit of managing and designing all the websites of the institute. We aim to inspire people to select web development as their second hobby and transform them into creative professionals by equipping them with the skill and art of creating websites and club designs. Members of the society actively conduct competitions and workshops for beginners and advanced web developers.
 
         </p>
                   </div>
-                  <a href="clubs/nakshatra.php" class=" cta ">
+                  <a href="clubs/webd.php" class=" cta ">
                           <span>EXPLORE</span>
                           <svg width="13px" height="10px" viewBox="0 0 13 10">
                             <path d="M1,5 L11,5"></path>
@@ -276,7 +276,7 @@
               </div>
           </div>
       </div>
-      <div class="col-sm-6 g-promo-section__img-right--md g-bg-position--center g-height-400--xs g-height-100-percent--md js__fullwidth-img" style="background-image: url(./assets/img/Soc-Images/technical2.jpg);">
+      <div class="col-sm-6 g-promo-section__img-right--md g-bg-position--center g-height-400--xs g-height-100-percent--md js__fullwidth-img" style="background-image: url(./assets/img/Soc-Images/technical4.jpg);">
       </div>
   </div>
 
@@ -308,20 +308,19 @@
       </div>
   </div>
 
-
   <div class="g-promo-section">
       <div class="container-sp g-padding-y-80--xs g-padding-y-125--sm">
           <div class="row">
-              <div class="col-sm-6" style="padding: 30px;">
+              <div class="col-sm-6" style="padding:  30px;">
                   <div class="g-margin-b-30--xs">
-                      <h3 class="g-font-size-32--xs g-font-size-36--sm">Web and Design Society</h3>
+                      <h3 class="g-font-size-32--xs g-font-size-36--sm">Nakshatra, The Astronomy Club</h3>
                       <p>
 
-        The Web and Design Society of IIT Bhubaneswar has the credit of managing and designing all the websites of the institute. We aim to inspire people to select web development as their second hobby and transform them into creative professionals by equipping them with the skill and art of creating websites and club designs. Members of the society actively conduct competitions and workshops for beginners and advanced web developers.
+        The recently established society aims at enhancing and sharing humanity's scientific understanding of the universe. Armed with its newly acquired state of the art telescopes, the members of this club study celestial objects and phenomena of the 14-billion-year-old vast universe independently. The club also publishes a newsletter regularly.
 
         </p>
                   </div>
-                  <a href="clubs/webd.php" class=" cta ">
+                  <a href="clubs/nakshatra.php" class=" cta ">
                           <span>EXPLORE</span>
                           <svg width="13px" height="10px" viewBox="0 0 13 10">
                             <path d="M1,5 L11,5"></path>
@@ -331,7 +330,35 @@
               </div>
           </div>
       </div>
-      <div class="col-sm-6 g-promo-section__img-right--md g-bg-position--center g-height-400--xs g-height-100-percent--md js__fullwidth-img" style="background-image: url(./assets/img/Soc-Images/technical4.jpg);">
+      <div class="col-sm-6 g-promo-section__img-right--md g-bg-position--center g-height-400--xs g-height-100-percent--md js__fullwidth-img" style="background-image: url(./assets/img/Soc-Images/technical2.jpg);">
+      </div>
+  </div>
+
+
+  <div class="g-promo-section">
+      <div class="container-sp g-padding-y-80--xs g-padding-y-125--sm">
+          <div class="row">
+              <div class="col-sm-6 offset-sm-6" style="padding:  30px;">
+                  <div class="g-margin-b-30--xs">
+                      <h3 class="g-font-size-32--xs g-font-size-36--sm">Society of Finance, Economics and Business (FEBS)</h3>
+                      <p>
+
+                      FEBS is IIT Bhubaneswar's society of finance, economics, and business. The community is an agglomerate of enthusiastic people brought together by their love for finance, economics, and business and their aspiration to spread the importance of financial literacy in IIT Bhubaneswar. The prime motto of our society is to encourage the development of financial literacy,  economic thought, and business ideas.
+
+
+        </p>
+                  </div>
+                  <a href="clubs/febs.php" class=" cta ">
+                          <span>EXPLORE</span>
+                          <svg width="13px" height="10px" viewBox="0 0 13 10">
+                            <path d="M1,5 L11,5"></path>
+                            <polyline points="8 1 12 5 8 9"></polyline>
+                          </svg>
+                        </a>
+              </div>
+          </div>
+      </div>
+      <div class="col-sm-6 col-sm-pull-6 g-promo-section__img-right--md g-promo-section__img-left--md g-bg-position--center g-height-400--xs g-height-100-percent--md js__fullwidth-img" style="background-image: url(./assets/img/Soc-Images/febs.jpg);">
       </div>
   </div>
 
