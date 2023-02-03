@@ -89,7 +89,7 @@ try {
     <div id="banner" class="col-md-12 col-xs-12">
       <div class="banner-image-quizclub"></div>
       <div class="banner-text text-center">
-        <img src="../assets/img/society logos/quizclub.png" height="100px" width="auto" alt="">
+        <img src="../assets/img/society logos/abhivyakti.png" height="100px" width="auto" alt="">
         <h1>ABHIVYAKTI</h1>
         <p style="color: white;"></p>
         <p><span class="descripeMe"></span></p>
@@ -149,7 +149,7 @@ try {
 
 
 
-        <div class="row">
+        <!-- <div class="row">
           <div class="col-md-8">
             <div class="text-center">
               <div class="card" id="happenings">
@@ -194,7 +194,7 @@ try {
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
           <div class="col-md-4" id="links">
             <div class="follow">
               <div class="card">
