@@ -456,6 +456,14 @@ h1, h2, h3, h4, h5, h6 {
   height: 750px;
   opacity: 1;
 }
+
+#banner div.banner-image-abhivyakti {
+  background: url('../img/Soc-Images/abhivyakti1.jpg');
+  background-size: cover;
+  height: 750px;
+  opacity: 1;
+}
+
 #banner div.banner-image-webd {
   background: url('../img/Soc-Images/webd.jpg');
   background-size: cover;

@@ -87,7 +87,7 @@ try {
   <!--Start Banner-->
   <div class="row">
     <div id="banner" class="col-md-12 col-xs-12">
-      <div class="banner-image-quizclub"></div>
+      <div class="banner-image-abhivyakti"></div>
       <div class="banner-text text-center">
         <img src="../assets/img/society logos/abhivyakti.png" height="100px" width="auto" alt="">
         <h1>ABHIVYAKTI</h1>
@@ -107,7 +107,7 @@ try {
           <br>
           <br>
 
-          <img src="../assets/img/Soc-Images/quizclub(1).jpg" class="img-fluid" width="500px" height="auto" alt="">
+          <img src="../assets/img/Soc-Images/abhivyakti2.jpg" class="img-fluid" width="500px" height="auto" alt="">
 
           <br>
 
@@ -117,15 +117,7 @@ try {
             <br><br>
             <h2>About Us</h2>
           </div>
-          <p>Quiz Club was formed with a motive to promote curiosity among
-            students regarding events and origin of things we observe around us
-            while gaining some knowledge and having fun with it.
-            We also have themed quizzes on occasions like Rashtriya Ekta Diwas,
-            Women’s Day. Our Instagram page has quizzes covering a plethora of topics like – Football, IPL,
-            Ramayana, Current Affairs, Olympics, Engineering,
-            Food and travel, Business, Olympics, Bollywood, cartoons, etc.
-            Apart from representing the institute at the prestigious Springfestof IIT Kharagpur,
-            Quiz Club has gained exposure by participating and bagging prizes in various Quiz contests.
+          <p>"Abhivyakti" means 'expressing one's own thoughts'.  Psychologists have considered expression as the main tool for the adjustment of personality.  Through this man illuminates his feelings and gives form to his feelings.  The main goal of the Hindi Literary Society of Indian Institute of Technology Bhubaneshwar "Abhivyakti" is to provide a meaningful platform to the students of the institute through which they can express their thoughts, feelings and imaginations through dialogues, articles, poems, satires, essays etc.  Along with this, the aim of the club is to develop the enthusiasm towards Hindi literature. The society is committed to encourage literary writing and reading in the institute and always inspires the students of the institute to write literary compositions.  Every year the committee organizes many interesting events like debate, poetry writing and presentation, creative writing, Yaad Watan Ki, composition of Republic competitions in the institute.  Apart from this, during Hindi Pakhwada (15 days program), students organize Kavi Sammelan, Meri Kriti, Awaaz Dil Ki, Bas Yeh Pal, Kavya Sarita (Poet Conference) in which various competitions and workshops are organized.  "Abhivyakti" The Hindi Literary Society was established in September 2015. The following students played an important role in foundation of the society :- Founder: Vivek Pratap Singh, Co-Founder: Anurag Verma, Shashank Shekhar 
           </p>
 
         </div>
@@ -205,8 +197,8 @@ try {
                   <p class="card-text"></p>
                   <div class="social-links">
                     <center>
-                      <a href="https://www.instagram.com/quizsoc.iitbbs/" class="instagram"><i class="fa fa-instagram"></i></a>
-                      <a href="https://www.facebook.com/QFactorIITBBS" class="facebook"><i class="fa fa-facebook"></i></a>
+                      <a href="https://www.instagram.com/abhivyakti_iitbbs/" class="instagram"><i class="fa fa-instagram"></i></a>
+                      <a href="https://www.facebook.com/abhivyakti.iitbbs" class="facebook"><i class="fa fa-facebook"></i></a>
                     </center>
                   </div>
                 </div>
@@ -266,12 +258,12 @@ try {
         <div class="row">
           <div class="card" style="width: 18rem;">
             <div class="card-body">
-              <h5 class="card-title">ADARSH KUMAR TARIA</h5>
+              <h5 class="card-title">HARSH RAJ</h5>
               <h6 class="card-subtitle mb-2 text-muted">SECRETARY</h6>
               <p class="card-text"></p>
               <center>
-                <a href="tel:9078155020" class="phone"><i class="fa fa-phone"></i></a>
-                <a href="mailto:quizclub@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                <a href="tel:7903980370" class="phone"><i class="fa fa-phone"></i></a>
+                <a href="mailto:secylitsoc.sg@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
               </center>
             </div>
           </div>
@@ -282,34 +274,34 @@ try {
         <div class="row justify-content-center">
           <div class="card" style="width: 18rem;">
             <div class="card-body">
-              <h5 class="card-title">AKSHITHA YEDLA</h5>
+              <h5 class="card-title">PRINCE PARIMAL</h5>
               <h6 class="card-subtitle mb-2 text-muted">GOVERNOR</h6>
               <p class="card-text"></p>
               <center>
-                <a href="tel:9900933022" class="phone"><i class="fa fa-phone"></i></a>
-                <a href="mailto:20me01025@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                <a href="tel:7280874904" class="phone"><i class="fa fa-phone"></i></a>
+                <a href="mailto:20mm01020@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
               </center>
             </div>
           </div>
           <div class="card" style="width: 18rem;">
             <div class="card-body">
-              <h5 class="card-title">VEDANTA MOHAPATRA</h5>
+              <h5 class="card-title">PRASAD RAVINDRA KUKDE</h5>
               <h6 class="card-subtitle mb-2 text-muted">GOVERNOR</h6>
               <p class="card-text"></p>
               <center>
-                <a href="tel:8148158400" class="phone"><i class="fa fa-phone"></i></a>
-                <a href="mailto:20ce01004@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                <a href="tel:9665268042" class="phone"><i class="fa fa-phone"></i></a>
+                <a href="mailto:20cs01012@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
               </center>
             </div>
           </div>
           <div class="card" style="width: 18rem;">
             <div class="card-body">
-              <h5 class="card-title">AAYUSH GAHAN</h5>
+              <h5 class="card-title">SUMIT YADAV</h5>
               <h6 class="card-subtitle mb-2 text-muted">GOVERNOR</h6>
               <p class="card-text"></p>
               <center>
                 <a href="tel:7846885309" class="phone"><i class="fa fa-phone"></i></a>
-                <a href="mailto:20cs01039@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
+                <a href="mailto:20me02041@iitbbs.ac.in" class="mail"><i class="fa fa-envelope"></i></a>
               </center>
             </div>
           </div>
